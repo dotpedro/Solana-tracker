@@ -1,15 +1,44 @@
-certifi==2025.4.26
-charset-normalizer==3.4.2
+# Core utilities
+requests==2.32.3
+python-dotenv==1.0.1
+schedule==1.2.2
+tqdm==4.67.1
 colorama==0.4.6
-idna==3.10
 numpy==2.2.5
 pandas==2.2.3
-python-dateutil==2.9.0.post0
-python-dotenv==1.1.0
 pytz==2025.2
-requests==2.32.3
-schedule==1.2.2
-six==1.17.0
-tqdm==4.67.1
+python-dateutil==2.9.0.post0
 tzdata==2025.2
-urllib3==2.4.0
+
+# Networking & Websocket stack
+httpx==0.27.2
+websocket-client==1.8.0
+websockets==12.0
+
+# Telegram framework
+python-telegram-bot>=21.0.0
+
+# Selenium + scraping
+selenium==4.21.0
+webdriver-manager==4.0.1
+beautifulsoup4==4.12.3
+bs4==0.0.2
+
+# Solana + Solders + transaction decoding
+solana==0.30.0
+solders==0.20.0
+construct==2.10.68
+base58==2.1.1
+
+# OpenAI GPT modules
+openai>=1.9.0
+
+# Extra dependencies often required by above libraries
+typing_extensions>=4.10.0
+certifi>=2024.6.0
+charset-normalizer>=3.4.0
+idna>=3.7
+urllib3>=2.2.0
+
+
+# This still needs several additional dependencies, but these are the essential ones required for the scripts that remain functional and haven’t been deprecated.
