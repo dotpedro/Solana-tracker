@@ -472,6 +472,155 @@ trade_executioner (paper/live)
 
 ---
 
+**Required API Keys**
+
+🔑 1. **Helius RPC (Required)**
+
+Used for:
+
+on-chain data
+
+token discovery
+
+transaction decoding
+
+program logs
+
+RPC reliability
+
+Env:
+
+HELIUS_API_KEY=
+RPC_URL=...helius-rpc.com/?api-key=
+
+
+User must create an account here:
+👉 https://www.helius.dev/
+
+🔑 2. **Birdeye REST API (Required)**
+
+Used for:
+
+token price
+
+volume & liquidity
+
+holder data
+
+OHLCV
+
+additional metadata
+
+Env:
+
+BIRDEYE_API_KEY=
+API_BIRDEYE_OVERRIDE=true
+
+
+Get API Key:
+👉 https://birdeye.so/
+
+🔑 3. **Birdeye WebSocket API (Required for EM + Execution)**
+
+If users run the Exhaustion Monitor or Executioner, they MUST enable:
+
+BIRDEYE_WS_URL=
+BIRDEYE_WS_API_KEY=
+BIRDEYE_WS_ON=1
+
+
+Birdeye uses the same API key for WebSocket.
+(Your config reuses your REST key.)
+
+🔑 4. **Telegram Bot API (Required for alerts & commands)**
+
+Users need:
+
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+
+
+This requires creating a bot via @BotFather.
+
+🔑 5. **OpenAI API (Optional but Recommended)**
+
+Used only for:
+
+GPT gating
+
+semantic filtering
+
+arbitration in Trade Manager
+
+optional swap decisions
+
+Env:
+
+OPENAI_API_KEY=
+ENABLE_GPT_GATE=0/1
+GPT_MODEL=gpt-4o-mini
+GPT_MIN_CONF=
+GPT_SWAP_ON=
+
+
+Get key:
+👉 https://platform.openai.com/
+
+🔑 6. **Jupiter Swap API (Required for LIVE trading)**
+
+Your executioner uses Jupiter’s swap endpoint implicitly via RPC + instructions.
+
+Must configure:
+
+JUP_USE_PRO=0
+SLIPPAGE_BPS_LIVE=
+WRAP_UNWRAP_SOL=
+DYNAMIC_CU_LIMIT=
+PRIO_LEVEL=
+PRIO_LAMPORTS_MAX=
+
+
+User doesn’t need a Jupiter API key,
+but they must have:
+
+Sufficient SOL for fees
+
+Correct RPC configuration
+
+Private key loaded
+
+🔑 7. **Solana Private Key (Required for live trading)**
+
+Executioner v2 requires:
+
+PRIVATE_KEY_BASE58=
+TRADER_PUBLIC_KEY=
+
+
+This is the wallet used for live swaps.
+
+🔧 8. **Optional Services / Config**
+GMGN API (optional)
+
+Used only if GMGN metadata support is enabled.
+
+Dexscreener
+
+Used as a fallback in price aggregation (no key needed).
+
+Websocket Configuration
+
+Needed if user wants high-frequency monitoring:
+
+WS_ENABLE=
+WS_RECONNECT_SECS=
+REST_POLL_SECS=
+MAX_PRICE_STALENESS_SECS=
+OUTLIER_PCT=
+PRICE_PREF=
+
+---
+
 # 🎯 **Conclusion**
 
 This repository contains:
