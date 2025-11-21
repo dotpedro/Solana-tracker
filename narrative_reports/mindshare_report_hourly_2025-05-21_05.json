@@ -1,0 +1,112 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T05:03:19.766248+00:00",
+  "target_creation_hour_id": "2025-05-21_05",
+  "total_tokens_in_categorized_file": 849,
+  "total_valid_tokens_analyzed": 849,
+  "pre_bond_category_distribution_after_refinement": {
+    "Pop Culture": 189,
+    "Celebrity": 25,
+    "Other Meme": 88,
+    "Food": 24,
+    "Location": 17,
+    "Animal (Other)": 64,
+    "Abstract": 138,
+    "Tech": 76,
+    "Unclear/Generic": 125,
+    "Dog Meme": 27,
+    "AI Related": 15,
+    "Meme": 9,
+    "Event": 4,
+    "Emoji Related": 1,
+    "Cat Meme": 16,
+    "Political Figure": 24,
+    "Community": 6,
+    "Game": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 2,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 24,
+    "Abstract": 21
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_05 (UTC): 849 valid pre-bond tokens analyzed (Total in categorized file: 849). 2 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 24), Abstract (score: 21) Top overall pre-bond categories this hour (after refinement): Pop Culture (189), Abstract (138), Unclear/Generic (125)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "CXxk6tHMpYS2JpKwWFgoeuDmuYKbXgu3K1FU9Szkpump",
+      "bonded_token_name": "MEMEPLOYED",
+      "bonded_token_symbol": "MEMEPLOYED",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T04:21:04.109940+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T04:29:38.111767+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "BTC - Bullish Trenchers Community (Category: Pop Culture)",
+          "Cheers - Cheers (Category: Pop Culture)",
+          "COIN - Community Over Insider News (Category: Pop Culture)",
+          "OLLIE - New Pepsi Mascot (Category: Pop Culture)",
+          "TO - TESLA OPTIMUS (Category: Pop Culture)",
+          "Wizard - The Wizard Community (Category: Pop Culture)",
+          "TrollTribe - TrollTribeFlex (Category: Pop Culture)",
+          "Feature - Featured (Category: Pop Culture)",
+          "FLEX - FlexYourDesk (Category: Pop Culture)",
+          "Pocoro - ポコロ (Category: Pop Culture)",
+          "Delusional - Delusionally Bullish Community (Category: Pop Culture)",
+          "backflip - backflip coin (Category: Pop Culture)",
+          "MOB - The Corleone Community (Category: Pop Culture)",
+          "love - you can now buy (Category: Pop Culture)",
+          "DMOJI - Doge Emoji (Category: Dog Meme)",
+          "DGENX - DGENX (Category: Pop Culture)",
+          "REVENGE - Revenge Arc (Category: Pop Culture)",
+          "DREAM - You Can Now Buy Dream (Category: Pop Culture)",
+          "GOATS - GOATSEUS MAXIMUS (Category: Pop Culture)",
+          "WIFIUS - Wifius Maximus (Category: Pop Culture)",
+          "PUMP - LIVE ON PUMP (Category: Pop Culture)",
+          "LFLS - Like Father Like Son (Category: Pop Culture)",
+          "Yelon - The Yelon Muk (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 23
+      }
+    },
+    {
+      "bonded_token_mint": "D5eE5RJKFUKJSu5CXfSwDDYJchfvERXmeZTxPKNBpump",
+      "bonded_token_name": "ASS500",
+      "bonded_token_symbol": "ASS500",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T04:35:34.728890+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T04:36:44.861560+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "BTC - Broke Trenchers Community (Category: Abstract)",
+          "flipcoin - Flipcoin (Category: Abstract)",
+          "BTC - Broke Trenchers Community (Category: Abstract)",
+          "CryptoTrib - CryptoTribeMayhem (Category: Abstract)",
+          "flipcoin - Flipcoin (Category: Abstract)",
+          "SnakeOil - The Snake Oil Effect (Category: Abstract)",
+          "Gasfees - You Can Now Buy (Category: Abstract)",
+          "BUY - Neuron Activation (Category: Abstract)",
+          "Wood - This bundle will hit a million (Category: Abstract)",
+          "SolFi - SolFi (Category: Abstract)",
+          "🫃 - 🫃 (Category: Abstract)",
+          "🫃 - 🫃 (Category: Abstract)",
+          "Go - To SLEEP (Category: Abstract)",
+          "Solana - Biggest Solana Community (Category: Abstract)",
+          "gambling - the gambling community (Category: Abstract)",
+          "🫃 - 🫃 (Category: Abstract)",
+          "Heartify - Heartification (Category: Abstract)",
+          "LAB - LOSE A BWNR (Category: Abstract)",
+          "dᴉlℲ - Flip Flipcoin (Category: Abstract)",
+          "COLOR - Colorization (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T16:03:48.343145+00:00",
+  "target_creation_hour_id": "2025-05-21_16",
+  "total_tokens_in_categorized_file": 2018,
+  "total_valid_tokens_analyzed": 2017,
+  "pre_bond_category_distribution_after_refinement": {
+    "Abstract": 156,
+    "Dog Meme": 75,
+    "Political Figure": 90,
+    "Food": 33,
+    "Event": 18,
+    "Unclear/Generic": 597,
+    "Animal (Other)": 172,
+    "Tech": 240,
+    "Pop Culture": 321,
+    "Location": 14,
+    "Other Meme": 152,
+    "AI Related": 56,
+    "Celebrity": 46,
+    "Sports": 3,
+    "Financial": 2,
+    "Cat Meme": 12,
+    "Adult Content": 1,
+    "Meme": 9,
+    "Fashion": 2,
+    "Religious": 1,
+    "Pokemon": 1,
+    "Media": 1,
+    "Health": 3,
+    "Artist": 3,
+    "Ghost Meme": 1,
+    "Anime Character": 1,
+    "Community": 1,
+    "Movie/TV Show": 1,
+    "Sports Figure": 1,
+    "Video Game": 1,
+    "Sports Team": 2,
+    "Car Enthusiast": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 14,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 82,
+    "Unclear/Generic": 64,
+    "Tech": 25,
+    "Abstract": 10,
+    "Animal (Other)": 6
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_16 (UTC): 2017 valid pre-bond tokens analyzed (Total in categorized file: 2018). 14 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 82), Unclear/Generic (score: 64), Tech (score: 25), Abstract (score: 10), Animal (Other) (score: 6) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (597), Pop Culture (321), Tech (240)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "35MhaFYYSTeHNDvofPsCZKcG3g2vsR6emGvujnwQpump",
+      "bonded_token_name": "Rip Dazhuang",
+      "bonded_token_symbol": "DAZHUANG",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T15:05:06.429058+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:05:28.288257+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "TRUMP - TRUMP（(Bitcoin） (Category: Pop Culture)",
+          "SOLWIZ - SOLANAWIZARDS  (Category: Pop Culture)",
+          "BSC - Bitcoin Sidelined Community  (Category: Pop Culture)",
+          "OHIO - Ohio Skibidi Chud (Category: Pop Culture)",
+          "SKIBIDI - SKIBIDI (Category: Pop Culture)",
+          "FIREBULL - RAGING BULL (Category: Pop Culture)",
+          "BTC2 - Bitcoin 2nd chance (Category: Pop Culture)",
+          "SWEETIE - SWEETIE (Category: Pop Culture)",
+          "POOP - QUANTUM GOLDEN POOP (Category: Pop Culture)",
+          "TP - Tush Push (Category: Pop Culture)",
+          "ATH - All Time High  (Category: Pop Culture)",
+          "Vamplana - Vamp Solana (Category: Pop Culture)",
+          "MHC - Miles High Club (Category: Pop Culture)",
+          "Potato - Tokenized Monetary Hot Potato (Category: Pop Culture)",
+          "GLOCK D - GLOCK DIDDY (Category: Pop Culture)",
+          "MEMECOINS - The New American Dream (Category: Pop Culture)",
+          "BTC - Bubble Tit Coin (Category: Pop Culture)",
+          "OF - OldFart Community (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 18
+      }
+    },
+    {
+      "bonded_token_mint": "CPVha5bJpf3rKBrhvwz9Ko6KAayTh9BKRxSqbToEpump",
+      "bonded_token_name": "ATHCOIN",
+      "bonded_token_symbol": "ATH",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T15:06:05.896407+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:08:34.671215+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "BIGDON - BIG DON (Category: Unclear/Generic)",
+          "Bull Run - Bull Run (Category: Pop Culture)",
+          "BULL - BULL (Category: Pop Culture)",
+          "BULL - BULL (Category: Animal (Other))",
+          "BULL - BULL (Category: Pop Culture)",
+          "BULL - BULL (Category: Animal (Other))",
+          "BULL - BULL (Category: Pop Culture)",
+          "BULL - BULL (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 8
+      }
+    },
+    {
+      "bonded_token_mint": "CuhP5tcUhxaTwm125Ck5AaeB76aiQfmpUkQRa3N7pump",
+      "bonded_token_name": "VAMP BITCOIN",
+      "bonded_token_symbol": "bitcoin2",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T15:13:36.947544+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:15:06.182438+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "BT - Bitcoin train (Category: Tech)",
+          "ISAAC - First BTC Time Traveler (2009) (Category: Tech)",
+          "SOLVE - Solve3 (Category: Tech)",
+          "WASHER - Sol Washer (Category: Tech)",
+          "NatroLabs - NatroLabs (Category: Tech)",
+          "fpf - FigPlatform (Category: Tech)",
+          "neck - techneck (Category: Tech)",
+          "Xport - Xport (Category: Tech)",
+          "usdc.com - usdc.com (Category: Tech)",
+          "UBTC  - UBTC  (Category: Tech)",
+          "ATH - BTC ATHCOIN (Category: Tech)",
+          "IQ - you can now buy IQ (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 12
+      }
+    },
+    {
+      "bonded_token_mint": "BHJipnfvxUdQmSNYsq8mh9a3FAPnZiwFs9MSd2MwozPg",
+      "bonded_token_name": "thebullrapesthebear",
+      "bonded_token_symbol": "BULL",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T15:16:56.686915+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:29:33.921827+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "BULL - thebullrapesthebear (Category: Other Meme)",
+          "BULLDOG - The Bullish Dog (Category: Dog Meme)",
+          "BITDOG - BITDOG (Category: Dog Meme)",
+          "BTC - Runner Of The Day (Category: Unclear/Generic)",
+          "BTC - Boobs Tits & Coins (Category: Unclear/Generic)",
+          "BTC - Big Thing's Coming (Category: Unclear/Generic)",
+          "BTC - Bubble Tit Coin (Category: Pop Culture)",
+          "BTC - Bad the Coin (Category: Tech)",
+          "BTC - Big Thing's Coming (Category: Unclear/Generic)",
+          "BITCOIN - DOG TICKER (Category: Unclear/Generic)",
+          "BITCOIN - Bitcoin (Category: Unclear/Generic)",
+          "BITCOIN2 - THIS WILL VAMP BITCOIN (Category: Unclear/Generic)",
+          "BITCOINIFY - Bitcoinfication (Category: Tech)",
+          "ATH - Bitcoin ATH (Category: Pop Culture)",
+          "ATH - BITCOIN (Category: Tech)",
+          "ATH - BTC (Category: Tech)",
+          "ATHBTC - ATH Bitcoin (Category: Unclear/Generic)",
+          "ATHSEASON - ATH SEASON (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 18
+      }
+    },
+    {
+      "bonded_token_mint": "HPqUd885VvvbEzxH31QKMeEVy2tuNKvWspq61NE3pump",
+      "bonded_token_name": "Dog (Bitcoin)",
+      "bonded_token_symbol": "DOG",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-21T15:18:11.312868+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:19:08.173141+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "Beemer - Beemer The BMW Cat (Category: Animal (Other))",
+          "Mimicoin - Mimicoin  (Category: Animal (Other))",
+          "Rug - Grave Rats (Category: Animal (Other))",
+          "CHILLFROG - Chill Frog (Category: Animal (Other))",
+          "Yoshi - Dog Killed On Campus (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "HRfRTUm4oHBmUR33cpWUMZz3KCSEhUHyBySgN4Y4jeQN",
+      "bonded_token_name": "Roma Acorn",
+      "bonded_token_symbol": "ACORN",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T15:18:53.999597+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:32:23.675088+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "BTC - The PVE Runner (Category: Pop Culture)",
+          "PEBE - Matt Furie's new character (Category: Pop Culture)",
+          "UNIPCS - Unipcs (aka 'Bonk Guy')  (Category: Pop Culture)",
+          "MEMECOIN - Your shot at the american dream (Category: Pop Culture)",
+          "Maxwifhair - Maxwifhair  (Category: Pop Culture)",
+          "DollarRain - DollarRainCoin (Category: Pop Culture)",
+          "moglana - moglana (Category: Pop Culture)",
+          "KOC - King Of Crypto (Category: Pop Culture)",
+          "RLGL - Red Light Green Light (Category: Pop Culture)",
+          "SOLCARD - New solana trading card (Category: Pop Culture)",
+          "POGO - PixelPogo (Category: Pop Culture)",
+          "BTC - Bitcoin 3rd Chance (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 12
+      }
+    },
+    {
+      "bonded_token_mint": "9D8QJ5qVHySSb6A9egNGsCULC8mSeHuDu2zxDzCosend",
+      "bonded_token_name": "Send Harder",
+      "bonded_token_symbol": "SENDHARDER",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T15:19:16.425349+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:20:37.746807+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "USDCC - unstable community (Category: Unclear/Generic)",
+          "AUTISMBUKS - What Crypto Really Is (Category: Unclear/Generic)",
+          "PIGCOIN - The Future Of Money  (Category: Abstract)",
+          "LCC - Lucky Crypto Cat (Category: Abstract)",
+          "GAY - Global Asset Yield (Category: Abstract)",
+          "BTC - THE TEK IS THE MARKETCAP (Category: Abstract)",
+          "VOL - VAMP SOLANA (Category: Abstract)",
+          "Delpho - Delpho (Category: Abstract)",
+          "SCREENSHOT -  Screenshot>Profit (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "3sSVfHpxXur5MgyxBVhXcGPptSoSxRL7Vj4UPVaepump",
+      "bonded_token_name": "BITCOIN SIDELINED COMMUNITY",
+      "bonded_token_symbol": "BSC",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T15:27:17.089523+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:34:46.287212+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "BTZ - Bitmazon (Category: Tech)",
+          "usdh - Usedatahive (Category: Tech)",
+          "BTC - Better Than Cash (Category: Tech)",
+          "BTC - The BTC Tipjar (Category: Tech)",
+          "BLM - Bitcoin Language Model (Category: Tech)",
+          "eBitcoin - Electric Bitcoin (Category: Tech)",
+          "YES - Decision Making Tool (Category: Tech)",
+          "LO - First message sent (Category: Tech)",
+          "USA  - Uncle Sam Want You 🫵 (Category: Political Figure)",
+          "ATH - BTC (Category: Tech)",
+          "₿iccoin - ₿iccoin (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    },
+    {
+      "bonded_token_mint": "FB3tzz3iPy88s2CmYwpjkQSnHHWWEV3qVGgFqBd4pump",
+      "bonded_token_name": "WTHELLY",
+      "bonded_token_symbol": "WTH",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T15:28:20.850257+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:28:35.558919+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "LLC - La Linea Coin (Category: Pop Culture)",
+          "Bull Run - Bull Run (Category: Pop Culture)",
+          "Started - It's just getting started  (Category: Pop Culture)",
+          "IBM - Internet Baddie Markets (Category: Pop Culture)",
+          "OF - OldFart Community (Category: Pop Culture)",
+          "PEDE -  Matt Furie's new character (Category: Pop Culture)",
+          "JPM - Just Purchase Memes (Category: Pop Culture)",
+          "BTC - THIS WILL HEAL YOU (Category: Pop Culture)",
+          "GANGED - letsgang.fun (Category: Pop Culture)",
+          "GREENPUMP - Bitcoin Weapon (Category: Pop Culture)",
+          "WASB - We Are So Back (Category: Pop Culture)",
+          "BOBTC - Book of BTC (Category: Pop Culture)",
+          "TBC - COWBOY_TBC (Category: Pop Culture)",
+          "SOL2 - Vamp Solana (Category: Pop Culture)",
+          "BULLMARKET - Bullmarket (Category: Pop Culture)",
+          "BTC2025 - Bitcoin 2025 ATH (Category: Pop Culture)",
+          "BTCCANDLE - Michael Saylor Candle (Category: Celebrity)"
+        ],
+        "count_related_pre_bond_by_gpt": 17
+      }
+    },
+    {
+      "bonded_token_mint": "8Aq9tWpnmog1cwdX4h5giF9kZbTxkEBj621HNtaDpump",
+      "bonded_token_name": "Launch Coin on Pump",
+      "bonded_token_symbol": "LCP",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T15:28:46.292771+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:54:59.847018+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "STUPID - STUPID COIN (Category: Unclear/Generic)",
+          "TBL - The Big Long (Category: Unclear/Generic)",
+          "tablecoin - leave money here (Category: Unclear/Generic)",
+          "MCP - MCP (Category: Unclear/Generic)",
+          "10000% - 10000% EFFORT (Category: Unclear/Generic)",
+          "VAMPCOIN3 - THIS WILL VAMP ALL VAMPCOINS (Category: Unclear/Generic)",
+          "Pre-rich - Pre-rich commmunity (Category: Unclear/Generic)",
+          "JahCoin - JancoinMoonlightniggabeat3000 (Category: Unclear/Generic)",
+          "WHWIRE - whwire (Category: Unclear/Generic)",
+          "pikajew - pikajew (Category: Unclear/Generic)",
+          "fghfg - gfhfgh (Category: Unclear/Generic)",
+          "109,424 - 109,424 (Category: Unclear/Generic)",
+          "Hodl  - Don’t touch just hold (Category: Unclear/Generic)",
+          "BULLPOST - BULLPOST (Category: Unclear/Generic)",
+          "noATH - no ath coin (Category: Unclear/Generic)",
+          "uqeu - eqrhe (Category: Unclear/Generic)",
+          "ROI - Retarded Online Investment (Category: Unclear/Generic)",
+          "ATH - NEW ALL TIME HIGH ! (Category: Unclear/Generic)",
+          "FF9B08 - FF9B08 (Category: Unclear/Generic)",
+          "herpescoin - herpescoin (Category: Unclear/Generic)",
+          "BTC - Real Bitcoin (Category: Unclear/Generic)",
+          "BTCB - BITCOIN CABAL (Category: Unclear/Generic)",
+          "stupid - stupidcoin (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 23
+      }
+    },
+    {
+      "bonded_token_mint": "4wGRCMCNt2DeXji2XPjLieXmVX3g6ZQVFSi4UnW9pump",
+      "bonded_token_name": "Sniper Golfer Trump",
+      "bonded_token_symbol": "TRUMPSNIPE",
+      "bonded_token_final_category": "Political Figure",
+      "creation_timestamp_utc": "2025-05-21T15:32:09.147718+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:32:09.271847+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Political Figure",
+        "related_pre_bond_tokens_by_gpt": [
+          "CULTS - cultsdotfun (Category: Other Meme)",
+          "TGC - Trump Grifto Currency (Category: Political Figure)",
+          "VAC - Vaccine Token (Category: Political Figure)",
+          "KAG - Keep America Great Trump Coin! (Category: Political Figure)",
+          "DOME - Trump Dome (Category: Political Figure)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "63NrGG8KWN1RhveJxvWxEEbsPjXJehBNKYtByistpump",
+      "bonded_token_name": "Imagine Bitcoin",
+      "bonded_token_symbol": "iBTC",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T15:37:41.270641+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:38:34.663289+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "D.O.A.E. - Dept of ATH Efficiency (Category: Pop Culture)",
+          "IBM - Internet Baddie Markets (Category: Pop Culture)",
+          "WASB - We Are So Back (Category: Pop Culture)",
+          "HRRNG - angry as f*ck! (Category: Pop Culture)",
+          "BULL - BULL (Category: Pop Culture)",
+          "Hampster - First Internet Web Meme 1998 (Category: Pop Culture)",
+          "ATH - BTCATH (Category: Pop Culture)",
+          "BTC - Bubble Tit Coin (Category: Pop Culture)",
+          "GANGED - letsgang.fun (Category: Pop Culture)",
+          "SOLCARD - NEW SOLANA TRADING CARD (Category: Pop Culture)",
+          "EARTH2 - VAMP EARTH (Category: Pop Culture)",
+          "BTC - Bitcoin (Category: Pop Culture)",
+          "Gigaken - Gigaken (Category: Pop Culture)",
+          "George - NEW YOUTUBE BACKROOMS MASCOT (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 14
+      }
+    },
+    {
+      "bonded_token_mint": "3cDpvwznKBstu8rU32JmWJK2kjz69sRZHGoiwZy8pump",
+      "bonded_token_name": "The New American Dream ",
+      "bonded_token_symbol": "MEMECOINS",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T15:44:37.487262+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:49:16.781178+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "BTC - Bitcoin (Category: Pop Culture)",
+          "BTC - Bubble Tit Coin (Category: Pop Culture)",
+          "LLC - La Linea Coin (Category: Pop Culture)",
+          "nosleep - no sleep szn (Category: Pop Culture)",
+          "CDS - CRYPTO DERANGEMENT SYNDROME (Category: Pop Culture)",
+          "WINNING - tired of winning  (Category: Pop Culture)",
+          "PGEN - Pepe Genesis (Category: Pop Culture)",
+          "GUINZLY - NEW GMMTV MASCOT (Category: Pop Culture)",
+          "ATH - All Time HIGH (Category: Pop Culture)",
+          "ATH - NEW ALL TIME HIGH ! (Category: Pop Culture)",
+          "ACT B - ACT B : The Bitcoin Prophecy (Category: Pop Culture)",
+          "BBA - BITCOIN BEATS AMAZON (Category: Pop Culture)",
+          "imwt - in memes we trust (Category: Pop Culture)",
+          "ARIFORCE 1 - Elons Plushie  (Category: Pop Culture)",
+          "24/7 - to do the 24/7 (Category: Pop Culture)",
+          "PEBE - PEDE (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    },
+    {
+      "bonded_token_mint": "4Aazy2gGH4gG1ps8b3Nww7zMAdXHS6JPbjL7PoT2pump",
+      "bonded_token_name": "STUPID COIN",
+      "bonded_token_symbol": "STUPID ",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T15:58:01.008730+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T15:58:35.341332+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "Bob - Bob (Category: Unclear/Generic)",
+          "r - MILITARY CORE (Category: Unclear/Generic)",
+          "sfun - streamfun (Category: Unclear/Generic)",
+          "ᴮᵀᶜ - Bitcoin mini (Category: Unclear/Generic)",
+          "Larry - Larry (Category: Unclear/Generic)",
+          "molu - molu (Category: Unclear/Generic)",
+          "TABLE - Money is Here (Category: Unclear/Generic)",
+          "110K - 110K COIN (Category: Unclear/Generic)",
+          "Gran - ONLY GRANS (Category: Unclear/Generic)",
+          "DYFMA - Did You Fade Me Anon? (Category: Unclear/Generic)",
+          "TOLY - Toly (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    }
+  ]
+}

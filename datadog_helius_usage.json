@@ -1,0 +1,69 @@
+{
+  "last_fetched_utc": "2025-05-15T01:52:38.671680+00:00",
+  "timeframes": {
+    "last_15_minutes": {
+      "fetched_at_utc": "2025-05-15T01:52:41.555919+00:00",
+      "params_used": {
+        "td_unit": "minute",
+        "td_value": "15"
+      },
+      "usage_data": {
+        "balances": 140,
+        "transactionhistory": 262,
+        "successful_requests_total_for_period": 100
+      }
+    },
+    "last_hour": {
+      "fetched_at_utc": "2025-05-15T01:52:43.748804+00:00",
+      "params_used": {
+        "td_unit": "minute",
+        "td_value": "60"
+      },
+      "usage_data": {
+        "balances": 291,
+        "transactionhistory": 1000,
+        "successful_requests_total_for_period": 99
+      }
+    },
+    "last_24_hours": {
+      "fetched_at_utc": "2025-05-15T01:52:45.438300+00:00",
+      "params_used": {
+        "td_unit": "hour",
+        "td_value": "24"
+      },
+      "usage_data": {
+        "balances": 5935,
+        "transactionhistory": 15200,
+        "successful_requests_total_for_period": 99
+      }
+    },
+    "last_7_days": {
+      "fetched_at_utc": "2025-05-15T01:52:48.175557+00:00",
+      "params_used": {
+        "td_unit": "day",
+        "td_value": "7"
+      },
+      "usage_data": {
+        "balances": 48413,
+        "transactionhistory": 89581,
+        "successful_requests_total_for_period": 99,
+        "getsignaturesforaddress": 91,
+        "transactions": 36
+      }
+    },
+    "last_3_months": {
+      "fetched_at_utc": "2025-05-15T01:52:49.861999+00:00",
+      "params_used": {
+        "td_unit": "month",
+        "td_value": "3"
+      },
+      "usage_data": {
+        "balances": 49782,
+        "transactionhistory": 89581,
+        "successful_requests_total_for_period": 99,
+        "getsignaturesforaddress": 7367,
+        "transactions": 2158
+      }
+    }
+  }
+}

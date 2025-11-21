@@ -1,0 +1,287 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T18:04:14.457547+00:00",
+  "target_creation_hour_id": "2025-05-21_18",
+  "total_tokens_in_categorized_file": 1850,
+  "total_valid_tokens_analyzed": 1850,
+  "pre_bond_category_distribution_after_refinement": {
+    "Location": 23,
+    "Tech": 249,
+    "Animal (Other)": 138,
+    "Other Meme": 175,
+    "Pop Culture": 255,
+    "Abstract": 203,
+    "Unclear/Generic": 362,
+    "AI Related": 141,
+    "Celebrity": 70,
+    "Food": 22,
+    "Political Figure": 108,
+    "Cat Meme": 16,
+    "Dog Meme": 37,
+    "Social Cause": 1,
+    "Plant": 1,
+    "Mythology": 1,
+    "Meme": 2,
+    "Event": 17,
+    "Fashion": 1,
+    "Sports": 1,
+    "Religious Figure": 2,
+    "Historical Figure": 2,
+    "Other": 8,
+    "Art": 1,
+    "Music": 1,
+    "Space": 1,
+    "Adult Content": 1,
+    "Religion": 1,
+    "Meme Maker": 1,
+    "Gaming": 1,
+    "Cartoon Character": 1,
+    "Game": 2,
+    "Charity": 1,
+    "Anonymous": 1,
+    "Fantasy": 1,
+    "Financial": 1,
+    "Social Media": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 8,
+  "dominant_bonded_narratives_with_strength": {
+    "Tech": 43,
+    "Other Meme": 22,
+    "Unclear/Generic": 19,
+    "Abstract": 19
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_18 (UTC): 1850 valid pre-bond tokens analyzed (Total in categorized file: 1850). 8 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Tech (score: 43), Other Meme (score: 22), Unclear/Generic (score: 19), Abstract (score: 19) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (362), Pop Culture (255), Tech (249)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "BZbUY3efcNfvY4E3Unh21aYApDjCfbUq6zQFJXKEEZXS",
+      "bonded_token_name": "io",
+      "bonded_token_symbol": "IO",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T17:00:24.046773+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:49:14.691923+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "INTERLACE - interlace.money (Category: Tech)",
+          "ZOMBIECORN -  New Silicon Valley Mascot (Category: Tech)",
+          "LFS - Linux from Scratch (Category: Tech)",
+          "assets - tokenize assets (Category: Tech)",
+          "Tesla - Tesla (Category: Tech)",
+          "SPUD - SPUD (Category: Tech)",
+          "MCAP - My Curves Are Profitable (Category: Abstract)",
+          "PHYSICS - goon physics (Category: Tech)",
+          "PIXIT - PIXIT (Category: Tech)",
+          "MELD - Meld (Category: Tech)",
+          "PIXELIFY - PIXELIFICATION (Category: Tech)",
+          "Pinocchio - MICROSOFT NEW COIN (Category: Tech)",
+          "MONAD - MONADVERSE (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 13
+      }
+    },
+    {
+      "bonded_token_mint": "4azFEQQtVmhNTDippbiVJQSKbU3AFyMBZznMkJvRpump",
+      "bonded_token_name": "Bubblebros",
+      "bonded_token_symbol": "BUDDD",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T17:02:17.079745+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:44:58.937160+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "MOGLANA - MOGLANA (Category: Pop Culture)",
+          "MONKEFY - MONKEIFICATION (Category: Other Meme)",
+          "RAT² - ratpoison² (Category: Other Meme)",
+          "bloop - bloop (Category: Other Meme)",
+          "AREA69 - unstable area69 (Category: Other Meme)",
+          "Toly - The Toly Effect (Category: Other Meme)",
+          "Saucy T - Horror movie mascot (Category: Other Meme)",
+          "POTENT - Combattente Potente (Category: Other Meme)",
+          "TECHNORELI - First Bitcoin Religion (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "2M7sYwMzJbpHs9umwrfnae1BfAuWbQ42QzbJJHgQpump",
+      "bonded_token_name": "Internet Profits Only",
+      "bonded_token_symbol": "IPO",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T17:10:49.134905+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:21:52.448259+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "NASAL - Just NASAL (Category: Tech)",
+          "PIXELIFY - PIXELIFICATION (Category: Tech)",
+          "Gsol - Gigsol (Category: Tech)",
+          "VPN - VP Network (Category: Tech)",
+          "SPACECOIN - FIRST BITCOIN IN SPACE (Category: Tech)",
+          "Phantom - Phantom Original Logo (Category: Tech)",
+          "KC - Keynote Companion (Category: Tech)",
+          "SACC - SOLANA ACCELERATOR (Category: Tech)",
+          "BVG - First Bitcoin Videogame (Category: Tech)",
+          "KEK - KEK LABS (Category: Tech)",
+          "DUOCOIN - DUOLINGO COIN (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    },
+    {
+      "bonded_token_mint": "JBUcwc1eZt5hFXWrwNRxKiEFoM1H3VuCGksiPdUGpump",
+      "bonded_token_name": "BRIX",
+      "bonded_token_symbol": "BRIX",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T17:21:45.906710+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:32:16.571312+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "9.1% - Bitcoin CPI Meme (Category: Unclear/Generic)",
+          "BABYTOLY - BABYTOLY (Category: Unclear/Generic)",
+          "ALXCROOKS - BIGGEST FRENCH SCAMMER (Category: Unclear/Generic)",
+          "SFO - Stone Face Ords Al (Category: Unclear/Generic)",
+          "TOLY - toly 🇺🇸 (Category: Unclear/Generic)",
+          "KRAK - KRAK (Category: Unclear/Generic)",
+          "BOTP - Bearish on tall people (Category: Unclear/Generic)",
+          "HOSPONGE - Horny Spongebob (Category: Unclear/Generic)",
+          "TOLY  - Toly New avatar (Category: Unclear/Generic)",
+          "FUGZ - FUGZ (Category: Unclear/Generic)",
+          "BDSM - BDSM Token (Category: Unclear/Generic)",
+          "TRENCHLISM - TRENCHLISM (Category: Tech)",
+          "ERISA - End Racism In South Africa (Category: Political Figure)",
+          "ERTEST - ERTEST (Category: Unclear/Generic)",
+          "FUD - Fear, Uncertainty and Doubt (Category: Unclear/Generic)",
+          "DUOCOIN - DUOLINGO COIN (Category: Unclear/Generic)",
+          "BITCHCOIN - Bitch coin (Category: Unclear/Generic)",
+          "TURDS - Tokenized Turds (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 18
+      }
+    },
+    {
+      "bonded_token_mint": "3E8muKzsn84HUUmDWdjjd6geRjv5XUpMjdpbrqi3pump",
+      "bonded_token_name": "Mixie",
+      "bonded_token_symbol": "Mixie",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T17:25:41.932446+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:25:44.616928+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "TOC - Tired Of Communities (Category: Abstract)",
+          "AF1 - Crescent One (Category: Abstract)",
+          "s - s (Category: Unclear/Generic)",
+          "lala - lala (Category: Abstract)",
+          "Corona - Corona virus Token (Category: Abstract)",
+          "MM - Monk Mode (Category: Abstract)",
+          "POSSIBLE - POSSIBLE (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 7
+      }
+    },
+    {
+      "bonded_token_mint": "E2UBoQE9Z7G9m6umRNCiqZqghJJb72ys4cFHo66tpump",
+      "bonded_token_name": "crayon 🖍️ ",
+      "bonded_token_symbol": "crayon",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T17:42:48.223591+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:55:57.017228+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "UNO - unonumero (Category: Abstract)",
+          "Dopamine - DopaCoin (Category: Abstract)",
+          "ATHGUY - Just a all time high guy (Category: Abstract)",
+          "boy - boy (Category: Abstract)",
+          "LP - LumpyPotato (Category: Other Meme)",
+          "datacoin - the new gold (Category: Abstract)",
+          "tit - tit (Category: Abstract)",
+          "CSMAD - Cosmic Madness (Category: Abstract)",
+          "ZEUS - Zeus (Category: Abstract)",
+          "ATH - Authentic Tokenized Hardware (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 10
+      }
+    },
+    {
+      "bonded_token_mint": "avfLMGGpavdJyomsLRy3cxzqB8haKwqo2faWvKUpump",
+      "bonded_token_name": "ratpoison²",
+      "bonded_token_symbol": "RAT²",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T17:44:45.383734+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:47:24.263564+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "SCOOPY - SCOOPY (Category: Other Meme)",
+          "UTR - UNDSTABLE TRENCH ROOMS (Category: Abstract)",
+          "SAHUR - tungtungtungshaur arrested (Category: Other Meme)",
+          "GODPOTATO - THE CULT OF MR.POTATO (Category: Other Meme)",
+          "https://x. - sol bonk (Category: Other Meme)",
+          "FUD - Fear, uncertainty, doubt (Category: Other Meme)",
+          "PEPEPRES - Pepe the president (Category: Other Meme)",
+          "PILLHEADS - PUMPFUN'S CULT (Category: Other Meme)",
+          "Bingus - Viral Roblox Avatar (Category: Other Meme)",
+          "IMWT - IN MEMES WE TRUST (Category: Other Meme)",
+          "IDDYODDY - Iddyoddy (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    },
+    {
+      "bonded_token_mint": "Bb98BLNqbf1U5HFx1dNtxgLN6VZk7k89S4BX7A2Jpump",
+      "bonded_token_name": "PIXIT",
+      "bonded_token_symbol": "PIXIT",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T17:51:08.524056+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:58:29.603301+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "GG - GalacticGrain (Category: Tech)",
+          "carousel - New Google Coin (Category: Tech)",
+          "IO - io (Category: Tech)",
+          "IO - IO (Category: Tech)",
+          "ANDROIDY - GOOGLES NEW PLUSHIE MASCOT (Category: Tech)",
+          "ANCESTRY - Ancestry (Category: Tech)",
+          "assets - tokenize assets (Category: Tech)",
+          "MicroGrok - 4chan first Bitcoin (Category: Tech)",
+          "KC - Keynote Companion (Category: Tech)",
+          "fxhash - fxhash (Category: Tech)",
+          "TBTC - TEXAS BTC (Category: Tech)",
+          "Gsol - Gigsol (Category: Tech)",
+          "PIXELIFY - PIXELIFICATION (Category: Tech)",
+          "mBTC - First Block Mined in Minecraft (Category: Tech)",
+          "FLEX - FlexYourDesk (Category: Tech)",
+          "ASTRA - AstraLabs Inc. (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    }
+  ]
+}

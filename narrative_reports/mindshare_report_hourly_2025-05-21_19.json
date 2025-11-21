@@ -1,0 +1,267 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T19:03:21.381310+00:00",
+  "target_creation_hour_id": "2025-05-21_19",
+  "total_tokens_in_categorized_file": 1886,
+  "total_valid_tokens_analyzed": 1879,
+  "pre_bond_category_distribution_after_refinement": {
+    "Tech": 209,
+    "Other Meme": 115,
+    "Political Figure": 80,
+    "Pop Culture": 279,
+    "Animal (Other)": 180,
+    "Unclear/Generic": 548,
+    "AI Related": 101,
+    "Food": 26,
+    "Abstract": 152,
+    "Dog Meme": 39,
+    "Location": 8,
+    "Event": 15,
+    "Art": 3,
+    "Celebrity": 63,
+    "Fashion": 5,
+    "Cat Meme": 31,
+    "Meme": 9,
+    "Music": 1,
+    "Movie Reference": 1,
+    "Movie": 1,
+    "Scientist": 1,
+    "Religious Figure": 4,
+    "Game": 2,
+    "Sports": 1,
+    "Community": 5
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 8,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 44,
+    "Unclear/Generic": 25,
+    "Other Meme": 12,
+    "Abstract": 10,
+    "Cat Meme": 3
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_19 (UTC): 1879 valid pre-bond tokens analyzed (Total in categorized file: 1886). 8 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 44), Unclear/Generic (score: 25), Other Meme (score: 12), Abstract (score: 10), Cat Meme (score: 3) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (548), Pop Culture (279), Tech (209)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "D8WjqmthuYeBqzYqRW8mshhFCjjMCHFyP1opzhApump",
+      "bonded_token_name": "DEATH DEATH DEATH",
+      "bonded_token_symbol": "TRUMPSNIPE",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T18:05:08.563677+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:05:08.692886+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "ASSTERIX - ASSTERIX vs. The Crypto Villains (Category: Pop Culture)",
+          "Parlay - ParlayGod (Category: Pop Culture)",
+          "Stonk - Stonk (Category: Pop Culture)",
+          "TKDN - Thug Kodak Digital Nas (Category: Pop Culture)",
+          "SCENE - Scene (Category: Pop Culture)",
+          "Boyband - Boyband Vic (Category: Pop Culture)",
+          "₿eetcoin - invest in ₿eetcoin (Category: Pop Culture)",
+          "MHA - My Hero Academia (Category: Pop Culture)",
+          "BM - Bitcoin memes (Category: Pop Culture)",
+          "RUN - RUN (Category: Pop Culture)",
+          "YE FIGURE - ye figure (Category: Pop Culture)",
+          "Yee - Yee (Category: Pop Culture)",
+          "SPRM - SUPREMCOIN (Category: Pop Culture)",
+          "JEETROKEE - JEETCHEROKEE (Category: Pop Culture)",
+          "MURATH - MURAD ATHS IN MAY* (Category: Pop Culture)",
+          "degenrun - Degen Run Game (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    },
+    {
+      "bonded_token_mint": "8dEz4Pw4pv2xbgwYqPRasNmq27ae6BKiaa5RFvx368tj",
+      "bonded_token_name": "coin name",
+      "bonded_token_symbol": "COIN",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T18:08:25.169779+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:10:54.967343+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "eh!coin - eh! (Category: Unclear/Generic)",
+          "dream - am i dreaming? (Category: Unclear/Generic)",
+          "💊 - Banned Bonk Ticker (Category: Unclear/Generic)",
+          "洗钱 - Chinese money laundering (Category: Unclear/Generic)",
+          "RAISEME - RAISEME (Category: Unclear/Generic)",
+          "878642012x - Past life Satoshi Phone Number  (Category: Unclear/Generic)",
+          "3INCH - the 3 inch  (Category: Unclear/Generic)",
+          "TICKER2 - name2 (Category: Unclear/Generic)",
+          "asd - asd (Category: Unclear/Generic)",
+          "XBETS - X Bets (Category: Unclear/Generic)",
+          "420% - The High Community (Category: Unclear/Generic)",
+          "DERRICK - The unfindable Nigga (Category: Unclear/Generic)",
+          "REBOOT - Rebootcoin (Category: Unclear/Generic)",
+          "TEST - testttdsd (Category: Unclear/Generic)",
+          "BTC - baitcoin (Category: Unclear/Generic)",
+          "SOOLUNG - SOOLUNG (Category: Unclear/Generic)",
+          "USC - Unknown Sending Coin (Category: Unclear/Generic)",
+          "DRUNK - Drunknigg (Category: Unclear/Generic)",
+          "ATH - Ass Tits Hype (Category: Unclear/Generic)",
+          "IRWIN - Irwin (Category: Unclear/Generic)",
+          "TEST - testttxsd (Category: Unclear/Generic)",
+          "TONY  - Justice For Tony (Category: Political Figure)",
+          "硬币 - 洗地机 你的钱 (Category: Unclear/Generic)",
+          "TEEPIN - TEEPIN (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 24
+      }
+    },
+    {
+      "bonded_token_mint": "CQaVuptWRDu9XuZavvYsseGK9q3ohiUJD3xTTvvApump",
+      "bonded_token_name": "DEATH DEATH DEATH",
+      "bonded_token_symbol": "DEATH",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T18:11:10.653410+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:11:11.093412+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "Monk - Monk (Category: Abstract)",
+          "Rain - Rain (Category: Abstract)",
+          "BURN - Burnster (Category: Abstract)",
+          "USTP - Unstable Pino (Category: Abstract)",
+          "LIVINGROOM - LIVING ROOM (Category: Abstract)",
+          "ENGINE - Engine Of Feels Model (Category: Abstract)",
+          "OPTOYS - Optical Toys (Category: Abstract)",
+          "NRVS - nerves (Category: Abstract)",
+          "dreams - what keep us alive (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "93MBGRW55QJzrzGsLP2qsvhdfRyWawfBwcMgVviApump",
+      "bonded_token_name": "The Horny Community",
+      "bonded_token_symbol": "69%",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T18:19:13.032496+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T19:02:37.680935+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "MEMORIES - Memories Cult (Category: Other Meme)",
+          "MAGA - Meme Musk (Category: Other Meme)",
+          "SMCOIN - SELFMADECOIN (Category: Other Meme)",
+          "MMM - Make Me Millionaire  (Category: Other Meme)",
+          "SHITCOIN - THE FIRST SHITCOIN  (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "5dxrXYRDbbvyL6cWT82sS1cFFYDdL9XDW9DMzKS7pump",
+      "bonded_token_name": "Bubblebros",
+      "bonded_token_symbol": "BUDDD",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T18:20:25.242584+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:31:57.545444+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "George - Save George (Category: Other Meme)",
+          "pepe - PEPE (Category: Other Meme)",
+          "PP - Prison Parlays (Category: Other Meme)",
+          "RUME - $RUGME (Category: Other Meme)",
+          "MEMECOINS - WORTHLESS DIGITAL GARBAGE (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "14coJKKEShg6ZaSKggQjubtKsCjWUZBWRa2v3E5ypump",
+      "bonded_token_name": "HodlCat",
+      "bonded_token_symbol": "HODL",
+      "bonded_token_final_category": "Cat Meme",
+      "creation_timestamp_utc": "2025-05-21T18:24:14.209508+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:24:14.338460+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Cat Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "KITTY - Kitty City  (Category: Cat Meme)",
+          "MEOW - MEOWISM│ (Category: Cat Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 2
+      }
+    },
+    {
+      "bonded_token_mint": "x6937gNzvALyBRz3pjfQskhUPhq7y3JETyL8aSNpump",
+      "bonded_token_name": "The Last One",
+      "bonded_token_symbol": "DERRICK",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T18:25:10.773451+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:25:51.220159+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "DAQUAN - DAQUAN (Category: Pop Culture)",
+          "degenrun - Degen Run Game (Category: Pop Culture)",
+          "CROCS - crocs (Category: Pop Culture)",
+          "PEEP - Peep (Category: Pop Culture)",
+          "BOBE - BOBE (Category: Pop Culture)",
+          "thug - ThugNation (Category: Pop Culture)",
+          "piratecat - ı'm a pirate cat (Category: Pop Culture)",
+          "BB - Beach Bucks (Category: Pop Culture)",
+          "BTCP - bitcoin parody (Category: Pop Culture)",
+          "PumpMeta - Pump Meta (Category: Pop Culture)",
+          "BILL - A CLASSIC  (Category: Pop Culture)",
+          "DARKLON - DARKLON (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 12
+      }
+    },
+    {
+      "bonded_token_mint": "7RSiMfc57DmKMyWDv9Jm4FZ8QDsyMjGLCbVfD36Ppump",
+      "bonded_token_name": "Fund My Escape",
+      "bonded_token_symbol": "Derrick",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T18:52:55.398397+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T18:53:43.818366+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "MISSBTC - Miss Bitcoin (Category: Pop Culture)",
+          "MEMECOINS - finance + memes. (Category: Pop Culture)",
+          "TRENCHER - STITCH THE TRENCHER (Category: Pop Culture)",
+          "degenrun - Degen Run Game (Category: Pop Culture)",
+          "BOBE - BOBE (Category: Pop Culture)",
+          "BuddyHyped - The Hyped Buddy (Category: Pop Culture)",
+          "PumpMeta - Pump Meta (Category: Pop Culture)",
+          "WITHIN - withinus.fun (Category: Pop Culture)",
+          "CRAFT - THE CRAFT (Category: Pop Culture)",
+          "piratecat - ı'm a pirate cat (Category: Pop Culture)",
+          "Mahmu - Mahmut (Category: Pop Culture)",
+          "MP - Mission possible (Category: Pop Culture)",
+          "Googie - GOOGLE OFFICIAL MASCOT (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 13
+      }
+    }
+  ]
+}

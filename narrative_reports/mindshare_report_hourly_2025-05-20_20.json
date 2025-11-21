@@ -1,0 +1,222 @@
+{
+  "report_generation_timestamp_utc": "2025-05-20T20:09:44.808468+00:00",
+  "target_creation_hour_id": "2025-05-20_20",
+  "total_tokens_in_categorized_file": 1841,
+  "total_valid_tokens_analyzed": 1841,
+  "pre_bond_category_distribution_after_refinement": {
+    "Pop Culture": 234,
+    "AI Related": 102,
+    "Celebrity": 54,
+    "Food": 119,
+    "Abstract": 163,
+    "Unclear/Generic": 364,
+    "Animal (Other)": 155,
+    "Other Meme": 157,
+    "Event": 9,
+    "Dog Meme": 63,
+    "Location": 14,
+    "Political Figure": 74,
+    "Tech": 274,
+    "Cat Meme": 16,
+    "Space": 3,
+    "Fitness": 1,
+    "Music": 2,
+    "Company": 1,
+    "Meme": 13,
+    "Sports": 4,
+    "Art": 1,
+    "Financial": 7,
+    "Furniture": 1,
+    "Greek Mythology": 1,
+    "Mythology": 2,
+    "Environmental": 1,
+    "Fashion": 1,
+    "Historical Figure": 1,
+    "Flower": 1,
+    "Movie": 3
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 7,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 30,
+    "Animal (Other)": 11,
+    "Abstract": 6,
+    "Political Figure": 5,
+    "AI Related": 4
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-20_20 (UTC): 1841 valid pre-bond tokens analyzed (Total in categorized file: 1841). 7 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 30), Animal (Other) (score: 11), Abstract (score: 6), Political Figure (score: 5), AI Related (score: 4) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (364), Tech (274), Pop Culture (234)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "7mNMhMFGeD7s3ff7vp3vbo6Zb3rMpuKRBXksADA2pump",
+      "bonded_token_name": "bitcoin with white privilege",
+      "bonded_token_symbol": "whitecoin",
+      "bonded_token_final_category": "Political Figure",
+      "creation_timestamp_utc": "2025-05-20T19:01:20.037122+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T19:45:44.375077+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Political Figure",
+        "related_pre_bond_tokens_by_gpt": [
+          "F&F - Jewish Cabal Coin (Category: Political Figure)",
+          "NANCYMACE - Nancy Mace (Category: Political Figure)",
+          "MAGA CREAM - NEW MAGA CREAM (Category: Political Figure)",
+          "SHF - USA Strong (Category: Political Figure)"
+        ],
+        "count_related_pre_bond_by_gpt": 4
+      }
+    },
+    {
+      "bonded_token_mint": "GKxbkKBaSFmmYYDshBnHA8bp3cMuWDuyphHroV3Dpump",
+      "bonded_token_name": "this is going to the moon",
+      "bonded_token_symbol": "PizzaCoin",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-20T19:16:41.106733+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T19:18:11.408601+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "SFR - Solana Fart Rooms (Category: Abstract)",
+          "ATCF - Apollo’s tokenized credit fund (Category: Abstract)",
+          "Scroll - Scroll (Category: Abstract)",
+          "TC - Tokenized Cuteness (Category: Abstract)",
+          "LUCK - luckcoin (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "BdPm5RCasZtfiqFRWNPRCrctgnh4NrFoGedYWYfapump",
+      "bonded_token_name": "GROUGIES",
+      "bonded_token_symbol": "GROUGIES",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-20T19:23:22.410539+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T19:23:51.334070+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "CODERE - NEW FIFA MASCOT (Category: Pop Culture)",
+          "COMIC - The Comic Craft (Category: Pop Culture)",
+          "Finalbosu - New OpenSea Profile Pic (Category: Pop Culture)",
+          "GR - GYM RUNZ (Category: Pop Culture)",
+          "pizza - This is going to moon (Category: Pop Culture)",
+          "Pixelclimb - Pixel Climb (Category: Pop Culture)",
+          "MrPink - Mr.Pink (Category: Pop Culture)",
+          "TRENCHROT - Trenches brainrot (Category: Pop Culture)",
+          "Gold - Bitcoin for boomers (Category: Pop Culture)",
+          "Puff - Puff (Category: Pop Culture)",
+          "SCHTRUMPFS - Schtrumpfs (Category: Pop Culture)",
+          "$PB - Pitbull Jams (Category: Pop Culture)",
+          "LMS - Last Man Standing (Category: Pop Culture)",
+          "STATUE - NEW JUPITER MASCOT (Category: Pop Culture)",
+          "Cheers - Rip George Wendt (Category: Pop Culture)",
+          "NIGHT - NightWind (Category: Pop Culture)",
+          "ROWLEY - ROWLEY (Category: Pop Culture)",
+          "Mithril - NEW SOL MASCOT (Category: Pop Culture)",
+          "Klarna - The Big Short (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 19
+      }
+    },
+    {
+      "bonded_token_mint": "CNkX1vSVxRyxDtU74TYqqRRqv8J5DHCUFQUGdGs7pump",
+      "bonded_token_name": "Thug Life Marco",
+      "bonded_token_symbol": "ThugMARCO",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-20T19:40:47.320694+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T19:40:47.320694+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "Roll - Rate My Roll (Category: Pop Culture)",
+          "Bread-Guy - The Bread Guy (Category: Pop Culture)",
+          "RIP CLEO - RIP CLEO (Category: Pop Culture)",
+          "UncleRuby - Uncle Ruby (Category: Pop Culture)",
+          "bot king - bot king (Category: Pop Culture)",
+          "GWOC - Great Wall Of Cringe (Category: Pop Culture)",
+          "GetRekt - Get Rekt App (Category: Pop Culture)",
+          "AGV - Anime Girls Virals (Category: Pop Culture)",
+          "LaunchPump - Launch On Pump (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "A8sUZi4cyxCAg8yZy7Jgt64rNNyU85ZiajktUT2Epump",
+      "bonded_token_name": "petunia",
+      "bonded_token_symbol": "petunia",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-20T19:50:16.234532+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T19:50:16.234532+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "TC - Tokenized cuteness (Category: Animal (Other))",
+          "MOO - MooDeng (Category: Animal (Other))",
+          "KCASH - Koala Cash (Category: Animal (Other))",
+          "foxtoad - Foxtoad (Category: Animal (Other))",
+          "YOOSHI - Yooshi on Solana  (Category: Animal (Other))",
+          "PXPL - PixelPup (Category: Animal (Other))",
+          "DARKGOAT - Darkgoat (Category: Animal (Other))",
+          "SKIPPY - Squirrel Saved by US Govt (Category: Animal (Other))",
+          "Freja - NEW OVERWATCH CAT (Category: Animal (Other))",
+          "Crankus - Cranky Pussy (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 10
+      }
+    },
+    {
+      "bonded_token_mint": "EDD36voh7TReG8tYL26yA5JCHdAaVf63pEZdGsS3pump",
+      "bonded_token_name": "Sophon",
+      "bonded_token_symbol": "SOPH",
+      "bonded_token_final_category": "AI Related",
+      "creation_timestamp_utc": "2025-05-20T19:52:28.738504+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:02:14.932650+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "AI Related",
+        "related_pre_bond_tokens_by_gpt": [
+          "Jules - New Google Ai agent (Category: AI Related)",
+          "Libra - OPEN AI CPO FIRST COIN (Category: AI Related)",
+          "VOICETOKEN - New Chatgpt Token (Category: AI Related)"
+        ],
+        "count_related_pre_bond_by_gpt": 3
+      }
+    },
+    {
+      "bonded_token_mint": "ERZjiNqcDxKTRZShwJpVTuzeMbYx7FZav7Fm29ckpump",
+      "bonded_token_name": "James Wynn",
+      "bonded_token_symbol": "WYNNER",
+      "bonded_token_final_category": "Celebrity",
+      "creation_timestamp_utc": "2025-05-20T19:59:35.731358+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:04:25.307656+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Celebrity",
+        "related_pre_bond_tokens_by_gpt": [
+          "MOG MARCO - mog marco (Category: Celebrity)",
+          "Conan - Conan (Category: Celebrity)",
+          "SM - Swag Marco (Category: Celebrity)"
+        ],
+        "count_related_pre_bond_by_gpt": 3
+      }
+    }
+  ]
+}

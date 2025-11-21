@@ -1,0 +1,66 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>Project Segfault Authentication</title>
+        <link rel="icon" href="/media/public/application-icons/psflt.png">
+        <link rel="shortcut icon" href="/media/public/application-icons/psflt.png">
+        
+
+        
+<link rel="prefetch" href="/media/public/flow-backgrounds/bg_shadow_dark_next.jpg" />
+
+
+
+
+<script>
+    window.authentik = {
+        locale: "en-us",
+        config: JSON.parse('{\u0022error_reporting\u0022: {\u0022enabled\u0022: false, \u0022sentry_dsn\u0022: \u0022https://151ba72610234c4c97c5bcff4e1cffd8@authentik.error\u002Dreporting.a7k.io/4504163677503489\u0022, \u0022environment\u0022: \u0022customer\u0022, \u0022send_pii\u0022: false, \u0022traces_sample_rate\u0022: 0.1}, \u0022capabilities\u0022: [\u0022can_save_media\u0022, \u0022can_asn\u0022, \u0022can_geo_ip\u0022, \u0022can_impersonate\u0022, \u0022is_enterprise\u0022], \u0022cache_timeout\u0022: 300, \u0022cache_timeout_flows\u0022: 300, \u0022cache_timeout_policies\u0022: 300, \u0022cache_timeout_reputation\u0022: 0}'),
+        brand: JSON.parse('{\u0022matched_domain\u0022: \u0022auth.p.projectsegfau.lt\u0022, \u0022branding_title\u0022: \u0022Project Segfault Authentication\u0022, \u0022branding_logo\u0022: \u0022/media/public/application\u002Dicons/psflt.svg\u0022, \u0022branding_favicon\u0022: \u0022/media/public/application\u002Dicons/psflt.png\u0022, \u0022ui_footer_links\u0022: [{\u0022href\u0022: \u0022https://projectsegfau.lt\u0022, \u0022name\u0022: \u0022Website\u0022}, {\u0022href\u0022: \u0022https://projectsegfau.lt/legal/privacy\u002Dpolicy\u0022, \u0022name\u0022: \u0022Privacy Policy\u0022}, {\u0022href\u0022: \u0022https://projectsegfau.lt/legal/tos\u0022, \u0022name\u0022: \u0022Terms of Service\u0022}], \u0022ui_theme\u0022: \u0022automatic\u0022, \u0022default_locale\u0022: \u0022\u0022}'),
+        versionFamily: "2024.8",
+        versionSubdomain: "version-2024-8",
+        build: "",
+    };
+    window.addEventListener("DOMContentLoaded", function () {
+        
+    });
+</script>
+
+<script>
+window.authentik.flow = {
+    "layout": "sidebar_left",
+};
+</script>
+
+        <link rel="stylesheet" type="text/css" href="/static/dist/authentik.css">
+        <link rel="stylesheet" type="text/css" href="/static/dist/custom.css" data-inject>
+        <script src="/static/dist/poly-2024.8.6.js" type="module"></script>
+        <script src="/static/dist/standalone/loading/index-2024.8.6.js" type="module"></script>
+        
+<script src="/static/dist/flow/FlowInterface-2024.8.6.js" type="module"></script>
+<style>
+:root {
+    --ak-flow-background: url("/media/public/flow-backgrounds/bg_shadow_dark_next.jpg");
+}
+</style>
+
+        <meta name="sentry-trace" content="bb602149d635440b84036cf03a65d8ac-9d76dc1b521e2467-0" />
+    </head>
+    <body>
+        
+<ak-message-container></ak-message-container>
+<ak-flow-executor flowSlug="default-authentication-flow">
+    <ak-loading></ak-loading>
+</ak-flow-executor>
+
+        
+        
+    </body>
+</html>

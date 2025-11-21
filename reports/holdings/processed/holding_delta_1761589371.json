@@ -1,0 +1,195 @@
+{
+  "report_timestamp": 1761589371,
+  "report_datetime_utc": "2025-10-27 18:22:51 UTC",
+  "parameters": {
+    "min_holders_for_correlation": 2,
+    "birdeye_filter_mints_count": 219,
+    "wallets_monitored_count": 150
+  },
+  "changed_wallets_balance_state": {
+    "ETcf4mwJcb4Be2ae4pMvSda3sQtVg4NtLYCBege3Q9oD": {
+      "current": {},
+      "previous": {
+        "BDU1tFSae9vpLYuimgahF5tpTA7LggFA6VGfFCQRheJu": 6063660545
+      }
+    },
+    "6rqeWs1msQqk2nADSkmkjp5fJ4GezKV1Nw1yzoKptwDS": {
+      "current": {},
+      "previous": {
+        "BDU1tFSae9vpLYuimgahF5tpTA7LggFA6VGfFCQRheJu": 3392564286
+      }
+    },
+    "7jpvc95qMN4WmxTEtQGzrCqjBP4aM4HJCQe8mT9obvid": {
+      "current": {},
+      "previous": {
+        "BDU1tFSae9vpLYuimgahF5tpTA7LggFA6VGfFCQRheJu": 3806565229
+      }
+    },
+    "8K2cKSN4E8xrfYfybmbSsZSUNz3XpxuvbVFMPnNdbuKs": {
+      "current": {},
+      "previous": {
+        "BDU1tFSae9vpLYuimgahF5tpTA7LggFA6VGfFCQRheJu": 4095012136
+      }
+    },
+    "Bm8GBMxvT7evQbLAiWysyE6WZ43paqbqWcZ9qGRYrLXi": {
+      "current": {
+        "sFgLihYPNiSsCz9JJWRoLRJbvvFHe2DdF6CDbCksyUE": 4664138036
+      },
+      "previous": {}
+    },
+    "4BpD1PQVyEeFJRusGjQRjxi65eh8v6y4ygFyeB8ZM5Tj": {
+      "current": {},
+      "previous": {
+        "BDU1tFSae9vpLYuimgahF5tpTA7LggFA6VGfFCQRheJu": 15223340566
+      }
+    },
+    "ApZ2yCnpTg7gAyDisUMoCSXqB2e3SnmnBpquKizr7gyE": {
+      "current": {},
+      "previous": {
+        "BDU1tFSae9vpLYuimgahF5tpTA7LggFA6VGfFCQRheJu": 11824933484
+      }
+    },
+    "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV": {
+      "current": {},
+      "previous": {}
+    },
+    "FNN5K8zNpUpCZ3ijQm5GyJhxvJ6K3edpimePrjgB1xbh": {
+      "current": {},
+      "previous": {}
+    }
+  },
+  "correlated_holdings_snapshot": [
+    {
+      "original_correlation_data": {
+        "token_mint": "Ba8uscrM9u2hiZH5qHsU4rnVvPC2NBM27r1KycKYGf7a",
+        "total_holders_in_set": 35,
+        "holding_wallets_in_set": [
+          "12t4eQd7evxGWkmxJ1cPrxgEfpDHyL3VvJSVPrzMXB18",
+          "213k1vNRiogsUKQPSA9NgHMEkdskWhgGbY1oC1n5Vx1S",
+          "2xhmAFoiXCKqB5BSexpTJCGuxBNHGeVjsYznzBUApEwS",
+          "3f3QRmwQfpJSuaoNdnJgeZaDuMSFRNgoy8wUsJDXq3nG",
+          "3oKVnF4a5PvrB8tK4KaUgcCPJ4MBkGmXg5zbdif22UXD",
+          "4YcKnDpJENuNVhxQ1nF4KurVhpLgKwm5g2BroXfToPTU",
+          "4kkTnveC9yjTVZXnJ3iTCH7TWaG7ci16FrTiiRqLzuNE",
+          "5F58Z2YPgtbqtycLaSv5NbnZ4fa2TYnosaGRBYUe8ejp",
+          "5KZgMDZ4n1wiywopB2KhXnELuKj6orJ9pF6ctVXbZ6uv",
+          "6LYhWig8TtuQUm3MmmvoWhij8WAYpQPiRkep6b34Zgxw",
+          "78yzxZkLV8uJjv93jJq4RcBLDdaDC26hDHecHY32nkeQ",
+          "8ZdbRSPDn3Q4x1aDfbCmk3WqZjizyXeZ4r62u7CacNzm",
+          "8wgkHTMY47QUEFGq7o9ZKjapU2rXTTJtqUUgSLTEbZRj",
+          "9FdyFti5m9sgp24hehW8r5wdNeiKiQXKeBPsHy43aLkP",
+          "9PYqWVCJSMv94ygEMzoHEWoBdACurqjA8ib6BD5PZnZ7",
+          "A5Z7AHhrbrg8EAEJjcwT5XmQa8xoF2Y5jdQbei8StLdV",
+          "A8vYSADQV8mLxT9P46pR1xeTKrddVWtL95c9bsDki9jt",
+          "Ab1gTgznJSKNQrQgc5uAFTzrbW5fwgzCEqaMiQMsom4a",
+          "C9RrEuhzoGVyjXxJvvy2qyDzvdNn7R1v9WWz83535gTd",
+          "CDZ7Shq6rJtEVkBuHvVgsUxQntzK9Fqf6NXhkqntHcXg",
+          "CU9KdVJVss55jnn7RnNcggpQ21kywtEqobQDhQTHU5ou",
+          "CjR3iG7oji4TUH1Y9KvgPqXoTo2v7HXvRnscHS66Ed5q",
+          "DaKNVjR9yE4fbmi7wDYrmRo6R7amUPLfPb9Hs4Bv53pV",
+          "EzhFxbudg7gKZkgFa3MRKUobAEhe8s58ivq7ym1A8nVd",
+          "FFK49HZBb2iVaMf5k7VqKhozDRdErADZLEXUKsz3JQty",
+          "GYsrGZ1YuegX51zB2m4jTWVdXMYwAEaLuQh2eBr4Qdfo",
+          "H326799qseeby1gjCWXWNFjyTPstT9F67UqUP4bYQxpb",
+          "HCnJxrZbx9udBJwmN4kfDmkw4tXh6Xtj6E93qNe7ag6c",
+          "J3SPa93ek8WZtgoViUtedUz4s5ezrEWgCAZDzbZWQAdd",
+          "JBgU5u4oWYjPy1bvqcWJaCBRn4qWcAkc2t5B6FKe6AtR",
+          "dATQxBA8u7ocJ4YqhTfeEaucT7E7ie8aTEuXnLfweg9",
+          "f1jcayaH89QGUVEASPNYZ35W2kyPrJPq6RC7b1TZ2s1",
+          "fGfkY52voAHGDPwpZBwHMbQHeMeJw7uTRxsx8msnjYv",
+          "hJtZ2q68hHbG39XM5u5y57JKLwqxnUmrqYfDBMGPVrn",
+          "usLMVhocxbou547iYRT2SCXvPs6AgThu3zJTX2EhVu1"
+        ],
+        "holder_balances_uiAmount": {
+          "C9RrEuhzoGVyjXxJvvy2qyDzvdNn7R1v9WWz83535gTd": 0.0,
+          "5F58Z2YPgtbqtycLaSv5NbnZ4fa2TYnosaGRBYUe8ejp": 0.0,
+          "usLMVhocxbou547iYRT2SCXvPs6AgThu3zJTX2EhVu1": 0.0,
+          "hJtZ2q68hHbG39XM5u5y57JKLwqxnUmrqYfDBMGPVrn": 0.0,
+          "dATQxBA8u7ocJ4YqhTfeEaucT7E7ie8aTEuXnLfweg9": 0.0,
+          "4YcKnDpJENuNVhxQ1nF4KurVhpLgKwm5g2BroXfToPTU": 0.0,
+          "3oKVnF4a5PvrB8tK4KaUgcCPJ4MBkGmXg5zbdif22UXD": 0.0,
+          "9FdyFti5m9sgp24hehW8r5wdNeiKiQXKeBPsHy43aLkP": 0.0,
+          "CjR3iG7oji4TUH1Y9KvgPqXoTo2v7HXvRnscHS66Ed5q": 0.0,
+          "9PYqWVCJSMv94ygEMzoHEWoBdACurqjA8ib6BD5PZnZ7": 0.0,
+          "EzhFxbudg7gKZkgFa3MRKUobAEhe8s58ivq7ym1A8nVd": 0.0,
+          "f1jcayaH89QGUVEASPNYZ35W2kyPrJPq6RC7b1TZ2s1": 0.0,
+          "213k1vNRiogsUKQPSA9NgHMEkdskWhgGbY1oC1n5Vx1S": 0.0,
+          "HCnJxrZbx9udBJwmN4kfDmkw4tXh6Xtj6E93qNe7ag6c": 0.0,
+          "6LYhWig8TtuQUm3MmmvoWhij8WAYpQPiRkep6b34Zgxw": 0.0,
+          "12t4eQd7evxGWkmxJ1cPrxgEfpDHyL3VvJSVPrzMXB18": 0.0,
+          "GYsrGZ1YuegX51zB2m4jTWVdXMYwAEaLuQh2eBr4Qdfo": 0.0,
+          "8wgkHTMY47QUEFGq7o9ZKjapU2rXTTJtqUUgSLTEbZRj": 0.0,
+          "4kkTnveC9yjTVZXnJ3iTCH7TWaG7ci16FrTiiRqLzuNE": 0.0,
+          "A8vYSADQV8mLxT9P46pR1xeTKrddVWtL95c9bsDki9jt": 0.0,
+          "JBgU5u4oWYjPy1bvqcWJaCBRn4qWcAkc2t5B6FKe6AtR": 0.0,
+          "A5Z7AHhrbrg8EAEJjcwT5XmQa8xoF2Y5jdQbei8StLdV": 0.0,
+          "2xhmAFoiXCKqB5BSexpTJCGuxBNHGeVjsYznzBUApEwS": 0.0,
+          "fGfkY52voAHGDPwpZBwHMbQHeMeJw7uTRxsx8msnjYv": 0.0,
+          "FFK49HZBb2iVaMf5k7VqKhozDRdErADZLEXUKsz3JQty": 0.0,
+          "8ZdbRSPDn3Q4x1aDfbCmk3WqZjizyXeZ4r62u7CacNzm": 0.0,
+          "J3SPa93ek8WZtgoViUtedUz4s5ezrEWgCAZDzbZWQAdd": 0.0,
+          "H326799qseeby1gjCWXWNFjyTPstT9F67UqUP4bYQxpb": 0.0,
+          "Ab1gTgznJSKNQrQgc5uAFTzrbW5fwgzCEqaMiQMsom4a": 0.0,
+          "5KZgMDZ4n1wiywopB2KhXnELuKj6orJ9pF6ctVXbZ6uv": 0.0,
+          "DaKNVjR9yE4fbmi7wDYrmRo6R7amUPLfPb9Hs4Bv53pV": 0.0,
+          "3f3QRmwQfpJSuaoNdnJgeZaDuMSFRNgoy8wUsJDXq3nG": 0.0,
+          "CDZ7Shq6rJtEVkBuHvVgsUxQntzK9Fqf6NXhkqntHcXg": 0.0,
+          "78yzxZkLV8uJjv93jJq4RcBLDdaDC26hDHecHY32nkeQ": 0.0,
+          "CU9KdVJVss55jnn7RnNcggpQ21kywtEqobQDhQTHU5ou": 0.0
+        }
+      },
+      "token_mint": "Ba8uscrM9u2hiZH5qHsU4rnVvPC2NBM27r1KycKYGf7a",
+      "symbol": "MetaMask",
+      "name": "MetaMask.eth",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "MetaMask",
+        "cached_name": "MetaMask.eth",
+        "note": "Failed validation 18m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1761588267,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "DszBYd1vwgFC591sj6AWaG3KMo3sRis7sChg2eLersiu",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "6jqiKhjUMR225h78oZCfvgMisNZUoSVh8CBF1Brgnk4s",
+          "HdniZwQFd9jApikepxWAPs9wQgwxNz4gJZETp2QnTnWa"
+        ],
+        "holder_balances_uiAmount": {
+          "6jqiKhjUMR225h78oZCfvgMisNZUoSVh8CBF1Brgnk4s": 0.0,
+          "HdniZwQFd9jApikepxWAPs9wQgwxNz4gJZETp2QnTnWa": 0.0
+        }
+      },
+      "token_mint": "DszBYd1vwgFC591sj6AWaG3KMo3sRis7sChg2eLersiu",
+      "symbol": "Citibank",
+      "name": "\u82b1\u65d7\u94f6\u884c",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "Citibank",
+        "cached_name": "\u82b1\u65d7\u94f6\u884c",
+        "note": "Alerted 18m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1761588284,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    }
+  ],
+  "processor_run_timestamp": 1761589400,
+  "processor_schema_version": "1.4.1_birdeye_vol+security"
+}

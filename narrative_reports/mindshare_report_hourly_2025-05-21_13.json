@@ -1,0 +1,255 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T13:03:20.288412+00:00",
+  "target_creation_hour_id": "2025-05-21_13",
+  "total_tokens_in_categorized_file": 1022,
+  "total_valid_tokens_analyzed": 1022,
+  "pre_bond_category_distribution_after_refinement": {
+    "Dog Meme": 49,
+    "Tech": 120,
+    "Political Figure": 39,
+    "Unclear/Generic": 138,
+    "Abstract": 129,
+    "AI Related": 37,
+    "Pop Culture": 162,
+    "Food": 28,
+    "Animal (Other)": 97,
+    "Other Meme": 132,
+    "Event": 6,
+    "Cat Meme": 17,
+    "Location": 11,
+    "Meme": 21,
+    "Art": 4,
+    "Artist": 1,
+    "Celebrity": 16,
+    "Controversial": 1,
+    "Pig Meme": 1,
+    "Space": 1,
+    "Community": 2,
+    "Toy": 1,
+    "Retail": 1,
+    "Soccer Player": 1,
+    "Crypto": 2,
+    "Sports": 1,
+    "Fashion": 1,
+    "Religious Figure": 1,
+    "Motivational": 1,
+    "Movie Character": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 7,
+  "dominant_bonded_narratives_with_strength": {
+    "Abstract": 31,
+    "Tech": 19,
+    "Unclear/Generic": 17,
+    "Pop Culture": 12,
+    "Dog Meme": 10
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_13 (UTC): 1022 valid pre-bond tokens analyzed (Total in categorized file: 1022). 7 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Abstract (score: 31), Tech (score: 19), Unclear/Generic (score: 17), Pop Culture (score: 12), Dog Meme (score: 10) Top overall pre-bond categories this hour (after refinement): Pop Culture (162), Unclear/Generic (138), Other Meme (132)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "93m2zobRrwrz6475bLhht1gPtTe2zy58RJMV9YL8pump",
+      "bonded_token_name": "Dog Vs Dog",
+      "bonded_token_symbol": "DVD",
+      "bonded_token_final_category": "Dog Meme",
+      "creation_timestamp_utc": "2025-05-21T12:02:36.009211+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T12:08:28.541818+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Dog Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "DOGEIVERSE - DOGE UNIVERSE (Category: Dog Meme)",
+          "DLX - DogeLix (Category: Dog Meme)",
+          "Umi - Slightly Retarded Shiba (Category: Dog Meme)",
+          "PiggyCoin - The Next Dogecoin (Category: Dog Meme)",
+          "D.O.G.E. - The D.O.G.E. (Category: Dog Meme)",
+          "DAWG - Dog Helping N Friend (Category: Dog Meme)",
+          "gOgE - gOgE (Category: Dog Meme)",
+          "DVD - Dog Vs Dog (Category: Meme)",
+          "MS - Meme Squad (Category: Dog Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "5w68xqRpVFqi7hCXuN7QLc5ReLv1PfpmT9TVm11Cpump",
+      "bonded_token_name": "I am Him ",
+      "bonded_token_symbol": "Him",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T12:19:35.910154+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T12:23:11.251765+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "West Nile - NEW DEADLY DISEASE (Category: Unclear/Generic)",
+          "footbtc - footbtc (Category: Unclear/Generic)",
+          "Abd - Abd (Category: Unclear/Generic)",
+          "SDF - DSFG (Category: Unclear/Generic)",
+          "QUADS - quad aces (Category: Unclear/Generic)",
+          "PNF - Pump Not Fun (Category: Unclear/Generic)",
+          "OP - Opepen Pieces (Category: Unclear/Generic)",
+          "KLARNA - Infinite Money Glitch (Category: Unclear/Generic)",
+          "NOOK - NOOKSTEIN (Category: Unclear/Generic)",
+          "HODL - HODL (Category: Unclear/Generic)",
+          "HypnoCoin - You Are Forced to Buy This (Category: Unclear/Generic)",
+          "Retard - Retardology (Category: Unclear/Generic)",
+          "JOIN - t.me/tokenprofitgroup (Category: Unclear/Generic)",
+          "m7areborn - m7areborn (Category: Unclear/Generic)",
+          "ferg - ferg (Category: Unclear/Generic)",
+          "SLURS - F*ture C*llege J*b (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    },
+    {
+      "bonded_token_mint": "C7V348d5RgBbDbu9YxEM81ggJdmfDuUPhc9ddN2zpump",
+      "bonded_token_name": "Your Balls 𐊠re in Gooԁ Hands",
+      "bonded_token_symbol": "BALLSTATE",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T12:19:45.911209+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T12:58:49.627611+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "Sexology - Sexology (Category: Abstract)",
+          "btclogy - bitcoinlogy (Category: Abstract)",
+          "TRUST - DOUBT (Category: Abstract)",
+          "CANDLE - Just Add A Wick (Category: Abstract)",
+          "Trencholgy - Trenchology (Category: Abstract)",
+          "btclogy - bitcoinlogy (Category: Abstract)",
+          "wakeup - wakeup call (Category: Abstract)",
+          "printcoin - what if you could print money (Category: Abstract)",
+          "CRY - Community Retardio Yield (Category: Abstract)",
+          "Vampology - Vampology (Category: Abstract)",
+          "COLLAPSE - COLLAPSE (Category: Abstract)",
+          "1414 - 142214 (Category: Abstract)",
+          "NOSIN - no more sinning (Category: Abstract)",
+          "SMS - Squish My Soul (Category: Abstract)",
+          "FUNGUS - Deadly Gamma Radtiation Fungus (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 15
+      }
+    },
+    {
+      "bonded_token_mint": "AsBv2HSH5ZCQxdoFbeNsDC8ULzdpar3FhVNE2EGCpump",
+      "bonded_token_name": "MEME CULTIVATION ENGINE",
+      "bonded_token_symbol": "MCE",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T12:23:15.765914+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T12:30:10.221393+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "TRENCHOLOG - TRENCHOLOGY (Category: Tech)",
+          "IBIT - BLACKROCK (Category: Tech)",
+          "BOOKMARK - BOOKMARK (Category: Tech)",
+          "KLARNA - infinite money glitch (Category: Pop Culture)",
+          "EIP-7493 - EIP-7493 (Category: Tech)",
+          "Klarna. - infinite money glitch (Category: Tech)",
+          "BINANCE - Binance Hot air balloon (Category: Pop Culture)",
+          "Jill - My Forever Date (Category: Pop Culture)",
+          "DEVIOUS - Devious Rat (Category: Animal (Other))",
+          "George - YouTube Backrooms Mascot (Category: Other Meme)",
+          "LISA - Google New Agent Mode (Category: AI Related)",
+          "OmniMCP - OmniMCP (Category: Tech)",
+          "Current - CurrentCoin  (Category: Tech)",
+          "nexo - NexoFin (Category: Tech)",
+          "Seeker - SolanaMobile (Category: Tech)",
+          "$HOVA - Holviva  (Category: Tech)",
+          "PixelPogo  - Pixel Pogo  (Category: Pop Culture)",
+          "SOLOGY - Prof. Sology (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 18
+      }
+    },
+    {
+      "bonded_token_mint": "2rvFTSAbfeT6KbciQfZCwT9oHy6se8k8nVGsQ1Lwpump",
+      "bonded_token_name": " CREATE NEW MEMES FROM THIS",
+      "bonded_token_symbol": "MEMEPOOL",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T12:29:25.640103+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T13:00:14.832715+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "Meme Pools - Meme Pools (Category: Other Meme)",
+          "Meme Pools - Meme Pools (Category: Other Meme)",
+          "Meme Pools - Meme Pools (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 3
+      }
+    },
+    {
+      "bonded_token_mint": "73mhFXKkUXMRGisAp4zBQ66RURHdboFGm6cuiJpopump",
+      "bonded_token_name": "BUY NOW, PAY NEVER",
+      "bonded_token_symbol": "KLARNA",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T12:35:25.265025+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T12:53:45.915001+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "TCE - The Cabal Experiment (Category: Abstract)",
+          "SPH - SolPhantom (Category: Abstract)",
+          "NIRA - NIRA (Category: Abstract)",
+          "AURA - aura. (Category: Abstract)",
+          "WLIFE - Worst Life Coin (Category: Abstract)",
+          "Capitalism - Capitalism Coin  (Category: Abstract)",
+          "NMWO - New Memetic World Order (Category: Abstract)",
+          "wakeup - wakeup call (Category: Abstract)",
+          "LUCK - LUCK.iO (Category: Abstract)",
+          "USD1$ - WLFI USD1 (Category: Abstract)",
+          "Poly - Polyamorous Not What I'm Called (Category: Abstract)",
+          "DOCENT - docent, the ai podcast network (Category: AI Related)",
+          "Sexology - Sexology (Category: Abstract)",
+          "analogy - analogy (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 14
+      }
+    },
+    {
+      "bonded_token_mint": "9kCisET1LkcPXGoPSW1eJuZrY2D543XjnAwYoSbcpump",
+      "bonded_token_name": "Unc Tyrone",
+      "bonded_token_symbol": "TYRONE",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T12:54:10.181272+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T13:00:23.760610+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "Pump fist - Pump fist (Category: Pop Culture)",
+          "BERT - Bert By Matt Furie (Category: Pop Culture)",
+          "Voyager - Justice For Voyager (Category: Pop Culture)",
+          "JOEVER - Its Joever (Category: Pop Culture)",
+          "HvH - Humans vs Humans  (Category: Pop Culture)",
+          "doofus - doofus (Category: Pop Culture)",
+          "GROWS - GROWS OFFLINE (Category: Pop Culture)",
+          "SMASH - KolSmash (Category: Pop Culture)",
+          "Giggle - Giggle Academy  (Category: Pop Culture)",
+          "HODL - hodl (Category: Pop Culture)",
+          "SEEKERSZN - SEEKER SZN  (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    }
+  ]
+}

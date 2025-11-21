@@ -1,0 +1,366 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T17:03:52.105995+00:00",
+  "target_creation_hour_id": "2025-05-21_17",
+  "total_tokens_in_categorized_file": 2298,
+  "total_valid_tokens_analyzed": 2298,
+  "pre_bond_category_distribution_after_refinement": {
+    "Other Meme": 203,
+    "Food": 56,
+    "Unclear/Generic": 553,
+    "Political Figure": 106,
+    "AI Related": 159,
+    "Dog Meme": 51,
+    "Abstract": 214,
+    "Tech": 247,
+    "Pop Culture": 354,
+    "Celebrity": 97,
+    "Animal (Other)": 156,
+    "Financial": 1,
+    "Cat Meme": 25,
+    "Movie/TV Show": 1,
+    "Meme": 4,
+    "Event": 19,
+    "Mythology": 2,
+    "Location": 19,
+    "Religious": 2,
+    "Art": 3,
+    "Plant": 1,
+    "Finance": 6,
+    "Color": 1,
+    "Sports": 1,
+    "Space": 1,
+    "Environmental": 1,
+    "Toy": 1,
+    "Religious Figure": 1,
+    "Sports Team": 1,
+    "Fashion": 2,
+    "Religion": 5,
+    "Gaming": 1,
+    "Artist": 1,
+    "Game": 1,
+    "Anime": 1,
+    "Medical Condition": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 12,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 60,
+    "Abstract": 17,
+    "Tech": 12,
+    "Animal (Other)": 10,
+    "Other Meme": 9
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_17 (UTC): 2298 valid pre-bond tokens analyzed (Total in categorized file: 2298). 12 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 60), Abstract (score: 17), Tech (score: 12), Animal (Other) (score: 10), Other Meme (score: 9) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (553), Pop Culture (354), Tech (247)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "9m37vdiCsSWuzHx6du5Wx8S8KCAD5xKNoetxvcLpump",
+      "bonded_token_name": "Upop",
+      "bonded_token_symbol": "UPOP",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T16:00:15.671443+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:01:33.126119+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "error": "GPT Bonded response not valid JSON",
+        "raw_response": "{\n  \"final_target_token_theme_confirmation\": \"Unclear/Generic\",\n  \"related_pre_bond_tokens_by_gpt\": [\n    \"rotatecoin - money rotation coin (Category: Unclear/Generic)\",\n    \"TX - Txc0ld (Category: Unclear/Generic)\",\n    \"BIT -  Bitcoins (Category: Unclear/Generic)\",\n    \"BITCOIN - This Cures Cancer (Category: Unclear/Generic)\",\n    \"BITTARD - Bittarded (Category: Unclear/Generic)\",\n    \"AFTERPAY - forgottopay (Category: Unclear/Generic)\",\n    \"MONEy - Money On The Table (Category: Unclear/Generic)\",\n    \"Bless - This will bless u (Category: Unclear/Generic)\",\n    \"MONEy - Money On The Table (Category: Unclear/Generic)\",\n    \"Bitty - Bitcoin Mascot (Category: Animal (Other))\",\n    \"DOGEISM - ELONS NEW RELIGION (Category: Dog Meme)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category: Unclear/Generic)\",\n    \"DOZO  - DOZO  (Category"
+      }
+    },
+    {
+      "bonded_token_mint": "DRA5Rxfgk3Y238CJMDsTARzd833LMRzM4mHxPhUkpump",
+      "bonded_token_name": "First Bitcoin Cult",
+      "bonded_token_symbol": "⚡️",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T16:00:39.382620+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:02:01.629783+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "SPONGECORE - NEW SPONGEBOB CORE (Category: Pop Culture)",
+          "CDS - Crypto Derangement Syndrome  (Category: Pop Culture)",
+          "BACK - We're So Back (Category: Pop Culture)",
+          "SPEED - NEW YOUTUBE MASCOT (Category: Pop Culture)",
+          "CUCCT - CucumberCat (Category: Animal (Other))",
+          "BullvsBear - Bulls always win (Category: Pop Culture)",
+          "SORA - NEIRO'S TWIN BROTHER (Category: Pop Culture)",
+          "CUM - Cryptographic Ultra Mone (Category: Pop Culture)",
+          "☀️ -  First Solana Cult (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "A4e5yrMspaqDpusuYRCjYPk5LvxGFSbH5ipbB6ompump",
+      "bonded_token_name": "Orange Coin go up",
+      "bonded_token_symbol": "ORANGE",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T16:07:37.187579+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:25:17.237629+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "IR - Irl Ratatouille (Category: Pop Culture)",
+          "She - She (Category: Pop Culture)",
+          "ChilledCow - Lofi Girl (Category: Pop Culture)",
+          "MEME - COIN (Category: Pop Culture)",
+          "KOLMugshot - KOLMugshot (Category: Pop Culture)",
+          "neal.fun - neal.fun (Category: Pop Culture)",
+          "PUMPFUN - THE LUCKIEST CASINO (Category: Pop Culture)",
+          "HYPNOTIZE - DUOLINGO THIS WAS MEANT FOR YOU (Category: Pop Culture)",
+          "Pillhead - Just a Chill Pillhead (Category: Pop Culture)",
+          "Poison  - Poison  (Category: Pop Culture)",
+          "LWR - r/LaunchWifReddit (Category: Pop Culture)",
+          "BTC2.0 - Second Chance At Buying Bitcoin (Category: Pop Culture)",
+          "DOOM - NEW YOUTUBE MASCOT (Category: Pop Culture)",
+          "BullvsBear - Bulls always win (Category: Pop Culture)",
+          "Lifeman - Shadow Lifeman Labs (Category: Pop Culture)",
+          "SNOW - Jon Snow (Category: Pop Culture)",
+          "Rob - Just Rob (Category: Pop Culture)",
+          "3guysdance - 3 Guys Dancing Meme (Category: Pop Culture)",
+          " ORANGEPIL - Orange Pill (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 19
+      }
+    },
+    {
+      "bonded_token_mint": "CeRGxqTcbrDqyq7315yukUi9qbQnMt9FJyfxSKASpump",
+      "bonded_token_name": "Bitcoin First Memecoin",
+      "bonded_token_symbol": "ClownCoin",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T16:09:01.464890+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:50:36.107238+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "og bitcoin - original bitcoin logo (Category: Tech)",
+          "it - bond (Category: Tech)",
+          "SKR - SEEKER REAL LOGO (Category: Tech)",
+          "LUMMA - Lumma Stealer (Category: Tech)",
+          "⚡️ - First Bitcoin Cult (Category: Tech)",
+          "TEPIN - TEPIN (Category: Tech)",
+          "USABTC - AmericaBTC (Category: Tech)",
+          "SKR - SEEKER (Category: Tech)",
+          "₿ - forever undefeated (Category: Tech)",
+          "Zcash - First Bitcoin Alternative (Category: Tech)",
+          "USPF - unstable pumpfun (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    },
+    {
+      "bonded_token_mint": "4RAyZ6WwazU86vbLNT6CFMt9hCm6utHq42fs3RnTpump",
+      "bonded_token_name": "onety one",
+      "bonded_token_symbol": "onety",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T16:17:00.187636+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:27:29.050698+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "CORECULT - BITCOIN CORE CULT TAKEOVER (Category: Pop Culture)",
+          "BTRASH - The Bitcoin 💩 (Category: Pop Culture)",
+          "DOOMGUY - Youtube Gaming Mascot (Category: Pop Culture)",
+          "ferb - phineas (Category: Pop Culture)",
+          "CRYPTOMAN - NASA BITCOIN MASCOT (Category: Pop Culture)",
+          "⚡️ - BTC cult ⚡️ (Category: Pop Culture)",
+          "3guysdance - 3 Guys Dancing Meme (Category: Pop Culture)",
+          "OPERATE - Operate.Fun (Category: Pop Culture)",
+          "RBK2 - Racist Burger King 2 (Category: Pop Culture)",
+          "SOL-GUY - FIRST SOLANA KOL (Category: Pop Culture)",
+          "BitChan - First Bitcoin Anime Mascot (Category: Pop Culture)",
+          "iBTC - Imagine Bitcoin (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 12
+      }
+    },
+    {
+      "bonded_token_mint": "JCdpp7RsPGEoPBdtMesjugQdHE2FvN6T4CEHVjWPRWoP",
+      "bonded_token_name": "Most Powerful Being",
+      "bonded_token_symbol": "Bonzi",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T16:22:42.726964+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:26:37.403651+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "ATH - ATH (Category: Abstract)",
+          "artcoin - artcoin (Category: Abstract)",
+          "VIBE - VibeCode (Category: Abstract)",
+          "NovaQ - NovaQ.ERC (Category: Abstract)",
+          "FTM - Moron (Category: Unclear/Generic)",
+          "FEELS - Unstable Feelings (Category: Abstract)",
+          "FIRED - FIRED (Category: Abstract)",
+          "TBL - The Big Long (Category: Abstract)",
+          "MAY - This MAY Migrate (Category: Abstract)",
+          "SPRINGER - Springer (Category: Celebrity)"
+        ],
+        "count_related_pre_bond_by_gpt": 10
+      }
+    },
+    {
+      "bonded_token_mint": "7jEHBTvbgPEXaBg9ZX2RMQDwBZiTDGDuPdMeChw6pump",
+      "bonded_token_name": "AIDY AI",
+      "bonded_token_symbol": "AIDY",
+      "bonded_token_final_category": "AI Related",
+      "creation_timestamp_utc": "2025-05-21T16:23:27.393836+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:24:12.874659+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "AI Related",
+        "related_pre_bond_tokens_by_gpt": [
+          "Currents - Currents One AI (Category: AI Related)",
+          "OXIS - OXIS AI (Category: AI Related)",
+          "OXIS AI - OXIS AI (Category: AI Related)",
+          "BOT - BitBot (Category: AI Related)",
+          "FRAN - Francium AI (Category: AI Related)",
+          "GUSE - Guse AI APP (Category: AI Related)"
+        ],
+        "count_related_pre_bond_by_gpt": 6
+      }
+    },
+    {
+      "bonded_token_mint": "LppLJniYrdhYuiU9pB1SwJmnm2NxVyHZftfNYPmpump",
+      "bonded_token_name": "Lingra",
+      "bonded_token_symbol": "LINGRA",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T16:39:21.881683+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:50:53.048794+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "MONAD - Monad (Category: Abstract)",
+          "BlackCoin - BlackCoin (Category: Abstract)",
+          "GMONAD - gmonad (Category: Abstract)",
+          "HOPE - HOPE (Category: Abstract)",
+          "Earlycoin - Earlycoin (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "GvT1GbT46nqNX6s985Ykv5d7CJV9KAPA65FzYHABpump",
+      "bonded_token_name": "Beer coin 2",
+      "bonded_token_symbol": "Beer 2 ",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T16:39:30.912881+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:53:40.724360+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "W - The Cult Of Solana (Category: Other Meme)",
+          "◎ - Solana Cult (Category: Pop Culture)",
+          "☀️ -  First Solana Cult (Category: Other Meme)",
+          "◎ - Solana Cult (Category: Other Meme)",
+          "🍒 - FIRST EMOJI CULT (Category: Other Meme)",
+          "222 - First Solana Cult (Category: Other Meme)",
+          "222 - First Solana Cult  (Category: Other Meme)",
+          "⚡️ - First Pump Fun Cult (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 8
+      }
+    },
+    {
+      "bonded_token_mint": "AWYvFDbQcVG1y1BMcgWaJLnaynkMWaYEuQBYEfypump",
+      "bonded_token_name": " First Solana Cult",
+      "bonded_token_symbol": "☀️",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T16:40:50.746217+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:49:22.267766+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "Pillhead - Just a Chill Pillhead (Category: Pop Culture)",
+          "YOLO - yolo (Category: Pop Culture)",
+          "IR - Irl Ratatouille (Category: Pop Culture)",
+          "MAX - MAX (Category: Pop Culture)",
+          "TOBYFISH - Trader Fish (Category: Pop Culture)",
+          "$HERO - Superhero 2025 (Category: Pop Culture)",
+          "SPONGECORE - NEW SPONGEBOB CORE (Category: Pop Culture)",
+          "HONEY - First Bitcoin Mascot (Category: Pop Culture)",
+          "🥀 - First Depression Cult (Category: Pop Culture)",
+          "👁️ - FIRST PUMP.FUN CULT (Category: Pop Culture)",
+          "CUM - Cryptographic Ultra Mone (Category: Pop Culture)",
+          "STACY - Stacy's Mom (Category: Pop Culture)",
+          "₿ - Old Bitcoin Cult (Category: Pop Culture)",
+          "BTCORECULT - BITCOIN CORE CULT (Category: Pop Culture)",
+          "BWH - Bitcoin Wif Hat (Category: Pop Culture)",
+          "CUM - Cryptographic Ultra Mone (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    },
+    {
+      "bonded_token_mint": "6CCoD1QETfbBctVjepQyHg8o4xxLgimr6yb5y3VJpump",
+      "bonded_token_name": "POMP",
+      "bonded_token_symbol": "POMP",
+      "bonded_token_final_category": "Celebrity",
+      "creation_timestamp_utc": "2025-05-21T16:53:25.001055+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T16:53:49.493386+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Celebrity",
+        "related_pre_bond_tokens_by_gpt": [
+          "kanye - West (Category: Celebrity)",
+          "Nick - Nick Gerz (Category: Celebrity)",
+          "Bezo Bucks - New Jeff Bezos Amazon Currency (Category: Celebrity)"
+        ],
+        "count_related_pre_bond_by_gpt": 3
+      }
+    },
+    {
+      "bonded_token_mint": "S9cBsFPrZBRLK3QtmakDH8JzZqEPmzgwM4mmsF3pump",
+      "bonded_token_name": "Tubby",
+      "bonded_token_symbol": "Tubby",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-21T16:59:44.277100+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T17:00:01.326852+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "GOBBLY - Gobler's Wobblers (Category: Animal (Other))",
+          "HEN - hen (Category: Animal (Other))",
+          "Feliz - Newborn Tampa Zoo Sloth (Category: Animal (Other))",
+          "JULIA - PBS GOOSE (Category: Animal (Other))",
+          "HFF - holy frog father (Category: Animal (Other))",
+          "PELLY - Sad pelmen waiting for migration (Category: Animal (Other))",
+          "CAPIV - Capivara (Category: Animal (Other))",
+          "SABA - SamekoSaba (Category: Animal (Other))",
+          "SPRINGER - New LA Zoo Vulture (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    }
+  ]
+}

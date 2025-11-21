@@ -1,0 +1,3206 @@
+{
+  "report_timestamp": 1759611049,
+  "report_datetime_utc": "2025-10-04 20:50:49 UTC",
+  "parameters": {
+    "min_holders_for_correlation": 2,
+    "birdeye_filter_mints_count": 274,
+    "wallets_monitored_count": 150
+  },
+  "correlated_holdings": [
+    {
+      "original_correlation_data": {
+        "token_mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+        "total_holders_in_set": 5,
+        "holding_wallets_in_set": [
+          "6XC1gePxFNVmY2Gr483dFSPccfkrDmS16nnVyGegGaVk",
+          "BSwA99cLWzghFQ8X8wYGefu8AC61jRPvP47ctNUTJrTB",
+          "E4QZ2DcwXQeoqhrpViSq8SRxSbWBKR8mKXvFeniUG33Q",
+          "ES1f2NpZqQdM75armNDmShpTX7HsnE4B2sXYG78X8bTd",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "E4QZ2DcwXQeoqhrpViSq8SRxSbWBKR8mKXvFeniUG33Q": 0.0,
+          "BSwA99cLWzghFQ8X8wYGefu8AC61jRPvP47ctNUTJrTB": 0.0,
+          "ES1f2NpZqQdM75armNDmShpTX7HsnE4B2sXYG78X8bTd": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0,
+          "6XC1gePxFNVmY2Gr483dFSPccfkrDmS16nnVyGegGaVk": 0.0
+        }
+      },
+      "token_mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+      "symbol": "DOGHOUSE",
+      "name": "Doghouse Coin",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "DOGHOUSE",
+        "cached_name": "Doghouse Coin",
+        "note": "Failed validation 40m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759608699,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump",
+        "total_holders_in_set": 4,
+        "holding_wallets_in_set": [
+          "7YwKUjkSQLLN4MSMbLvMEu3Wb4bbnC6QKAJ7wgZ3hhna",
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "Ap3LKcdGsSkQx1ju96ueVqXkBKkFAKihLc1aSTTC5Yvb",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "7YwKUjkSQLLN4MSMbLvMEu3Wb4bbnC6QKAJ7wgZ3hhna": 0.0,
+          "Ap3LKcdGsSkQx1ju96ueVqXkBKkFAKihLc1aSTTC5Yvb": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump",
+      "symbol": "BSSC",
+      "name": "Binance Super Smart Chain",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "BSSC",
+        "cached_name": "Binance Super Smart Chain",
+        "note": "Alerted 78m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759606429,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+        "total_holders_in_set": 4,
+        "holding_wallets_in_set": [
+          "6XC1gePxFNVmY2Gr483dFSPccfkrDmS16nnVyGegGaVk",
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "ES1f2NpZqQdM75armNDmShpTX7HsnE4B2sXYG78X8bTd",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "6XC1gePxFNVmY2Gr483dFSPccfkrDmS16nnVyGegGaVk": 0.0,
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "ES1f2NpZqQdM75armNDmShpTX7HsnE4B2sXYG78X8bTd": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+      "symbol": "PAPER",
+      "name": "Paper Bag",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "PAPER",
+        "cached_name": "Paper Bag",
+        "note": "Failed validation 79m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759606331,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump",
+        "total_holders_in_set": 4,
+        "holding_wallets_in_set": [
+          "5sfgNqrAR1L1RkzfBk3c1LEuPJEmYW4RJQTvWL93bEkL",
+          "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z",
+          "9AsWYBmRnWiWyq35yisgFP4dZvfps669Xji7YXoWXcpH",
+          "XP7Go2zjco5oZ5KFLMqGYzcvU8HkW49JmipwaoDgbtE"
+        ],
+        "holder_balances_uiAmount": {
+          "5sfgNqrAR1L1RkzfBk3c1LEuPJEmYW4RJQTvWL93bEkL": 0.0,
+          "XP7Go2zjco5oZ5KFLMqGYzcvU8HkW49JmipwaoDgbtE": 0.0,
+          "9AsWYBmRnWiWyq35yisgFP4dZvfps669Xji7YXoWXcpH": 0.0,
+          "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z": 0.0
+        }
+      },
+      "token_mint": "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump",
+      "symbol": "MERGESTRAT",
+      "name": "The Merge by Pak STRATEGY",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "MERGESTRAT",
+        "cached_name": "The Merge by Pak STRATEGY",
+        "note": "Alerted 16m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759610139,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump",
+        "total_holders_in_set": 3,
+        "holding_wallets_in_set": [
+          "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z",
+          "B5Ha9ozebtGh5z91b4FkRoze8cosR3s5igaEBakpTsg2",
+          "JBMHuZjfVsJeRVirf1CrSh1xLVu3n4dtvyytcFgSDVdE"
+        ],
+        "holder_balances_uiAmount": {
+          "JBMHuZjfVsJeRVirf1CrSh1xLVu3n4dtvyytcFgSDVdE": 0.0,
+          "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z": 0.0,
+          "B5Ha9ozebtGh5z91b4FkRoze8cosR3s5igaEBakpTsg2": 0.0
+        }
+      },
+      "token_mint": "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump",
+      "symbol": "Alex",
+      "name": " First AI Murderer",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "Alex",
+        "cached_name": " First AI Murderer",
+        "note": "Alerted 16m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759610148,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump",
+        "total_holders_in_set": 3,
+        "holding_wallets_in_set": [
+          "DxbsEF6QjZtEDSGmTz5D95cBMNWhYSK6hdjnvYPc434H",
+          "EgUKP1zgtuUxFdpLntv7XfeexiPmyL1EuYCbHii8h1Rg",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "DxbsEF6QjZtEDSGmTz5D95cBMNWhYSK6hdjnvYPc434H": 0.0,
+          "EgUKP1zgtuUxFdpLntv7XfeexiPmyL1EuYCbHii8h1Rg": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump",
+      "symbol": "FUTARCHY",
+      "name": "FUTARCHY",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "FUTARCHY",
+        "cached_name": "FUTARCHY",
+        "note": "Alerted 16m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759610136,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "total_holders_in_set": 3,
+        "holding_wallets_in_set": [
+          "92UfdA68oG9yoBuPB6w1kNDVRDQscprUgWpmr46ZKHQT",
+          "BsCZUYVA1VpgYjo2tgWZCF6fCqjdZscJ9LA4kTxAaWZ1",
+          "HbyrjdLLJBKzmXGDRDyJh7vQNZwfMikHokmZFFAXfKNb"
+        ],
+        "holder_balances_uiAmount": {
+          "BsCZUYVA1VpgYjo2tgWZCF6fCqjdZscJ9LA4kTxAaWZ1": 0.0,
+          "92UfdA68oG9yoBuPB6w1kNDVRDQscprUgWpmr46ZKHQT": 0.0,
+          "HbyrjdLLJBKzmXGDRDyJh7vQNZwfMikHokmZFFAXfKNb": 0.0
+        }
+      },
+      "token_mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+      "bds_metadata": {
+        "address": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "name": "Everlyn AI.",
+        "symbol": "LYN-AA",
+        "decimals": 6,
+        "logo_uri": "https://ipfs.io/ipfs/QmfB5hivRnqUbqeipR9s5zoQv5XoUojTiC2Edo39HaoJqG"
+      },
+      "bds_market_data": {
+        "address": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "price": 0.00021104263533868026,
+        "liquidity": 159558.98445069237,
+        "total_supply": 1000000000,
+        "circulating_supply": 1000000000,
+        "fdv": 211042.63533868027,
+        "market_cap": 211042.63533868027,
+        "is_scaled_ui_token": false,
+        "multiplier": null,
+        "top_holder_pct": 0.40303246271934
+      },
+      "bds_holder_data": [
+        {
+          "amount": "403032462719340",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "DiER6cFNThZmrW19cnTfvezbkpveeyjV4FRY8nPU1D4r",
+          "token_account": "7SA7es4iLgFDK1v3Q5XCrUy8nwwJq2AoWErXevga6cQj",
+          "ui_amount": 403032462.71934,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3662290014636",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "9EfPFYZ7yGHTWQqfPHsyyNaoTANhSUBF18SLrQ8N7qfV",
+          "token_account": "7mPox6n66BsYCh1z7Hr42ErLNMuaBvcYDPdEur9dV5wr",
+          "ui_amount": 3662290.014636,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3382989685289",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "9CwZoKTWgwFtYzQmuRpDj26KsgB6wzoeED3v2CshCk1W",
+          "token_account": "CF3AdNrGFnFT7LiTtbHhLFtbMzLterSYcfALJZUvJDq5",
+          "ui_amount": 3382989.685289,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3361801776174",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "Cx5nusG7jTC7xfofXm1qyhk6xY2PWw7n9iqWbo431GxA",
+          "token_account": "AQEyvKPoQiJNbj9BS8jEemnP57RRzgJyyQCiYum3NbKH",
+          "ui_amount": 3361801.776174,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3221509877923",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "CAFWuz2eSsGiRpMgsZ36jMSZ5KMMVo7CHFGJsmAZbfVW",
+          "token_account": "6S6vxixXudNcrGNakjAGmUiYTvNmdWk9p27vE5bYfWCe",
+          "ui_amount": 3221509.877923,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3150890552411",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "ENzAKkzh3PVpQ6FJFwXEtRjpTL5H1mWgXRkd895jL3Rc",
+          "token_account": "EdEuq8znjeiFEFReySyfFM7w3DnAP4ecxZviRM7hEURy",
+          "ui_amount": 3150890.552411,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3126529233406",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "7Bmoi8iUA5ayfRTGGaqssmEnFYX6NHXTVZsNT6h95n8b",
+          "token_account": "EBknCq9r2frGAZvrvSzJGzK4VqPJdyy75QUwYMRrd445",
+          "ui_amount": 3126529.233406,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3110039731171",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "eY4b3A1qfdBzRp2rxCc1CxrWKf7s5pivqtnM7evZBFR",
+          "token_account": "BVNqcqGoT1jrm4TYHZpSjaf1cH7TmkGADFJ64aSMroz9",
+          "ui_amount": 3110039.731171,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3099204724287",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "92Vnxjwd3i4iHZ9APnPDhWwWRsMoyjDtnWBcejzSQ5ms",
+          "token_account": "8S4sG3CTDjWoVQz6x5eKdFLSv9A6uLs9GwCdHrF5oY1P",
+          "ui_amount": 3099204.724287,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3057299916693",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "D1mHEswtsQp9dk6Q1PHn1v4YhqCcn7ow2HDn3kHXYw1w",
+          "token_account": "ErJCxPMpcjPz8b9C9wd4iSwWyjVxj8EuKf2oF2LNRBip",
+          "ui_amount": 3057299.916693,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3046757980908",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "rQbjKhVb7BA6VtDc9t9NVzsjbBwUekzicjR5sfKSF8A",
+          "token_account": "3vJPFebWQkh1hK8fqG2hARG6ndf7XsorzkEQTD9pg1RW",
+          "ui_amount": 3046757.980908,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3046079553568",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "5n9Lb8cw867Ajd71DkE4tBuYNJQJcAk9dfWpp6o84zny",
+          "token_account": "Cp6LsSBasm97M3Zgvm26MKRgDAtxFXYjYLATr2crLEuY",
+          "ui_amount": 3046079.553568,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3035659456143",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "AKcGWM5t8GtSxbeEUnw47Magp742RQXsEpAASrx5UYPe",
+          "token_account": "oXNZbBgCuEBtuBz1nnfuX5NtPQUk2G5wxPpuo1TL5NU",
+          "ui_amount": 3035659.456143,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3012505707529",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "DuyK7TaEXYaYvnsEXeR74ciow6m1yF2ZiXS5RDSQf4ws",
+          "token_account": "FSgLfyBPammqPV19eLMGApDzRSmjHqN1AbHZgkknvKyh",
+          "ui_amount": 3012505.707529,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "2992586524315",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "47xjdGfLcK8mv5b81NWKeBJKZK19WU6EDKCg4TbMYRMv",
+          "token_account": "FQkbdLjBW5X8osSoc7zwW9999x9LYL3xBDxGjcha9wAe",
+          "ui_amount": 2992586.524315,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "2985533605758",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "Fm2We5Uzz7sBDLJHxm1RFUcbRRsTztvNgyNpe6W5QKL8",
+          "token_account": "A9ZTxMkrkZ2pSoCNVyAWRNyeZP7vTypTXxxV5n1yhb53",
+          "ui_amount": 2985533.605758,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "2972916978989",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "EqnLcQ1qJTNz4k3tQuu2qeSENH1Y4Q7f1HMeXui9Gzox",
+          "token_account": "6HmqD1KzAyhmU6yT7d3KtyhQ9dWnHDRWbUmt88KvjTnZ",
+          "ui_amount": 2972916.978989,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "2967368889093",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "AYKG4pHsdYd3wXHeU2tPV1iBGRMaurhQNKpUQeUosgRn",
+          "token_account": "33y1X2o5JYCjz9ABY9sjSBmLgVGKJ3ybEQTuJC9GY8xZ",
+          "ui_amount": 2967368.889093,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "2959473616965",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "EmcurDLH31sjvZiqJU94XkKB4dW8ick7pYf6nor8gqrQ",
+          "token_account": "FhY1W4BmGF4Yq4cgp9C5MgSwyRyykYvKPuYDcqkVkmeK",
+          "ui_amount": 2959473.616965,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "2959370862362",
+          "decimals": 6,
+          "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+          "owner": "AAv97u3WLKEdHAXAx3zjdMqCN5z6p2jmWHnzVKE1ptNv",
+          "token_account": "B7ueKJi4RJ9jV5S7Vi3vEVhGJN1ix1d7ZukBW7tuKRZb",
+          "ui_amount": 2959370.862362,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        }
+      ],
+      "bds_trade_data": {
+        "address": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "holder": 4519,
+        "market": 1,
+        "last_trade_unix_time": 1759611125,
+        "last_trade_human_time": "2025-10-04T20:52:05",
+        "price": 0.00021215432154987954,
+        "history_1m_price": 0.0002082729372228124,
+        "price_change_1m_percent": 1.863604738485444,
+        "history_5m_price": 0.00018922110366413863,
+        "price_change_5m_percent": 12.119799241022625,
+        "history_30m_price": 0.00022633122429312875,
+        "price_change_30m_percent": -6.26378564757298,
+        "history_1h_price": 0.00026771124392013703,
+        "price_change_1h_percent": -20.752554714075103,
+        "history_2h_price": 0.00018105240998108252,
+        "price_change_2h_percent": 17.178402415105516,
+        "history_4h_price": 0.00018374287218098404,
+        "price_change_4h_percent": 15.462613069915786,
+        "history_6h_price": 9.500924908231399e-05,
+        "price_change_6h_percent": 123.29859839863964,
+        "history_8h_price": 9.500924908231399e-05,
+        "price_change_8h_percent": 123.29859839863964,
+        "history_12h_price": 9.500924908231399e-05,
+        "price_change_12h_percent": 123.29859839863964,
+        "history_24h_price": 9.500924908231399e-05,
+        "price_change_24h_percent": 123.29859839863964,
+        "unique_wallet_1m": 44,
+        "unique_wallet_history_1m": 43,
+        "unique_wallet_1m_change_percent": 2.3255813953488373,
+        "unique_wallet_5m": 187,
+        "unique_wallet_history_5m": 186,
+        "unique_wallet_5m_change_percent": 0.5376344086021505,
+        "unique_wallet_30m": 1026,
+        "unique_wallet_history_30m": 1038,
+        "unique_wallet_30m_change_percent": -1.1560693641618498,
+        "unique_wallet_1h": 1957,
+        "unique_wallet_history_1h": 1917,
+        "unique_wallet_1h_change_percent": 2.0865936358894106,
+        "unique_wallet_2h": 3458,
+        "unique_wallet_history_2h": 3116,
+        "unique_wallet_2h_change_percent": 10.975609756097562,
+        "unique_wallet_4h": 5436,
+        "unique_wallet_history_4h": 667,
+        "unique_wallet_4h_change_percent": 714.992503748126,
+        "unique_wallet_8h": 5648,
+        "unique_wallet_history_8h": 0,
+        "unique_wallet_8h_change_percent": null,
+        "unique_wallet_24h": 5648,
+        "unique_wallet_history_24h": 0,
+        "unique_wallet_24h_change_percent": null,
+        "trade_1m": 58,
+        "trade_history_1m": 64,
+        "trade_1m_change_percent": -9.375,
+        "sell_1m": 27,
+        "sell_history_1m": 30,
+        "sell_1m_change_percent": -10,
+        "buy_1m": 31,
+        "buy_history_1m": 34,
+        "buy_1m_change_percent": -8.823529411764707,
+        "volume_1m": 91488049.70049801,
+        "volume_1m_usd": 19491.089965020827,
+        "volume_history_1m": 107196215.89242502,
+        "volume_history_1m_usd": 21925.70184998762,
+        "volume_1m_change_percent": -14.65365737134851,
+        "volume_buy_1m": 48204786.759957,
+        "volume_buy_1m_usd": 10264.278161489856,
+        "volume_buy_history_1m": 58783522.503381014,
+        "volume_buy_history_1m_usd": 12022.161309755906,
+        "volume_buy_1m_change_percent": -17.996090218675757,
+        "volume_sell_1m": 43283262.94054101,
+        "volume_sell_1m_usd": 9226.81180353097,
+        "volume_sell_history_1m": 48412693.389044,
+        "volume_sell_history_1m_usd": 9903.540540231717,
+        "volume_sell_1m_change_percent": -10.595218091426839,
+        "trade_5m": 306,
+        "trade_history_5m": 322,
+        "trade_5m_change_percent": -4.968944099378882,
+        "sell_5m": 147,
+        "sell_history_5m": 168,
+        "sell_5m_change_percent": -12.5,
+        "buy_5m": 159,
+        "buy_history_5m": 154,
+        "buy_5m_change_percent": 3.2467532467532463,
+        "volume_5m": 509156241.296952,
+        "volume_5m_usd": 102135.43198932291,
+        "volume_history_5m": 578309409.685437,
+        "volume_history_5m_usd": 110398.20035841342,
+        "volume_5m_change_percent": -11.957814835850558,
+        "volume_buy_5m": 264312705.383304,
+        "volume_buy_5m_usd": 53047.170491448815,
+        "volume_buy_history_5m": 275779773.339341,
+        "volume_buy_history_5m_usd": 52648.3023196269,
+        "volume_buy_5m_change_percent": -4.158052571145967,
+        "volume_sell_5m": 244843535.913648,
+        "volume_sell_5m_usd": 49088.261497874104,
+        "volume_sell_history_5m": 302529636.346096,
+        "volume_sell_history_5m_usd": 57749.898038786516,
+        "volume_sell_5m_change_percent": -19.067917156537575,
+        "trade_30m": 1883,
+        "trade_history_30m": 2084,
+        "trade_30m_change_percent": -9.644913627639156,
+        "sell_30m": 945,
+        "sell_history_30m": 1043,
+        "sell_30m_change_percent": -9.395973154362416,
+        "buy_30m": 938,
+        "buy_history_30m": 1041,
+        "buy_30m_change_percent": -9.894332372718539,
+        "volume_30m": 2945339917.1937337,
+        "volume_30m_usd": 653404.3024418023,
+        "volume_history_30m": 3164343099.48941,
+        "volume_history_30m_usd": 729393.0582867784,
+        "volume_30m_change_percent": -6.920968283465026,
+        "volume_buy_30m": 1460653500.3444278,
+        "volume_buy_30m_usd": 324016.94211113174,
+        "volume_buy_history_30m": 1567049651.1162798,
+        "volume_buy_history_30m_usd": 361023.942143024,
+        "volume_buy_30m_change_percent": -6.78958389710634,
+        "volume_sell_30m": 1484686416.8493059,
+        "volume_sell_30m_usd": 329387.36033067066,
+        "volume_sell_history_30m": 1597293448.37313,
+        "volume_sell_history_30m_usd": 368369.1161437544,
+        "volume_sell_30m_change_percent": -7.049864984954164,
+        "trade_1h": 3676,
+        "trade_history_1h": 3779,
+        "trade_1h_change_percent": -2.725588780100556,
+        "sell_1h": 1839,
+        "sell_history_1h": 1865,
+        "sell_1h_change_percent": -1.394101876675603,
+        "buy_1h": 1837,
+        "buy_history_1h": 1914,
+        "buy_1h_change_percent": -4.022988505747127,
+        "volume_1h": 5686642606.970001,
+        "volume_1h_usd": 1282748.5075219753,
+        "volume_history_1h": 5984370295.685762,
+        "volume_history_1h_usd": 1294187.3240014503,
+        "volume_1h_change_percent": -4.975088004336869,
+        "volume_buy_1h": 2821622666.0548196,
+        "volume_buy_1h_usd": 636283.9742442673,
+        "volume_buy_history_1h": 3029634529.1445975,
+        "volume_buy_history_1h_usd": 655054.1086839634,
+        "volume_buy_1h_change_percent": -6.865906137810922,
+        "volume_sell_1h": 2865019940.915182,
+        "volume_sell_1h_usd": 646464.533277708,
+        "volume_sell_history_1h": 2954735766.541165,
+        "volume_sell_history_1h_usd": 639133.2153174869,
+        "volume_sell_1h_change_percent": -3.036340055916565,
+        "trade_2h": 7166,
+        "trade_history_2h": 6835,
+        "trade_2h_change_percent": 4.842721287490856,
+        "sell_2h": 3560,
+        "sell_history_2h": 3311,
+        "sell_2h_change_percent": 7.5203865901540325,
+        "buy_2h": 3606,
+        "buy_history_2h": 3524,
+        "buy_2h_change_percent": 2.3269012485811578,
+        "volume_2h": 11277332661.428907,
+        "volume_2h_usd": 2475108.2722749575,
+        "volume_history_2h": 11770222528.293123,
+        "volume_history_2h_usd": 2402594.0649587926,
+        "volume_2h_change_percent": -4.187600240177388,
+        "volume_buy_2h": 5658361391.411454,
+        "volume_buy_2h_usd": 1241444.299082823,
+        "volume_buy_history_2h": 5890612320.2473,
+        "volume_buy_history_2h_usd": 1202347.349102959,
+        "volume_buy_2h_change_percent": -3.942729825175383,
+        "volume_sell_2h": 5618971270.017453,
+        "volume_sell_2h_usd": 1233663.9731921344,
+        "volume_sell_history_2h": 5879610208.045823,
+        "volume_sell_history_2h_usd": 1200246.7158558336,
+        "volume_sell_2h_change_percent": -4.432928864428875,
+        "trade_4h": 14670,
+        "trade_history_4h": 1533,
+        "trade_4h_change_percent": 856.9471624266145,
+        "sell_4h": 7155,
+        "sell_history_4h": 689,
+        "sell_4h_change_percent": 938.4615384615385,
+        "buy_4h": 7515,
+        "buy_history_4h": 844,
+        "buy_4h_change_percent": 790.4028436018957,
+        "volume_4h": 25425473977.772552,
+        "volume_4h_usd": 5135360.725817693,
+        "volume_history_4h": 3997816640.058014,
+        "volume_history_4h_usd": 563031.6849957418,
+        "volume_4h_change_percent": 535.9839949388872,
+        "volume_buy_4h": 13011745274.500704,
+        "volume_buy_4h_usd": 2593055.604859091,
+        "volume_buy_history_4h": 2290657975.3111973,
+        "volume_buy_history_4h_usd": 305210.1272430202,
+        "volume_buy_4h_change_percent": 468.0352726047193,
+        "volume_sell_4h": 12413728703.271849,
+        "volume_sell_4h_usd": 2542305.120958603,
+        "volume_sell_history_4h": 1707158664.7468166,
+        "volume_sell_history_4h_usd": 257821.55775272165,
+        "volume_sell_4h_change_percent": 627.1572912124656,
+        "trade_8h": 14670,
+        "trade_history_8h": 0,
+        "trade_8h_change_percent": null,
+        "sell_8h": 7155,
+        "sell_history_8h": 0,
+        "sell_8h_change_percent": null,
+        "buy_8h": 7515,
+        "buy_history_8h": 0,
+        "buy_8h_change_percent": null,
+        "volume_8h": 25425473977.772552,
+        "volume_8h_usd": 5135360.725817693,
+        "volume_history_8h": 0,
+        "volume_history_8h_usd": 0,
+        "volume_8h_change_percent": null,
+        "volume_buy_8h": 13011745274.500704,
+        "volume_buy_8h_usd": 2593055.604859091,
+        "volume_buy_history_8h": 0,
+        "volume_buy_history_8h_usd": 0,
+        "volume_buy_8h_change_percent": null,
+        "volume_sell_8h": 12413728703.271849,
+        "volume_sell_8h_usd": 2542305.120958603,
+        "volume_sell_history_8h": 0,
+        "volume_sell_history_8h_usd": 0,
+        "volume_sell_8h_change_percent": null,
+        "trade_24h": 14670,
+        "trade_history_24h": 0,
+        "trade_24h_change_percent": null,
+        "sell_24h": 7155,
+        "sell_history_24h": 0,
+        "sell_24h_change_percent": null,
+        "buy_24h": 7515,
+        "buy_history_24h": 0,
+        "buy_24h_change_percent": null,
+        "volume_24h": 25425473977.772552,
+        "volume_24h_usd": 5135360.725817693,
+        "volume_history_24h": 0,
+        "volume_history_24h_usd": 0,
+        "volume_24h_change_percent": null,
+        "volume_buy_24h": 13011745274.500704,
+        "volume_buy_24h_usd": 2593055.604859091,
+        "volume_buy_history_24h": 0,
+        "volume_buy_history_24h_usd": 0,
+        "volume_buy_24h_change_percent": null,
+        "volume_sell_24h": 12413728703.271849,
+        "volume_sell_24h_usd": 2542305.120958603,
+        "volume_sell_history_24h": 0,
+        "volume_sell_history_24h_usd": 0,
+        "volume_sell_24h_change_percent": null,
+        "is_scaled_ui_token": false,
+        "multiplier": null,
+        "volume_token_24h": null
+      },
+      "bds_security_data": {
+        "creatorAddress": "63dg5KKgeBVyS6hTpZHnMRYA4VuNyDbuRD9weLDx1Bpy",
+        "creatorOwnerAddress": null,
+        "ownerAddress": null,
+        "ownerOfOwnerAddress": null,
+        "creationTx": "5ug1wi6KjKKRSz1hkSpDcD38GLsn3ZhKcDvXxEc4tt9DLrcpoBq3rWGxxHRknAZVqDSJQXT8CrLM1vVJwdVnuMHd",
+        "creationTime": 1759595415,
+        "creationSlot": 371171059,
+        "mintTx": "5ug1wi6KjKKRSz1hkSpDcD38GLsn3ZhKcDvXxEc4tt9DLrcpoBq3rWGxxHRknAZVqDSJQXT8CrLM1vVJwdVnuMHd",
+        "mintTime": 1759595415,
+        "mintSlot": 371171059,
+        "creatorBalance": 5.3e-05,
+        "ownerBalance": null,
+        "ownerPercentage": null,
+        "creatorPercentage": 5.3e-14,
+        "metaplexUpdateAuthority": "63dg5KKgeBVyS6hTpZHnMRYA4VuNyDbuRD9weLDx1Bpy",
+        "metaplexOwnerUpdateAuthority": null,
+        "metaplexUpdateAuthorityBalance": 5.3e-05,
+        "metaplexUpdateAuthorityPercent": 5.3e-14,
+        "mutableMetadata": false,
+        "top10HolderBalance": 425133274.312106,
+        "top10HolderPercent": 0.425133274312106,
+        "top10UserBalance": 425133274.312106,
+        "top10UserPercent": 0.425133274312106,
+        "isTrueToken": null,
+        "fakeToken": null,
+        "totalSupply": 1000000000,
+        "preMarketHolder": [],
+        "lockInfo": null,
+        "freezeable": null,
+        "freezeAuthority": null,
+        "transferFeeEnable": null,
+        "transferFeeData": null,
+        "isToken2022": false,
+        "nonTransferable": null,
+        "jupStrictList": false
+      },
+      "gmgn_security_info": {
+        "goplus": {}
+      },
+      "processing_status": "update_candidate",
+      "is_update_candidate": true,
+      "validation_flags": {
+        "passes_validation": true,
+        "reasons": [
+          "BDS No LockInfo (Mintable?)",
+          "Not in Jupiter Strict List"
+        ]
+      },
+      "symbol": "LYN-AA",
+      "name": "Everlyn AI."
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "HdbQVdtTh3gFuvmvVqHCh37w9ADPCiE9f24EX63npump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "4xfqCq4sS9zmpT57Y6UFGNEjCEtoRqPVUh2N64rSjRjp",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "4xfqCq4sS9zmpT57Y6UFGNEjCEtoRqPVUh2N64rSjRjp": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "HdbQVdtTh3gFuvmvVqHCh37w9ADPCiE9f24EX63npump",
+      "symbol": "huh",
+      "name": "huh",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "huh",
+        "cached_name": "huh",
+        "note": "Alerted 38m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759608804,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "DRydfynvQKJBRqafcSBzg895cCdJwttwjZDEucxPpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "DRydfynvQKJBRqafcSBzg895cCdJwttwjZDEucxPpump",
+      "symbol": "innovative",
+      "name": "innovative coin",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "innovative",
+        "cached_name": "innovative coin",
+        "note": "Alerted 77m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759606459,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "3AK5FFc82CSHKP6uBRFY8bzqsz3PVkRTBdiifaPYjr3K",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "3AK5FFc82CSHKP6uBRFY8bzqsz3PVkRTBdiifaPYjr3K": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
+      "symbol": "UNBAGGED",
+      "name": "Unbagging The Ocean",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "UNBAGGED",
+        "cached_name": "Unbagging The Ocean",
+        "note": "Failed validation 79m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759606331,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "ZFwVfRtyQw4ark6ci6SNdvgMvTk4iDmb8RZU1SqBAGS",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "3AK5FFc82CSHKP6uBRFY8bzqsz3PVkRTBdiifaPYjr3K",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "3AK5FFc82CSHKP6uBRFY8bzqsz3PVkRTBdiifaPYjr3K": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "ZFwVfRtyQw4ark6ci6SNdvgMvTk4iDmb8RZU1SqBAGS",
+      "symbol": "DOLPHIN",
+      "name": "DOLPHIN PROJECT",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "DOLPHIN",
+        "cached_name": "DOLPHIN PROJECT",
+        "note": "Failed validation 79m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759606331,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "Gfdhr2N9Pt6vMJmnfhnAQNmgXJdv5aLyuK1KyZupump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "Gfdhr2N9Pt6vMJmnfhnAQNmgXJdv5aLyuK1KyZupump",
+      "symbol": "4",
+      "name": "4",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "4",
+        "cached_name": "4",
+        "note": "Failed validation 40m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759608699,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "2EKHQiGCZWLaKzWENsDWDiqJ5t3K8rTEkiBekNvhpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "F1eRMrp4EtFWCeU3tsKmzZ9XLC5uUCk2nawgnbK9Qb5V",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "F1eRMrp4EtFWCeU3tsKmzZ9XLC5uUCk2nawgnbK9Qb5V": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "2EKHQiGCZWLaKzWENsDWDiqJ5t3K8rTEkiBekNvhpump",
+      "symbol": "manifest",
+      "name": "manifest",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "manifest",
+        "cached_name": "manifest",
+        "note": "Alerted 38m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759608808,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+      "bds_metadata": {
+        "address": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+        "name": "the pumpfun number",
+        "symbol": "19",
+        "decimals": 6,
+        "extensions": {
+          "twitter": "https://x.com/JadenOnChain/status/1968937072686665860",
+          "description": "the cult of 19"
+        },
+        "logo_uri": "https://ipfs.io/ipfs/bafybeibjk5c5bndaslol7nu5aupptmbzn7mynytqqaoyjjrng3uz3eupmu"
+      },
+      "bds_market_data": {
+        "address": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+        "price": 0.00015130069175803282,
+        "liquidity": 59438.0787693202,
+        "total_supply": 999685419.798067,
+        "circulating_supply": 999685419.798067,
+        "fdv": 151253.09555586698,
+        "market_cap": 151253.09555586698,
+        "is_scaled_ui_token": false,
+        "multiplier": null,
+        "top_holder_pct": 0.18710746134388473
+      },
+      "bds_holder_data": [
+        {
+          "amount": "187048601040912",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "816KZqAAVSnUwivNoXQJdMnEPb5Ty2v6AWye1MTDa5Gy",
+          "token_account": "96anFCLQfaU6reLJ7EB1odvt7v46yfx2Qzq6AC9psi1S",
+          "ui_amount": 187048601.040912,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "37039945000000",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "7SeUfPLcRxthg4EsPa31X56yugTfLSaYED6UZNJeKyqe",
+          "token_account": "HTcgwsnPKRz7isRLSNYYK8EL76DmTJzsn88AoHKDcaZa",
+          "ui_amount": 37039945,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "36081944050110",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "5GJXjyZrNR7dDBVgyVAvhQTVufGFomKs16w1v4p1yeWb",
+          "token_account": "3tvr9GwFUCW7DkkjjHCet2EWvzpDNZP3P9sD4XiHzD5Z",
+          "ui_amount": 36081944.05011,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "35986311568167",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY",
+          "token_account": "94u65hUetigWNbedYjfVJpgELXJfLFgwyp29ZqGdhqA8",
+          "ui_amount": 35986311.568167,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "29965108966640",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "9pLKaJ2xnGw6WjD6n2nT8XfZuLuUWdr37i71S4m9fKYA",
+          "token_account": "HUrxs6cMiW99V9SzvoqzC1AArQuhPop2P6Qu5XmrEjSG",
+          "ui_amount": 29965108.96664,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "27547319970655",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "2sJBiTy8T2LKtFPVwbtZDubhfd2QjbveBmnmGnd4SwfV",
+          "token_account": "AbJpPaAKMnGtA7YvuRkC9zZTeTHKQ851Jm8bKX5Voi2X",
+          "ui_amount": 27547319.970655,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "24007109578821",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "AuURAjpTN329Ck9cpZy4Nmdtwk1CDhHRAPyCm66bdUa4",
+          "token_account": "8QAiCkCbGgwRXRLAqWVrhUoj3fcw9pU6oRFq6j5QVMG2",
+          "ui_amount": 24007109.578821,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "22192857071741",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "9K4qoHqeFMnUixEDVEfayQh8Mnv8TZSHFf74UKC4Pz2w",
+          "token_account": "FtbiJCCUWAQ2Bhj1K2wNbZvcgVSvpZcahRP2SmXpC3EP",
+          "ui_amount": 22192857.071741,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "19191919191919",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "Hk4hAHLGQW26cCGZpYQmHNGd2RBojFoof1SvX6RfcEBC",
+          "token_account": "5uHervKT1aYnLfP5wxzxnseqo3nnoumRxVGxz7htWLWp",
+          "ui_amount": 19191919.191919,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "15083704647904",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "4FG8GUn1Ho4KK6Awqr3mXFrV7oKWLxJP8xpiCzYpjDZe",
+          "token_account": "HUkkQPLc21kKTsQL5wwdfM3TzWaKozx8KtofbjXtxnWV",
+          "ui_amount": 15083704.647904,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "13091680184198",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "8CbKkMzwtSPBQMDyvJMc1pbpQtRXcNpt4jggunDRLHMw",
+          "token_account": "7iRbdEeHiLJbUC83Dm7cAGmnJKaFY9iYCLwsxZWr7Z6x",
+          "ui_amount": 13091680.184198,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "12966045183374",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "6AED7mUWJ92LpeoMnY9wXnWAQmRjVM8V3x9cpcpgc26b",
+          "token_account": "99t543WYJJVhmyMbvzQuGmEhtAmZACMzZgx75xaeTjCT",
+          "ui_amount": 12966045.183374,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "12427377890914",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "Di75xbVUg3u1qcmZci3NcZ8rjFMj7tsnYEoFdEMjS4ow",
+          "token_account": "66Hyjt97h8k62BwfT7wJ2n7uQoXC5Mts245w8bSiMvFM",
+          "ui_amount": 12427377.890914,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "12061985902606",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "5AWqxAUvPfM4xm58apJG6deCz4bWJor7igRE1fJNM5qx",
+          "token_account": "DseB1fFwP99ew2CMJvignSTAEXsrHTwd9UoQeegBF96x",
+          "ui_amount": 12061985.902606,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "11839237654593",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "9hHsF2c5MFZ3Jx9ncpW9vkjSDMqvNJgvCNkgV3j85AEV",
+          "token_account": "FZFhx9XuzRwWWdDXCu2wjh8xSCmdXu1rfb8GdKNrCmcJ",
+          "ui_amount": 11839237.654593,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "11642213414277",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "E3PMCL32vc86rwt9x55ZjF5pri2MMpKrQ7tVnc3zGeg4",
+          "token_account": "9WZPNCGF2KF9ZDZU41KbpEX3vcXHja3Z9kzmM2E2eNbK",
+          "ui_amount": 11642213.414277,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "11127493468786",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "2vSy7fRMz2z5D7mAps4MGuypfR9CxVHCtAVbz2iZ5sZC",
+          "token_account": "GxrAcE7MKfx5YUARDVTh43B63ngCPtcC3CtEuyLYDzoV",
+          "ui_amount": 11127493.468786,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "11058910801436",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "AnQzgQFfWwWAMfmq4DMdzjatN2gAvxDqYMGdtQG4BmHt",
+          "token_account": "8a7BU3AkT15pn35qws9VvUXZDPFw8yZJAnotQ61ErvgM",
+          "ui_amount": 11058910.801436,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "10635610947965",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "77zTfA1gx4kewoGXRhpS5GccEupoGAaCtERgQnNoSYBz",
+          "token_account": "2WaD715qyrZ9eb9pDjfh6VitFqK4bmUEsSxUN7DmTP7B",
+          "ui_amount": 10635610.947965,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "10000000002448",
+          "decimals": 6,
+          "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+          "owner": "CYh4W3TiuFdvk55NUf8QcXkHrbPk2j9Yuiht6zd97GPQ",
+          "token_account": "86pPoLvF1ye7ogzNuotYg32gRtMkpTAcLMpVSZL2qma7",
+          "ui_amount": 10000000.002448,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        }
+      ],
+      "bds_trade_data": {
+        "address": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+        "holder": 1130,
+        "market": 4,
+        "last_trade_unix_time": 1759611059,
+        "last_trade_human_time": "2025-10-04T20:50:59",
+        "price": 0.00015130069175803282,
+        "history_1m_price": 0.00015130069175803282,
+        "price_change_1m_percent": 0,
+        "history_5m_price": 0.0001540577562568293,
+        "price_change_5m_percent": -1.7896304384702233,
+        "history_30m_price": 0.00015776340763329317,
+        "price_change_30m_percent": -4.09646062557317,
+        "history_1h_price": 0.00016945086996513392,
+        "price_change_1h_percent": -10.711174401663248,
+        "history_2h_price": 0.00016255432929752791,
+        "price_change_2h_percent": -6.92300081340635,
+        "history_4h_price": 0.00016107597228930473,
+        "price_change_4h_percent": -6.068739112569045,
+        "history_6h_price": 0.00015162491710364593,
+        "price_change_6h_percent": -0.21383381558024284,
+        "history_8h_price": 0.00018662152654328593,
+        "price_change_8h_percent": -18.926452612132405,
+        "history_12h_price": 0.00016751494259726983,
+        "price_change_12h_percent": -9.679286270131984,
+        "history_24h_price": 0.00018495193744850366,
+        "price_change_24h_percent": -18.194589445617666,
+        "unique_wallet_1m": 0,
+        "unique_wallet_history_1m": 1,
+        "unique_wallet_1m_change_percent": -100,
+        "unique_wallet_5m": 3,
+        "unique_wallet_history_5m": 5,
+        "unique_wallet_5m_change_percent": -40,
+        "unique_wallet_30m": 9,
+        "unique_wallet_history_30m": 9,
+        "unique_wallet_30m_change_percent": 0,
+        "unique_wallet_1h": 14,
+        "unique_wallet_history_1h": 28,
+        "unique_wallet_1h_change_percent": -50,
+        "unique_wallet_2h": 40,
+        "unique_wallet_history_2h": 94,
+        "unique_wallet_2h_change_percent": -57.4468085106383,
+        "unique_wallet_4h": 117,
+        "unique_wallet_history_4h": 155,
+        "unique_wallet_4h_change_percent": -24.516129032258064,
+        "unique_wallet_8h": 232,
+        "unique_wallet_history_8h": 193,
+        "unique_wallet_8h_change_percent": 20.207253886010363,
+        "unique_wallet_24h": 602,
+        "unique_wallet_history_24h": 1131,
+        "unique_wallet_24h_change_percent": -46.772767462422635,
+        "trade_1m": 0,
+        "trade_history_1m": 1,
+        "trade_1m_change_percent": -100,
+        "sell_1m": 0,
+        "sell_history_1m": 1,
+        "sell_1m_change_percent": -100,
+        "buy_1m": 0,
+        "buy_history_1m": 0,
+        "buy_1m_change_percent": null,
+        "volume_1m": 0,
+        "volume_1m_usd": 0,
+        "volume_history_1m": 96720,
+        "volume_history_1m_usd": 14.633802906836934,
+        "volume_1m_change_percent": -100,
+        "volume_buy_1m": 0,
+        "volume_buy_1m_usd": 0,
+        "volume_buy_history_1m": 0,
+        "volume_buy_history_1m_usd": 0,
+        "volume_buy_1m_change_percent": null,
+        "volume_sell_1m": 0,
+        "volume_sell_1m_usd": 0,
+        "volume_sell_history_1m": 96720,
+        "volume_sell_history_1m_usd": 14.633802906836934,
+        "volume_sell_1m_change_percent": -100,
+        "trade_5m": 3,
+        "trade_history_5m": 4,
+        "trade_5m_change_percent": -25,
+        "sell_5m": 2,
+        "sell_history_5m": 2,
+        "sell_5m_change_percent": 0,
+        "buy_5m": 1,
+        "buy_history_5m": 2,
+        "buy_5m_change_percent": -50,
+        "volume_5m": 1844752.363315,
+        "volume_5m_usd": 282.31930432752984,
+        "volume_history_5m": 2431311.633249,
+        "volume_history_5m_usd": 376.0661105825983,
+        "volume_5m_change_percent": -24.12521956924838,
+        "volume_buy_5m": 173035.171435,
+        "volume_buy_5m_usd": 27.01990487710841,
+        "volume_buy_history_5m": 843073.405746,
+        "volume_buy_history_5m_usd": 131.40898199051904,
+        "volume_buy_5m_change_percent": -79.4756695851545,
+        "volume_sell_5m": 1671717.19188,
+        "volume_sell_5m_usd": 255.29939945042142,
+        "volume_sell_history_5m": 1588238.227503,
+        "volume_sell_history_5m_usd": 244.65712859207926,
+        "volume_sell_5m_change_percent": 5.2560732345703665,
+        "trade_30m": 12,
+        "trade_history_30m": 10,
+        "trade_30m_change_percent": 20,
+        "sell_30m": 8,
+        "sell_history_30m": 8,
+        "sell_30m_change_percent": 0,
+        "buy_30m": 4,
+        "buy_history_30m": 2,
+        "buy_30m_change_percent": 100,
+        "volume_30m": 10517212.424519,
+        "volume_30m_usd": 1642.7444216063377,
+        "volume_history_30m": 6578120.999957,
+        "volume_history_30m_usd": 1073.1380580652788,
+        "volume_30m_change_percent": 59.88171127572372,
+        "volume_buy_30m": 3308417.0396860004,
+        "volume_buy_30m_usd": 523.4409958977731,
+        "volume_buy_history_30m": 665948.3044400001,
+        "volume_buy_history_30m_usd": 112.13869076727686,
+        "volume_buy_30m_change_percent": 396.7978771967995,
+        "volume_sell_30m": 7208795.384833001,
+        "volume_sell_30m_usd": 1119.3034257085646,
+        "volume_sell_history_30m": 5912172.695517,
+        "volume_sell_history_30m_usd": 960.9993672980019,
+        "volume_sell_30m_change_percent": 21.9314075568054,
+        "trade_1h": 22,
+        "trade_history_1h": 60,
+        "trade_1h_change_percent": -63.33333333333333,
+        "sell_1h": 16,
+        "sell_history_1h": 28,
+        "sell_1h_change_percent": -42.857142857142854,
+        "buy_1h": 6,
+        "buy_history_1h": 32,
+        "buy_1h_change_percent": -81.25,
+        "volume_1h": 17095333.424476,
+        "volume_1h_usd": 2715.8824796716162,
+        "volume_history_1h": 43986847.781858,
+        "volume_history_1h_usd": 7094.527955025291,
+        "volume_1h_change_percent": -61.13535230063286,
+        "volume_buy_1h": 3974365.3441260005,
+        "volume_buy_1h_usd": 635.57968666505,
+        "volume_buy_history_1h": 21920958.476081997,
+        "volume_buy_history_1h_usd": 3562.0690173481667,
+        "volume_buy_1h_change_percent": -81.86956401353326,
+        "volume_sell_1h": 13120968.08035,
+        "volume_sell_1h_usd": 2080.3027930065664,
+        "volume_sell_history_1h": 22065889.305776,
+        "volume_sell_history_1h_usd": 3532.4589376771237,
+        "volume_sell_1h_change_percent": -40.53732483414826,
+        "trade_2h": 78,
+        "trade_history_2h": 157,
+        "trade_2h_change_percent": -50.318471337579616,
+        "sell_2h": 41,
+        "sell_history_2h": 73,
+        "sell_2h_change_percent": -43.83561643835616,
+        "buy_2h": 37,
+        "buy_history_2h": 84,
+        "buy_2h_change_percent": -55.952380952380956,
+        "volume_2h": 57823164.511896,
+        "volume_2h_usd": 9269.912212516978,
+        "volume_history_2h": 164182722.841601,
+        "volume_history_2h_usd": 27705.82785225955,
+        "volume_2h_change_percent": -64.78121235223867,
+        "volume_buy_2h": 25366102.460231,
+        "volume_buy_2h_usd": 4107.9716841609825,
+        "volume_buy_history_2h": 85562243.821417,
+        "volume_buy_history_2h_usd": 14519.429568721336,
+        "volume_buy_2h_change_percent": -70.35362640421822,
+        "volume_sell_2h": 32457062.051665004,
+        "volume_sell_2h_usd": 5161.9405283559945,
+        "volume_sell_history_2h": 78620479.02018401,
+        "volume_sell_history_2h_usd": 13186.398283538214,
+        "volume_sell_2h_change_percent": -58.716784155776516,
+        "trade_4h": 245,
+        "trade_history_4h": 405,
+        "trade_4h_change_percent": -39.50617283950617,
+        "sell_4h": 120,
+        "sell_history_4h": 179,
+        "sell_4h_change_percent": -32.960893854748605,
+        "buy_4h": 125,
+        "buy_history_4h": 226,
+        "buy_4h_change_percent": -44.690265486725664,
+        "volume_4h": 231252399.68498,
+        "volume_4h_usd": 38266.5606702388,
+        "volume_history_4h": 335783530.45378506,
+        "volume_history_4h_usd": 51554.90511509054,
+        "volume_4h_change_percent": -31.130511561284568,
+        "volume_buy_4h": 119847570.303812,
+        "volume_buy_4h_usd": 19870.147739166972,
+        "volume_buy_history_4h": 164136530.701399,
+        "volume_buy_history_4h_usd": 25324.137186990723,
+        "volume_buy_4h_change_percent": -26.983000194002216,
+        "volume_sell_4h": 111404829.38116801,
+        "volume_sell_4h_usd": 18396.41293107183,
+        "volume_sell_history_4h": 171646999.75238603,
+        "volume_sell_history_4h_usd": 26230.767928099816,
+        "volume_sell_4h_change_percent": -35.09654724995018,
+        "trade_8h": 626,
+        "trade_history_8h": 613,
+        "trade_8h_change_percent": 2.1207177814029365,
+        "sell_8h": 288,
+        "sell_history_8h": 298,
+        "sell_8h_change_percent": -3.3557046979865772,
+        "buy_8h": 338,
+        "buy_history_8h": 315,
+        "buy_8h_change_percent": 7.301587301587302,
+        "volume_8h": 542527925.156465,
+        "volume_8h_usd": 86092.65463598611,
+        "volume_history_8h": 413584541.221914,
+        "volume_history_8h_usd": 68147.29402001848,
+        "volume_8h_change_percent": 31.177031799494863,
+        "volume_buy_8h": 264678855.88491306,
+        "volume_buy_8h_usd": 42270.06445271337,
+        "volume_buy_history_8h": 213683445.62478396,
+        "volume_buy_history_8h_usd": 35490.73660829766,
+        "volume_buy_8h_change_percent": 23.864932592707323,
+        "volume_sell_8h": 277849069.271552,
+        "volume_sell_8h_usd": 43822.59018327275,
+        "volume_sell_history_8h": 199901095.59713003,
+        "volume_sell_history_8h_usd": 32656.55741172083,
+        "volume_sell_8h_change_percent": 38.993269867571996,
+        "trade_24h": 2638,
+        "trade_history_24h": 5313,
+        "trade_24h_change_percent": -50.34820252211557,
+        "sell_24h": 1215,
+        "sell_history_24h": 2326,
+        "sell_24h_change_percent": -47.764402407566635,
+        "buy_24h": 1423,
+        "buy_history_24h": 2987,
+        "buy_24h_change_percent": -52.360227653163705,
+        "volume_24h": 1687196201.3153286,
+        "volume_24h_usd": 300251.5624231928,
+        "volume_history_24h": 3295019981.2721295,
+        "volume_history_24h_usd": 637031.3567318254,
+        "volume_24h_change_percent": -48.79556995390535,
+        "volume_buy_24h": 832704562.4963492,
+        "volume_buy_24h_usd": 149291.46662907436,
+        "volume_buy_history_24h": 1646915924.856246,
+        "volume_buy_history_24h_usd": 320632.6619689481,
+        "volume_buy_24h_change_percent": -49.43855057027071,
+        "volume_sell_24h": 854491638.8189795,
+        "volume_sell_24h_usd": 150960.09579411845,
+        "volume_sell_history_24h": 1648104056.4158835,
+        "volume_sell_history_24h_usd": 316398.6947628773,
+        "volume_sell_24h_change_percent": -48.153052867472795,
+        "is_scaled_ui_token": false,
+        "multiplier": null,
+        "volume_token_24h": null
+      },
+      "bds_security_data": {
+        "creatorAddress": "DuQqbMmoqT8B1WXjdPwUc3BcnMtGnTrZU9F5F9tQBKDW",
+        "creatorOwnerAddress": null,
+        "ownerAddress": null,
+        "ownerOfOwnerAddress": null,
+        "creationTx": "4edCy9Gr5Nzbm39jDot6QPydNdrEWzdnRfHqT5bPA96QSE3VFeLXTtBb8G1t6h5q8FdaniffWn99sDx8RGU2b4CQ",
+        "creationTime": 1758315698,
+        "creationSlot": 367936979,
+        "mintTx": "4edCy9Gr5Nzbm39jDot6QPydNdrEWzdnRfHqT5bPA96QSE3VFeLXTtBb8G1t6h5q8FdaniffWn99sDx8RGU2b4CQ",
+        "mintTime": 1758315698,
+        "mintSlot": 367936979,
+        "creatorBalance": 0,
+        "ownerBalance": null,
+        "ownerPercentage": null,
+        "creatorPercentage": 0,
+        "metaplexUpdateAuthority": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+        "metaplexOwnerUpdateAuthority": "11111111111111111111111111111111",
+        "metaplexUpdateAuthorityBalance": null,
+        "metaplexUpdateAuthorityPercent": null,
+        "mutableMetadata": false,
+        "top10HolderBalance": 425647842.7397689,
+        "top10HolderPercent": 0.42578178525975535,
+        "top10UserBalance": 425647842.7397689,
+        "top10UserPercent": 0.42578178525975535,
+        "isTrueToken": null,
+        "fakeToken": null,
+        "totalSupply": 999685419.798067,
+        "preMarketHolder": [],
+        "lockInfo": null,
+        "freezeable": null,
+        "freezeAuthority": null,
+        "transferFeeEnable": null,
+        "transferFeeData": null,
+        "isToken2022": false,
+        "nonTransferable": null,
+        "jupStrictList": false
+      },
+      "gmgn_security_info": {
+        "goplus": {}
+      },
+      "processing_status": "update_candidate",
+      "is_update_candidate": true,
+      "validation_flags": {
+        "passes_validation": true,
+        "reasons": [
+          "BDS No LockInfo (Mintable?)",
+          "Not in Jupiter Strict List"
+        ]
+      },
+      "symbol": "19",
+      "name": "the pumpfun number"
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "FXEV8UXt3ByKVf3aXvQ7BdzQYABQEdTD37awsGFpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "FXEV8UXt3ByKVf3aXvQ7BdzQYABQEdTD37awsGFpump",
+      "symbol": "Ticker",
+      "name": "Name",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "Ticker",
+        "cached_name": "Name",
+        "note": "Failed validation 17m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759610094,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "Emh1yW6N9iyrax199tW7VGj6EgrSeTskDqkriaPPpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "Emh1yW6N9iyrax199tW7VGj6EgrSeTskDqkriaPPpump",
+      "symbol": "Sorafy",
+      "name": "Sorafication",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "Sorafy",
+        "cached_name": "Sorafication",
+        "note": "Alerted 104m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759604849,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "Cpuyu6Fy82ei6m3A1bZJHtEj6zgND1s3rUZBZo9wpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "Cpuyu6Fy82ei6m3A1bZJHtEj6zgND1s3rUZBZo9wpump",
+      "symbol": "Sepe",
+      "name": "Solana Pepe",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "Sepe",
+        "cached_name": "Solana Pepe",
+        "note": "Alerted 78m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759606443,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "6d8p12ENyoNmpZ7JXNWHmnLwziNjzXov1JKf327G2FTp",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "BTacsXqq4UYZNdPcfedZPLtJsXjF87LfYLoLAcVXNegp",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "BTacsXqq4UYZNdPcfedZPLtJsXjF87LfYLoLAcVXNegp": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "6d8p12ENyoNmpZ7JXNWHmnLwziNjzXov1JKf327G2FTp",
+      "symbol": "PIP",
+      "name": "PIP",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "PIP",
+        "cached_name": "PIP",
+        "note": "Alerted 38m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759608815,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "GyLt577DCBJe143Kzz2ectmmM2jH3YLPueg5A22dpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "BgmzfY6LXt55PtJeZBYN1aWMwsgdSUfRcmWN8K3KkQ3i",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "BgmzfY6LXt55PtJeZBYN1aWMwsgdSUfRcmWN8K3KkQ3i": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "GyLt577DCBJe143Kzz2ectmmM2jH3YLPueg5A22dpump",
+      "symbol": "GRIGORY",
+      "name": "GRIGORY PON",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "GRIGORY",
+        "cached_name": "GRIGORY PON",
+        "note": "Alerted 78m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759606445,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "Ar4EdEVq725LRGTUX4pewFnwV4efQ9GjFk4C6Zb1pump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "Ar4EdEVq725LRGTUX4pewFnwV4efQ9GjFk4C6Zb1pump",
+      "symbol": "QR",
+      "name": "Onboard",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "QR",
+        "cached_name": "Onboard",
+        "note": "Failed validation 17m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759610094,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "GhkhtKaBSS4Vf9sYUQbSiWboYi3apA1S4WkoR7Lypump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "ETxK1bvjh9nAE2MefNztgCxCrttRx7z58fanjANiJpHp",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "ETxK1bvjh9nAE2MefNztgCxCrttRx7z58fanjANiJpHp": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "GhkhtKaBSS4Vf9sYUQbSiWboYi3apA1S4WkoR7Lypump",
+      "symbol": "kibble",
+      "name": "kibble",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "kibble",
+        "cached_name": "kibble",
+        "note": "Alerted 38m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759608824,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "GNAngkHADSLWfnL7wqrjTmgTKW22kTqsr8yuSTBzpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "GNAngkHADSLWfnL7wqrjTmgTKW22kTqsr8yuSTBzpump",
+      "symbol": "ProjectTwo",
+      "name": "ProjectTwo",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "ProjectTwo",
+        "cached_name": "ProjectTwo",
+        "note": "Alerted 16m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759610143,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "2B9ECvKCBSsYWJeHmpT3TierzX5d4dVWh3gsfrWHpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3"
+        ],
+        "holder_balances_uiAmount": {
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0,
+          "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": 0.0
+        }
+      },
+      "token_mint": "2B9ECvKCBSsYWJeHmpT3TierzX5d4dVWh3gsfrWHpump",
+      "symbol": "pumpers",
+      "name": "Pumpfun Community",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "pumpers",
+        "cached_name": "Pumpfun Community",
+        "note": "Failed validation 17m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1759610094,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "5DsWHDYpkiQgfxwBUYudkvSJd9CoZtgMgYtYYr3ChWji",
+          "D5FGg1UXSVdgyVJAqA9h9cZuWGJ26tSRSeYtCgPuvwwm"
+        ],
+        "holder_balances_uiAmount": {
+          "D5FGg1UXSVdgyVJAqA9h9cZuWGJ26tSRSeYtCgPuvwwm": 0.0,
+          "5DsWHDYpkiQgfxwBUYudkvSJd9CoZtgMgYtYYr3ChWji": 0.0
+        }
+      },
+      "token_mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+      "bds_metadata": {
+        "address": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+        "name": "Moonbirds",
+        "symbol": "BIRB.",
+        "decimals": 6,
+        "logo_uri": "https://ipfs.io/ipfs/QmPhWY18T944xX7TNDtoYs8jJL1nS1RhEoYPKc5bBprVX5"
+      },
+      "bds_market_data": {
+        "address": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+        "price": 0.000217647355037429,
+        "liquidity": 172351.88221902092,
+        "total_supply": 1000000000,
+        "circulating_supply": 1000000000,
+        "fdv": 217647.355037429,
+        "market_cap": 217647.355037429,
+        "is_scaled_ui_token": false,
+        "multiplier": null,
+        "top_holder_pct": 0.398346709293772
+      },
+      "bds_holder_data": [
+        {
+          "amount": "398346709293772",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "b8vvEheEcdYk75AuGvQ4vvpZiQpHBHEnbDLNNYpYUf9",
+          "token_account": "G4TgWYhGRaugotdqgNTKYPWPKQpXuGi9N98GmHGTHXxa",
+          "ui_amount": 398346709.293772,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3501079639620",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "DY8r871BCrz66oBrqkmwZkGuvxNJns3eMXAsmMiPeQkP",
+          "token_account": "3B8R3T87MyBikJnhGN3PhXCMweDb3gLUcSG2dBsbu4QZ",
+          "ui_amount": 3501079.63962,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3439935603120",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "3DJKYWjy3cgFfW7hR86hMbqR1G4AV1qt1LZuVWhvvsA8",
+          "token_account": "BdgnayYmtXuUYtpxZUzeW136VeDUonh5rhTDDHF6Yc71",
+          "ui_amount": 3439935.60312,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3439470459840",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "F6VrVq9CVCu7obgLPetzq794CyCDxKFYvRAo8jzYcG6j",
+          "token_account": "3Kg4krDdXTj6SYyLP2rA2jjzngKk2dMqHrruggx5kx8R",
+          "ui_amount": 3439470.45984,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3404600316773",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "3TiozyhZyxiL669rCQMrf1a4MDF9zTDKZaMm24foiURx",
+          "token_account": "AcvXzSoHcwytRGc8hAeFtJRWPZqaShwVJoQRgFBJxq7b",
+          "ui_amount": 3404600.316773,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3385372885456",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "4bN18eZPZhKPDQFVavJBce1cJKFomt7P9pNcmJcXb6DB",
+          "token_account": "Cd6L1gAEBF3fUYFx1BvX9vy29ng4bjFRpaPW3S4uqiig",
+          "ui_amount": 3385372.885456,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3337026116790",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "Gk34Vb5U2vMNmoyPhxkigzJwRzueYxoF5VT3wmpbdWhh",
+          "token_account": "CwAhZR26jeRT3Ab3cPaGyHBL6hK3zKidUivzX4C1Jsfi",
+          "ui_amount": 3337026.11679,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3312787117295",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "Fg9LFmzkq2pUcL9vaNnrmxMkYdk42Qmzwc5kFsfUu3Jz",
+          "token_account": "2gk6Chyr1QW5TVDfwh8jcCd2oiSoztoNn81MHWP6CQFg",
+          "ui_amount": 3312787.117295,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3286622172530",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "29m1kJizqHG3bQMCvwm2nstgVtm15c2ebZGAQ9CbnoGg",
+          "token_account": "FXKhy4CQvqHb4iALHdLJqnhPnqe6GQumi7rjBuNeZgBH",
+          "ui_amount": 3286622.17253,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3267562409778",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "64HzhnuDmuhVAjp8VJq6i17uUr3qUEnV5XNu7LAharwJ",
+          "token_account": "AYAVFj8jcyd7ka6BZwus4fasyr1yXMWoBwhqe32La6DT",
+          "ui_amount": 3267562.409778,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3252621221669",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "HMMqffa9HiFSzM9LXAyXuEWdKVKskda6kjAKc68JTAT2",
+          "token_account": "8FuL3gefqSvMiUiGBmnosKRuWsH3Vx1MhW4r1rruLvmM",
+          "ui_amount": 3252621.221669,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3222653886041",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "6Q94phmEd1WhuhiL945VohnGTMBREnYsK1KYRjy3grF",
+          "token_account": "5iGFaNRmB6RjJQYPA6oreu5CRwg9sCSEDfxjgz5Mgmu3",
+          "ui_amount": 3222653.886041,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3161084124356",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "4HwX71jxnJf7bqWZdTrEvQNGPKVK1DPVRXtoFzy5UmKU",
+          "token_account": "Fo5hrZyJZLgg4kTbQ4GekJDzCDPe85u71ABMGB6RrcWN",
+          "ui_amount": 3161084.124356,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3145843162453",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "4M5nvVPs1ZiSS2XLvpB7dof8uJ6eBex5LuKKnJeZLNCw",
+          "token_account": "FHA4tykWiNxsYUmERNgQLnM9FBbvGDMbLqK6cAXHoA8w",
+          "ui_amount": 3145843.162453,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3126681615810",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "Bmd6xaqNuhFP3y4dEjZEksyKQpZiRLBfWrJVNm9AKUqK",
+          "token_account": "HzCjJKfMkqdNYUGrLeCq9WX3VUQdSS43e9GBppWGUuuR",
+          "ui_amount": 3126681.61581,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3122847728403",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "D1jpyqxCLF8sScBEnUTDoRd8hgD6GsHRaKzE7uh8NkSb",
+          "token_account": "5BzJwK77SUpaSRCqfKP6SrPrzPaqCa3ejyyYoyT8mbCg",
+          "ui_amount": 3122847.728403,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3122165621741",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "B1cLUvsFki6TAWE9n9qnQFceXwd9AXEZpKTxGC7sD4XK",
+          "token_account": "HkJqPHhzeHtMQ75PnnVPzEBfSnX1m696zfpdKgSjqYti",
+          "ui_amount": 3122165.621741,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3120521969902",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "CnjYWroKvtAyuLGi8hr2b1z7EfrLDezHbt65UeFzq3Jb",
+          "token_account": "4tEfTvYRu1s64Si2hhLWWTq5ff7gXbwnKzq3BPs8QuYK",
+          "ui_amount": 3120521.969902,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3055400588612",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "FtZQG7YQzaiPzxWoGANLbwnHH8LFyKRzyrMmnnkmTMwc",
+          "token_account": "AXLxNsvDtxc6coh3ntShCRXsMBr2hr1tAt4zW7mrePhq",
+          "ui_amount": 3055400.588612,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        },
+        {
+          "amount": "3054603401479",
+          "decimals": 6,
+          "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+          "owner": "EX6XncAxdvD8JYctyQBmMJdiM8ANW3wLV9LqwN2WLKQo",
+          "token_account": "FnZ3pMXLHCbyzvWEK8Gr4bENZ54oRh87pSfwGBqJpocZ",
+          "ui_amount": 3054603.401479,
+          "is_scaled_ui_token": false,
+          "multiplier": null
+        }
+      ],
+      "bds_trade_data": {
+        "address": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+        "holder": 4562,
+        "market": 1,
+        "last_trade_unix_time": 1759611122,
+        "last_trade_human_time": "2025-10-04T20:52:02",
+        "price": 0.000217647355037429,
+        "history_1m_price": 0.00022793726628570046,
+        "price_change_1m_percent": -4.514361085375974,
+        "history_5m_price": 0.00023153522977144476,
+        "price_change_5m_percent": -5.998169154527758,
+        "history_30m_price": 0.00021199119932602893,
+        "price_change_30m_percent": 2.668108737241141,
+        "history_1h_price": 0.00021344807043260466,
+        "price_change_1h_percent": 1.967356554834839,
+        "history_2h_price": 0.00019535183194024317,
+        "price_change_2h_percent": 11.413009479228164,
+        "history_4h_price": 0.00017515320149090572,
+        "price_change_4h_percent": 24.261134358271867,
+        "history_6h_price": 9.448249227109839e-05,
+        "price_change_6h_percent": 130.3573390220634,
+        "history_8h_price": 9.448249227109839e-05,
+        "price_change_8h_percent": 130.3573390220634,
+        "history_12h_price": 9.448249227109839e-05,
+        "price_change_12h_percent": 130.3573390220634,
+        "history_24h_price": 9.448249227109839e-05,
+        "price_change_24h_percent": 130.3573390220634,
+        "unique_wallet_1m": 35,
+        "unique_wallet_history_1m": 50,
+        "unique_wallet_1m_change_percent": -30,
+        "unique_wallet_5m": 175,
+        "unique_wallet_history_5m": 192,
+        "unique_wallet_5m_change_percent": -8.854166666666666,
+        "unique_wallet_30m": 947,
+        "unique_wallet_history_30m": 964,
+        "unique_wallet_30m_change_percent": -1.7634854771784232,
+        "unique_wallet_1h": 1826,
+        "unique_wallet_history_1h": 1840,
+        "unique_wallet_1h_change_percent": -0.7608695652173914,
+        "unique_wallet_2h": 3310,
+        "unique_wallet_history_2h": 3211,
+        "unique_wallet_2h_change_percent": 3.0831516661476175,
+        "unique_wallet_4h": 5394,
+        "unique_wallet_history_4h": 974,
+        "unique_wallet_4h_change_percent": 453.7987679671458,
+        "unique_wallet_8h": 5741,
+        "unique_wallet_history_8h": 0,
+        "unique_wallet_8h_change_percent": null,
+        "unique_wallet_24h": 5741,
+        "unique_wallet_history_24h": 0,
+        "unique_wallet_24h_change_percent": null,
+        "trade_1m": 50,
+        "trade_history_1m": 72,
+        "trade_1m_change_percent": -30.555555555555557,
+        "sell_1m": 28,
+        "sell_history_1m": 35,
+        "sell_1m_change_percent": -20,
+        "buy_1m": 22,
+        "buy_history_1m": 37,
+        "buy_1m_change_percent": -40.54054054054054,
+        "volume_1m": 78883798.15944599,
+        "volume_1m_usd": 18036.053833819315,
+        "volume_history_1m": 116895638.568714,
+        "volume_history_1m_usd": 26888.44904803444,
+        "volume_1m_change_percent": -32.517757612422606,
+        "volume_buy_1m": 31446437.175135996,
+        "volume_buy_1m_usd": 7215.472276681145,
+        "volume_buy_history_1m": 59251105.527239,
+        "volume_buy_history_1m_usd": 13626.778429000899,
+        "volume_buy_1m_change_percent": -46.92683470576022,
+        "volume_sell_1m": 47437360.98430999,
+        "volume_sell_1m_usd": 10820.581557138168,
+        "volume_sell_history_1m": 57644533.041475,
+        "volume_sell_history_1m_usd": 13261.670619033543,
+        "volume_sell_1m_change_percent": -17.70709470370935,
+        "trade_5m": 298,
+        "trade_history_5m": 328,
+        "trade_5m_change_percent": -9.146341463414634,
+        "sell_5m": 149,
+        "sell_history_5m": 163,
+        "sell_5m_change_percent": -8.588957055214724,
+        "buy_5m": 149,
+        "buy_history_5m": 165,
+        "buy_5m_change_percent": -9.696969696969697,
+        "volume_5m": 474169836.750606,
+        "volume_5m_usd": 108140.18907966756,
+        "volume_history_5m": 532563752.24941796,
+        "volume_history_5m_usd": 119039.76304053134,
+        "volume_5m_change_percent": -10.964680801532298,
+        "volume_buy_5m": 234396977.57409304,
+        "volume_buy_5m_usd": 53485.06191790236,
+        "volume_buy_history_5m": 267002956.25626397,
+        "volume_buy_history_5m_usd": 59691.438964313566,
+        "volume_buy_5m_change_percent": -12.21184182353261,
+        "volume_sell_5m": 239772859.17651296,
+        "volume_sell_5m_usd": 54655.12716176519,
+        "volume_sell_history_5m": 265560795.993154,
+        "volume_sell_history_5m_usd": 59348.324076217774,
+        "volume_sell_5m_change_percent": -9.710746919626583,
+        "trade_30m": 1770,
+        "trade_history_30m": 1941,
+        "trade_30m_change_percent": -8.809891808346213,
+        "sell_30m": 874,
+        "sell_history_30m": 962,
+        "sell_30m_change_percent": -9.147609147609149,
+        "buy_30m": 896,
+        "buy_history_30m": 979,
+        "buy_30m_change_percent": -8.478038815117467,
+        "volume_30m": 2853744492.9292145,
+        "volume_30m_usd": 632790.9312753452,
+        "volume_history_30m": 3040275100.6105943,
+        "volume_history_30m_usd": 681530.6125756628,
+        "volume_30m_change_percent": -6.135320045344511,
+        "volume_buy_30m": 1429495460.3597858,
+        "volume_buy_30m_usd": 316988.58260485006,
+        "volume_buy_history_30m": 1532450483.4130247,
+        "volume_buy_history_30m_usd": 343401.37890019565,
+        "volume_buy_30m_change_percent": -6.718326247249486,
+        "volume_sell_30m": 1424249032.569429,
+        "volume_sell_30m_usd": 315802.3486704951,
+        "volume_sell_history_30m": 1507824617.1975696,
+        "volume_sell_history_30m_usd": 338129.23367546714,
+        "volume_sell_30m_change_percent": -5.5427921573182415,
+        "trade_1h": 3442,
+        "trade_history_1h": 3590,
+        "trade_1h_change_percent": -4.1225626740947074,
+        "sell_1h": 1705,
+        "sell_history_1h": 1804,
+        "sell_1h_change_percent": -5.487804878048781,
+        "buy_1h": 1737,
+        "buy_history_1h": 1786,
+        "buy_1h_change_percent": -2.743561030235162,
+        "volume_1h": 5457033558.630166,
+        "volume_1h_usd": 1218168.3000180216,
+        "volume_history_1h": 6302016699.74629,
+        "volume_history_1h_usd": 1242864.9582891557,
+        "volume_1h_change_percent": -13.408138717724153,
+        "volume_buy_1h": 2736828554.0087376,
+        "volume_buy_1h_usd": 610864.0410867024,
+        "volume_buy_history_1h": 3157814250.893926,
+        "volume_buy_history_1h_usd": 622872.3637609193,
+        "volume_buy_1h_change_percent": -13.3315535188941,
+        "volume_sell_1h": 2720205004.6214285,
+        "volume_sell_1h_usd": 607304.2589313192,
+        "volume_sell_history_1h": 3144202448.8523636,
+        "volume_sell_history_1h_usd": 619992.5945282363,
+        "volume_sell_1h_change_percent": -13.485055467267845,
+        "trade_2h": 6756,
+        "trade_history_2h": 7086,
+        "trade_2h_change_percent": -4.657070279424217,
+        "sell_2h": 3375,
+        "sell_history_2h": 3449,
+        "sell_2h_change_percent": -2.14554943461873,
+        "buy_2h": 3381,
+        "buy_history_2h": 3637,
+        "buy_2h_change_percent": -7.0387682155622775,
+        "volume_2h": 11308429350.303633,
+        "volume_2h_usd": 2363436.2324883374,
+        "volume_history_2h": 11350180211.83501,
+        "volume_history_2h_usd": 2547695.61537718,
+        "volume_2h_change_percent": -0.36784315977506254,
+        "volume_buy_2h": 5664168826.537782,
+        "volume_buy_2h_usd": 1183883.55721888,
+        "volume_buy_history_2h": 5685356400.912928,
+        "volume_buy_history_2h_usd": 1275907.2093556426,
+        "volume_buy_2h_change_percent": -0.3726692379697377,
+        "volume_sell_2h": 5644260523.765851,
+        "volume_sell_2h_usd": 1179552.6752694575,
+        "volume_sell_history_2h": 5664823810.922084,
+        "volume_sell_history_2h_usd": 1271788.4060215373,
+        "volume_sell_2h_change_percent": -0.3629995890884676,
+        "trade_4h": 14648,
+        "trade_history_4h": 2097,
+        "trade_4h_change_percent": 598.5216976633286,
+        "sell_4h": 7179,
+        "sell_history_4h": 951,
+        "sell_4h_change_percent": 654.8895899053628,
+        "buy_4h": 7469,
+        "buy_history_4h": 1146,
+        "buy_4h_change_percent": 551.7452006980803,
+        "volume_4h": 24775489653.52436,
+        "volume_4h_usd": 5218616.354914494,
+        "volume_history_4h": 5570549779.964268,
+        "volume_history_4h_usd": 787662.9360784416,
+        "volume_4h_change_percent": 344.7584283805338,
+        "volume_buy_4h": 12448777215.259382,
+        "volume_buy_4h_usd": 2619524.6656574844,
+        "volume_buy_history_4h": 3072255175.53823,
+        "volume_buy_history_4h_usd": 416594.54461041896,
+        "volume_buy_4h_change_percent": 305.1999753919684,
+        "volume_sell_4h": 12326712438.264977,
+        "volume_sell_4h_usd": 2599091.689257009,
+        "volume_sell_history_4h": 2498294604.4260383,
+        "volume_sell_history_4h_usd": 371068.3914680226,
+        "volume_sell_4h_change_percent": 393.4050778649835,
+        "trade_8h": 15140,
+        "trade_history_8h": 0,
+        "trade_8h_change_percent": null,
+        "sell_8h": 7393,
+        "sell_history_8h": 0,
+        "sell_8h_change_percent": null,
+        "buy_8h": 7747,
+        "buy_history_8h": 0,
+        "buy_8h_change_percent": null,
+        "volume_8h": 26686090393.159035,
+        "volume_8h_usd": 5412261.534042366,
+        "volume_history_8h": 0,
+        "volume_history_8h_usd": 0,
+        "volume_8h_change_percent": null,
+        "volume_buy_8h": 13643871840.432606,
+        "volume_buy_8h_usd": 2731889.2497283123,
+        "volume_buy_history_8h": 0,
+        "volume_buy_history_8h_usd": 0,
+        "volume_buy_8h_change_percent": null,
+        "volume_sell_8h": 13042218552.726429,
+        "volume_sell_8h_usd": 2680372.284314054,
+        "volume_sell_history_8h": 0,
+        "volume_sell_history_8h_usd": 0,
+        "volume_sell_8h_change_percent": null,
+        "trade_24h": 15140,
+        "trade_history_24h": 0,
+        "trade_24h_change_percent": null,
+        "sell_24h": 7393,
+        "sell_history_24h": 0,
+        "sell_24h_change_percent": null,
+        "buy_24h": 7747,
+        "buy_history_24h": 0,
+        "buy_24h_change_percent": null,
+        "volume_24h": 26686090393.159035,
+        "volume_24h_usd": 5412261.534042366,
+        "volume_history_24h": 0,
+        "volume_history_24h_usd": 0,
+        "volume_24h_change_percent": null,
+        "volume_buy_24h": 13643871840.432606,
+        "volume_buy_24h_usd": 2731889.2497283123,
+        "volume_buy_history_24h": 0,
+        "volume_buy_history_24h_usd": 0,
+        "volume_buy_24h_change_percent": null,
+        "volume_sell_24h": 13042218552.726429,
+        "volume_sell_24h_usd": 2680372.284314054,
+        "volume_sell_history_24h": 0,
+        "volume_sell_history_24h_usd": 0,
+        "volume_sell_24h_change_percent": null,
+        "is_scaled_ui_token": false,
+        "multiplier": null,
+        "volume_token_24h": null
+      },
+      "bds_security_data": {
+        "creatorAddress": "4WbJUXwLJzTJGQhoj9CbLgE92dfyEykJVJ3c4YD5BRi3",
+        "creatorOwnerAddress": null,
+        "ownerAddress": null,
+        "ownerOfOwnerAddress": null,
+        "creationTx": "2hpWMB7mwbcW6ns1adsTjwwJMRqkG8cvf1Gk7GFbn4chuV28aGtoyT17oSMaWkbZzJxjnRdMaTxSwHVuBWTjpnZ2",
+        "creationTime": 1759594794,
+        "creationSlot": 371169486,
+        "mintTx": "2hpWMB7mwbcW6ns1adsTjwwJMRqkG8cvf1Gk7GFbn4chuV28aGtoyT17oSMaWkbZzJxjnRdMaTxSwHVuBWTjpnZ2",
+        "mintTime": 1759594794,
+        "mintSlot": 371169486,
+        "creatorBalance": 5.3e-05,
+        "ownerBalance": null,
+        "ownerPercentage": null,
+        "creatorPercentage": 5.3e-14,
+        "metaplexUpdateAuthority": "4WbJUXwLJzTJGQhoj9CbLgE92dfyEykJVJ3c4YD5BRi3",
+        "metaplexOwnerUpdateAuthority": null,
+        "metaplexUpdateAuthorityBalance": 5.3e-05,
+        "metaplexUpdateAuthorityPercent": 5.3e-14,
+        "mutableMetadata": false,
+        "top10HolderBalance": 437130639.89363295,
+        "top10HolderPercent": 0.43713063989363293,
+        "top10UserBalance": 437130639.89363295,
+        "top10UserPercent": 0.43713063989363293,
+        "isTrueToken": null,
+        "fakeToken": null,
+        "totalSupply": 1000000000,
+        "preMarketHolder": [],
+        "lockInfo": null,
+        "freezeable": null,
+        "freezeAuthority": null,
+        "transferFeeEnable": null,
+        "transferFeeData": null,
+        "isToken2022": false,
+        "nonTransferable": null,
+        "jupStrictList": false
+      },
+      "gmgn_security_info": {
+        "goplus": {}
+      },
+      "processing_status": "update_candidate",
+      "is_update_candidate": true,
+      "validation_flags": {
+        "passes_validation": true,
+        "reasons": [
+          "BDS No LockInfo (Mintable?)",
+          "Not in Jupiter Strict List"
+        ]
+      },
+      "symbol": "BIRB.",
+      "name": "Moonbirds"
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "EkkRWeherDHqfuydtoJ8FG9otwWgD3xTUkqmx4Ekpump",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+          "BTacsXqq4UYZNdPcfedZPLtJsXjF87LfYLoLAcVXNegp"
+        ],
+        "holder_balances_uiAmount": {
+          "BTacsXqq4UYZNdPcfedZPLtJsXjF87LfYLoLAcVXNegp": 0.0,
+          "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0
+        }
+      },
+      "token_mint": "EkkRWeherDHqfuydtoJ8FG9otwWgD3xTUkqmx4Ekpump",
+      "symbol": "PUMPMAN",
+      "name": "Pumpman -Saving Trenches in IRL",
+      "bds_metadata": {
+        "status": "skipped_cool_down",
+        "cached_symbol": "PUMPMAN",
+        "cached_name": "Pumpman -Saving Trenches in IRL",
+        "note": "Alerted 16m ago."
+      },
+      "processing_status": "skipped_cool_down",
+      "is_update_candidate": false,
+      "last_alert_timestamp_from_history": 1759610150,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Alert Cool-down)"
+        ]
+      }
+    }
+  ],
+  "all_wallet_filtered_holdings": {
+    "5jaRyXaBpmCNBD21FvxNzuHzaCtDVHojSeLdjAnad72M": {},
+    "FyKtnys13UmM76hwQQfNUcPTvurW2sopUfzVrZw3J71t": {},
+    "5g85kyAzG9H9CjLYBg2ekHA1UhKLscaotevuoE63j2vS": {},
+    "5AEXykNcj5VfcX442913Hw4UzQfzuTno3aLebqJk7DSM": {},
+    "J61vVMz4q3hyEzMRhNRm3UeRKh4QsyVpNDHnwWcqY135": {},
+    "FjjmnPLViwGsbr7ivhHZTjVyMdv5CPNdzZqwVKNDrprj": {},
+    "GW4p8RVAFmbVK4hV2bYj924Wrv32772Fw2UDztfdHrLa": {},
+    "FdkXXQHmxxLhXhdfA1yvf4gPKm2WsvH9BjRJYTUaDGQa": {},
+    "EwJpeW9tzc8s4G4CFNDc2P8tagbAx5u6TsFaWDNKeDb": {},
+    "4xfqCq4sS9zmpT57Y6UFGNEjCEtoRqPVUh2N64rSjRjp": {
+      "HdbQVdtTh3gFuvmvVqHCh37w9ADPCiE9f24EX63npump": {
+        "mint": "HdbQVdtTh3gFuvmvVqHCh37w9ADPCiE9f24EX63npump",
+        "ui_amount": 0.0,
+        "amount_raw": 1063567867683,
+        "decimals": 6
+      }
+    },
+    "tRF11LmZ4eRD8a6kcbx2NtxTU27Pa5qwW5pCA9BmxeY": {},
+    "B5Ha9ozebtGh5z91b4FkRoze8cosR3s5igaEBakpTsg2": {
+      "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump": {
+        "mint": "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump",
+        "ui_amount": 0.0,
+        "amount_raw": 10136383701116,
+        "decimals": 6
+      }
+    },
+    "GdZE1GBbQYTUn5aTeZuS1QUUMnFg2a6JFH3jAe96JGCF": {},
+    "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3": {
+      "8aG7wx28Q6REKJ64mRQsy1JFjq6SGkaNRoZu7TxRpump": {
+        "mint": "8aG7wx28Q6REKJ64mRQsy1JFjq6SGkaNRoZu7TxRpump",
+        "ui_amount": 0.0,
+        "amount_raw": 17110989606,
+        "decimals": 6
+      },
+      "9211Vn7iSuhAy5gQMQQQ5qRDio4t5ZpMoiL9VAuypump": {
+        "mint": "9211Vn7iSuhAy5gQMQQQ5qRDio4t5ZpMoiL9VAuypump",
+        "ui_amount": 0.0,
+        "amount_raw": 35598,
+        "decimals": 6
+      },
+      "DRydfynvQKJBRqafcSBzg895cCdJwttwjZDEucxPpump": {
+        "mint": "DRydfynvQKJBRqafcSBzg895cCdJwttwjZDEucxPpump",
+        "ui_amount": 0.0,
+        "amount_raw": 751895882653,
+        "decimals": 6
+      },
+      "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS": {
+        "mint": "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 15089669373605424,
+        "decimals": 9
+      },
+      "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump": {
+        "mint": "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump",
+        "ui_amount": 0.0,
+        "amount_raw": 48670999317,
+        "decimals": 6
+      },
+      "Dpj7deqsJQD3JDGeP1U1ECaCusLDaLdPXCGXv5qNpump": {
+        "mint": "Dpj7deqsJQD3JDGeP1U1ECaCusLDaLdPXCGXv5qNpump",
+        "ui_amount": 0.0,
+        "amount_raw": 114719397218,
+        "decimals": 6
+      },
+      "3UeNwfFVL42yJwTQyinMY2QS4pASCQUxHWXfzex6pump": {
+        "mint": "3UeNwfFVL42yJwTQyinMY2QS4pASCQUxHWXfzex6pump",
+        "ui_amount": 0.0,
+        "amount_raw": 114123432880,
+        "decimals": 6
+      },
+      "YwykxcBFwKrNeKfMMLSmZhjuGsf3GUoQLz3yAd5pump": {
+        "mint": "YwykxcBFwKrNeKfMMLSmZhjuGsf3GUoQLz3yAd5pump",
+        "ui_amount": 0.0,
+        "amount_raw": 539656264130,
+        "decimals": 6
+      },
+      "4Bf3MmVBm94pMcXmnUfWrG95AApZHuEbGoztdGAxpump": {
+        "mint": "4Bf3MmVBm94pMcXmnUfWrG95AApZHuEbGoztdGAxpump",
+        "ui_amount": 0.0,
+        "amount_raw": 753688932421,
+        "decimals": 6
+      },
+      "5HboHMWxQxzvf877RrcgxfMLYK6DdshkpiNKyWMCTyyU": {
+        "mint": "5HboHMWxQxzvf877RrcgxfMLYK6DdshkpiNKyWMCTyyU",
+        "ui_amount": 0.0,
+        "amount_raw": 7662450886115,
+        "decimals": 6
+      },
+      "8k136vXh1W7uSzBGLnTk8SDyusREzjuXvnVKfSm1K9oP": {
+        "mint": "8k136vXh1W7uSzBGLnTk8SDyusREzjuXvnVKfSm1K9oP",
+        "ui_amount": 0.0,
+        "amount_raw": 23379127185,
+        "decimals": 6
+      },
+      "2qp5jNTBBs2yPAxjEsB48HaKR4HrRJV7LLgeUrZ2pump": {
+        "mint": "2qp5jNTBBs2yPAxjEsB48HaKR4HrRJV7LLgeUrZ2pump",
+        "ui_amount": 0.0,
+        "amount_raw": 39281,
+        "decimals": 6
+      },
+      "BkaBjfPN7aj1nRCaNznuoDbfytB6CCCYU5A3oE1Rpump": {
+        "mint": "BkaBjfPN7aj1nRCaNznuoDbfytB6CCCYU5A3oE1Rpump",
+        "ui_amount": 0.0,
+        "amount_raw": 1887163488602,
+        "decimals": 6
+      },
+      "EHVjrbf1B3DpAFapSYk94GAzQdyHi6HkXbmtS7v92ryB": {
+        "mint": "EHVjrbf1B3DpAFapSYk94GAzQdyHi6HkXbmtS7v92ryB",
+        "ui_amount": 0.0,
+        "amount_raw": 3391187180656,
+        "decimals": 6
+      },
+      "7MQCNmfxL2f3d5tbi6H9ZWESP833nPvS3NrjHuQ1pump": {
+        "mint": "7MQCNmfxL2f3d5tbi6H9ZWESP833nPvS3NrjHuQ1pump",
+        "ui_amount": 0.0,
+        "amount_raw": 3121,
+        "decimals": 6
+      },
+      "C7KjcYKZmSzMEcagVqqh3DE4kcv8sBk7WhiKwGtCpump": {
+        "mint": "C7KjcYKZmSzMEcagVqqh3DE4kcv8sBk7WhiKwGtCpump",
+        "ui_amount": 0.0,
+        "amount_raw": 304834953302,
+        "decimals": 6
+      },
+      "BLbkjnGSpU8NY6AnBRENPTmfeLfdw63rAYqc4gMfA2Tj": {
+        "mint": "BLbkjnGSpU8NY6AnBRENPTmfeLfdw63rAYqc4gMfA2Tj",
+        "ui_amount": 0.0,
+        "amount_raw": 1833803224414,
+        "decimals": 6
+      },
+      "F8YifePrXyE6VJw9bZChc2sJqLNK9h9q2MwCgP2Upump": {
+        "mint": "F8YifePrXyE6VJw9bZChc2sJqLNK9h9q2MwCgP2Upump",
+        "ui_amount": 0.0,
+        "amount_raw": 458548810668,
+        "decimals": 6
+      },
+      "Egsnb9CEQcrSo2RB5pBHKaBDoPNVtNPq5ANgajFwpump": {
+        "mint": "Egsnb9CEQcrSo2RB5pBHKaBDoPNVtNPq5ANgajFwpump",
+        "ui_amount": 0.0,
+        "amount_raw": 124291167656,
+        "decimals": 6
+      },
+      "4Q7QzmAs1LTCLGuGYhtyU1tbwY3qEqdM84z9WDWHpump": {
+        "mint": "4Q7QzmAs1LTCLGuGYhtyU1tbwY3qEqdM84z9WDWHpump",
+        "ui_amount": 0.0,
+        "amount_raw": 117639635815,
+        "decimals": 6
+      },
+      "5CZKbaAkwL4muLvwnZTk9oQjra8VWnsT9dpeGyTapump": {
+        "mint": "5CZKbaAkwL4muLvwnZTk9oQjra8VWnsT9dpeGyTapump",
+        "ui_amount": 0.0,
+        "amount_raw": 549,
+        "decimals": 6
+      },
+      "ZFwVfRtyQw4ark6ci6SNdvgMvTk4iDmb8RZU1SqBAGS": {
+        "mint": "ZFwVfRtyQw4ark6ci6SNdvgMvTk4iDmb8RZU1SqBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 1037855193332850,
+        "decimals": 9
+      },
+      "7DthrdMpWDAo91BeFD8sVV5LMuMNU3EL8EQ89dY7pump": {
+        "mint": "7DthrdMpWDAo91BeFD8sVV5LMuMNU3EL8EQ89dY7pump",
+        "ui_amount": 0.0,
+        "amount_raw": 158145,
+        "decimals": 6
+      },
+      "Gfdhr2N9Pt6vMJmnfhnAQNmgXJdv5aLyuK1KyZupump": {
+        "mint": "Gfdhr2N9Pt6vMJmnfhnAQNmgXJdv5aLyuK1KyZupump",
+        "ui_amount": 0.0,
+        "amount_raw": 56954,
+        "decimals": 6
+      },
+      "Bd3nHxztAiU1oP8fEyenR6aJ7gEAKnnUES8HtDsKpump": {
+        "mint": "Bd3nHxztAiU1oP8fEyenR6aJ7gEAKnnUES8HtDsKpump",
+        "ui_amount": 0.0,
+        "amount_raw": 8586344823488,
+        "decimals": 6
+      },
+      "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump": {
+        "mint": "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump",
+        "ui_amount": 0.0,
+        "amount_raw": 183410455494,
+        "decimals": 6
+      },
+      "9d7BPiiFi5s3s618DkZ2YvqQU7xk7Bbx9N5vAzcFpump": {
+        "mint": "9d7BPiiFi5s3s618DkZ2YvqQU7xk7Bbx9N5vAzcFpump",
+        "ui_amount": 0.0,
+        "amount_raw": 4618,
+        "decimals": 6
+      },
+      "HdbQVdtTh3gFuvmvVqHCh37w9ADPCiE9f24EX63npump": {
+        "mint": "HdbQVdtTh3gFuvmvVqHCh37w9ADPCiE9f24EX63npump",
+        "ui_amount": 0.0,
+        "amount_raw": 71422,
+        "decimals": 6
+      },
+      "r1c1BvpvqK43Uy5bAfkNMXYpq1gbBgNGQkbm38Hpump": {
+        "mint": "r1c1BvpvqK43Uy5bAfkNMXYpq1gbBgNGQkbm38Hpump",
+        "ui_amount": 0.0,
+        "amount_raw": 601230922761,
+        "decimals": 6
+      },
+      "9rJoMH7qZXR1DQ8kQ9stCCs9zBySuKgk8bRLc5ffXH2F": {
+        "mint": "9rJoMH7qZXR1DQ8kQ9stCCs9zBySuKgk8bRLc5ffXH2F",
+        "ui_amount": 0.0,
+        "amount_raw": 678681116633,
+        "decimals": 6
+      },
+      "Hcekdr1nt43jvAi9aznxM2jrxGNBEVK8GWnwTHoVpump": {
+        "mint": "Hcekdr1nt43jvAi9aznxM2jrxGNBEVK8GWnwTHoVpump",
+        "ui_amount": 0.0,
+        "amount_raw": 2046412449534,
+        "decimals": 6
+      },
+      "2L7zBZsKLJFMqQH2w7rUwiM6eKKg52w3iyeu37fMpump": {
+        "mint": "2L7zBZsKLJFMqQH2w7rUwiM6eKKg52w3iyeu37fMpump",
+        "ui_amount": 0.0,
+        "amount_raw": 4428,
+        "decimals": 6
+      },
+      "2EKHQiGCZWLaKzWENsDWDiqJ5t3K8rTEkiBekNvhpump": {
+        "mint": "2EKHQiGCZWLaKzWENsDWDiqJ5t3K8rTEkiBekNvhpump",
+        "ui_amount": 0.0,
+        "amount_raw": 2003526622542,
+        "decimals": 6
+      },
+      "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump": {
+        "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+        "ui_amount": 0.0,
+        "amount_raw": 1304842962786,
+        "decimals": 6
+      },
+      "42qG4GSV9XvexgftprY4pZgyNNBgcu5mkZXvmakWpump": {
+        "mint": "42qG4GSV9XvexgftprY4pZgyNNBgcu5mkZXvmakWpump",
+        "ui_amount": 0.0,
+        "amount_raw": 129936627410,
+        "decimals": 6
+      },
+      "AhwRCDavf7dghmYsQ7LAXLbUDSiJ7ztGS55BHkhJpump": {
+        "mint": "AhwRCDavf7dghmYsQ7LAXLbUDSiJ7ztGS55BHkhJpump",
+        "ui_amount": 0.0,
+        "amount_raw": 24509732809,
+        "decimals": 6
+      },
+      "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS": {
+        "mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 51241070815298,
+        "decimals": 9
+      },
+      "EJBXxEDX26XKKrJBq9iXyGnxi1vWfuKFD8ghWhJdshch": {
+        "mint": "EJBXxEDX26XKKrJBq9iXyGnxi1vWfuKFD8ghWhJdshch",
+        "ui_amount": 0.0,
+        "amount_raw": 11521370087,
+        "decimals": 6
+      },
+      "5HT7oYmHKPMDx4oyGNn3Cga3YB6GiTbCEessuXZshBLV": {
+        "mint": "5HT7oYmHKPMDx4oyGNn3Cga3YB6GiTbCEessuXZshBLV",
+        "ui_amount": 0.0,
+        "amount_raw": 83684311,
+        "decimals": 9
+      },
+      "CUF5j2EMTTxuwuWGxqHKYa2xyDChexWnarAnThvxpump": {
+        "mint": "CUF5j2EMTTxuwuWGxqHKYa2xyDChexWnarAnThvxpump",
+        "ui_amount": 0.0,
+        "amount_raw": 350461463348,
+        "decimals": 6
+      },
+      "FXEV8UXt3ByKVf3aXvQ7BdzQYABQEdTD37awsGFpump": {
+        "mint": "FXEV8UXt3ByKVf3aXvQ7BdzQYABQEdTD37awsGFpump",
+        "ui_amount": 0.0,
+        "amount_raw": 80955,
+        "decimals": 6
+      },
+      "E7x954J5CUmFQBJvZGvi8FbS3XDWxG7Gyc7eJSEpump": {
+        "mint": "E7x954J5CUmFQBJvZGvi8FbS3XDWxG7Gyc7eJSEpump",
+        "ui_amount": 0.0,
+        "amount_raw": 5034,
+        "decimals": 6
+      },
+      "6vQKLnxino7ChaNwr568Zt4benYrgEeWDQy7pp2QbY2V": {
+        "mint": "6vQKLnxino7ChaNwr568Zt4benYrgEeWDQy7pp2QbY2V",
+        "ui_amount": 0.0,
+        "amount_raw": 41597331687,
+        "decimals": 6
+      },
+      "GVGQMGSMv4QKAFNngSMWXomuSGV5GZKYTGgjpRJ7qqHa": {
+        "mint": "GVGQMGSMv4QKAFNngSMWXomuSGV5GZKYTGgjpRJ7qqHa",
+        "ui_amount": 0.0,
+        "amount_raw": 5093,
+        "decimals": 6
+      },
+      "FVvUHTxJCyDvJeoSVmfgRgy9DNKUP6CnjYxVLxA2pump": {
+        "mint": "FVvUHTxJCyDvJeoSVmfgRgy9DNKUP6CnjYxVLxA2pump",
+        "ui_amount": 0.0,
+        "amount_raw": 399505392196,
+        "decimals": 6
+      },
+      "Emh1yW6N9iyrax199tW7VGj6EgrSeTskDqkriaPPpump": {
+        "mint": "Emh1yW6N9iyrax199tW7VGj6EgrSeTskDqkriaPPpump",
+        "ui_amount": 0.0,
+        "amount_raw": 12718,
+        "decimals": 6
+      },
+      "EAVhJqjQsGpR3JoHYcbcQpPRAW48RRDMndHM2kcvpump": {
+        "mint": "EAVhJqjQsGpR3JoHYcbcQpPRAW48RRDMndHM2kcvpump",
+        "ui_amount": 0.0,
+        "amount_raw": 13676,
+        "decimals": 6
+      },
+      "Cpuyu6Fy82ei6m3A1bZJHtEj6zgND1s3rUZBZo9wpump": {
+        "mint": "Cpuyu6Fy82ei6m3A1bZJHtEj6zgND1s3rUZBZo9wpump",
+        "ui_amount": 0.0,
+        "amount_raw": 179014019601,
+        "decimals": 6
+      },
+      "Ho3VzsgZFxrYJzES6cGXYN4ofWYKcLZC7iwDm2YRpump": {
+        "mint": "Ho3VzsgZFxrYJzES6cGXYN4ofWYKcLZC7iwDm2YRpump",
+        "ui_amount": 0.0,
+        "amount_raw": 2255945153328,
+        "decimals": 6
+      },
+      "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS": {
+        "mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 502031,
+        "decimals": 9
+      },
+      "6d8p12ENyoNmpZ7JXNWHmnLwziNjzXov1JKf327G2FTp": {
+        "mint": "6d8p12ENyoNmpZ7JXNWHmnLwziNjzXov1JKf327G2FTp",
+        "ui_amount": 0.0,
+        "amount_raw": 449990345817,
+        "decimals": 6
+      },
+      "GyLt577DCBJe143Kzz2ectmmM2jH3YLPueg5A22dpump": {
+        "mint": "GyLt577DCBJe143Kzz2ectmmM2jH3YLPueg5A22dpump",
+        "ui_amount": 0.0,
+        "amount_raw": 264660882444,
+        "decimals": 6
+      },
+      "Ar4EdEVq725LRGTUX4pewFnwV4efQ9GjFk4C6Zb1pump": {
+        "mint": "Ar4EdEVq725LRGTUX4pewFnwV4efQ9GjFk4C6Zb1pump",
+        "ui_amount": 0.0,
+        "amount_raw": 158244,
+        "decimals": 6
+      },
+      "EoQ85FHp8nWbB7rH4hTVUbgQY24W7F1c69aKyEKmShY3": {
+        "mint": "EoQ85FHp8nWbB7rH4hTVUbgQY24W7F1c69aKyEKmShY3",
+        "ui_amount": 0.0,
+        "amount_raw": 28110518544,
+        "decimals": 6
+      },
+      "GhkhtKaBSS4Vf9sYUQbSiWboYi3apA1S4WkoR7Lypump": {
+        "mint": "GhkhtKaBSS4Vf9sYUQbSiWboYi3apA1S4WkoR7Lypump",
+        "ui_amount": 0.0,
+        "amount_raw": 2291,
+        "decimals": 6
+      },
+      "HfX7chCpGQqcGPaVAaxkFrGGcPN5kCRsvZQF8uPmpump": {
+        "mint": "HfX7chCpGQqcGPaVAaxkFrGGcPN5kCRsvZQF8uPmpump",
+        "ui_amount": 0.0,
+        "amount_raw": 31415424837,
+        "decimals": 6
+      },
+      "GNAngkHADSLWfnL7wqrjTmgTKW22kTqsr8yuSTBzpump": {
+        "mint": "GNAngkHADSLWfnL7wqrjTmgTKW22kTqsr8yuSTBzpump",
+        "ui_amount": 0.0,
+        "amount_raw": 10046624840504,
+        "decimals": 6
+      },
+      "8vCUEepdU6tqw5riiarzMkxFrJhHgv9xpU9eto5JTAkv": {
+        "mint": "8vCUEepdU6tqw5riiarzMkxFrJhHgv9xpU9eto5JTAkv",
+        "ui_amount": 0.0,
+        "amount_raw": 1688756052124,
+        "decimals": 6
+      },
+      "N9D8KQZF9MEx6c7LxH1cy9Tm69tyUoHwZ7LUGbCpump": {
+        "mint": "N9D8KQZF9MEx6c7LxH1cy9Tm69tyUoHwZ7LUGbCpump",
+        "ui_amount": 0.0,
+        "amount_raw": 26762575862,
+        "decimals": 6
+      },
+      "KwLPHFZXKmYwdmdE6TeUg5rAmUuJVNxJyKNVEiSpump": {
+        "mint": "KwLPHFZXKmYwdmdE6TeUg5rAmUuJVNxJyKNVEiSpump",
+        "ui_amount": 0.0,
+        "amount_raw": 19408823380,
+        "decimals": 6
+      },
+      "2B9ECvKCBSsYWJeHmpT3TierzX5d4dVWh3gsfrWHpump": {
+        "mint": "2B9ECvKCBSsYWJeHmpT3TierzX5d4dVWh3gsfrWHpump",
+        "ui_amount": 0.0,
+        "amount_raw": 1265543871116,
+        "decimals": 6
+      },
+      "4nJgpef19sdRnND5RPPEn79gaZwxTFo4Tq9B6jtnq1uD": {
+        "mint": "4nJgpef19sdRnND5RPPEn79gaZwxTFo4Tq9B6jtnq1uD",
+        "ui_amount": 0.0,
+        "amount_raw": 995682293874,
+        "decimals": 6
+      },
+      "Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump": {
+        "mint": "Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump",
+        "ui_amount": 0.0,
+        "amount_raw": 1134317682019,
+        "decimals": 6
+      },
+      "F42reUtaCxm3bNGjNQxTa3fKEJNyriHM23Ln3vBpump": {
+        "mint": "F42reUtaCxm3bNGjNQxTa3fKEJNyriHM23Ln3vBpump",
+        "ui_amount": 0.0,
+        "amount_raw": 59267460905,
+        "decimals": 6
+      },
+      "91oGFWv8j48s93C5fxNCqPWsxafEd8Dzaj1xgzhKpump": {
+        "mint": "91oGFWv8j48s93C5fxNCqPWsxafEd8Dzaj1xgzhKpump",
+        "ui_amount": 0.0,
+        "amount_raw": 666262208484,
+        "decimals": 6
+      },
+      "B74wJJQfADJGUXc5iZeKPpn46oKNkZ2uDCYnxxcqepxE": {
+        "mint": "B74wJJQfADJGUXc5iZeKPpn46oKNkZ2uDCYnxxcqepxE",
+        "ui_amount": 0.0,
+        "amount_raw": 1089994948204,
+        "decimals": 6
+      },
+      "Eam3Y3afVw87yTr918WWjWvzd7J8Gyy4AHSyMunTpump": {
+        "mint": "Eam3Y3afVw87yTr918WWjWvzd7J8Gyy4AHSyMunTpump",
+        "ui_amount": 0.0,
+        "amount_raw": 213162990067,
+        "decimals": 6
+      }
+    },
+    "A8P2qi2PfwfJPQvWzGgXcFiTkF2FnmUTfKsjjeNur6yh": {},
+    "XP7Go2zjco5oZ5KFLMqGYzcvU8HkW49JmipwaoDgbtE": {
+      "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump": {
+        "mint": "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump",
+        "ui_amount": 0.0,
+        "amount_raw": 11782738085103,
+        "decimals": 6
+      }
+    },
+    "FV4XoAMP4Zcz46w7LVbKWtDCffGTD71sVK5bmba7bwbE": {},
+    "6Dry59xznu4wLmhkySAcW5Z6qvvxdaBRVN17s4deTABQ": {},
+    "8XxhoMbTkj2q2wHsUnxyuyo6evAs8E6UCvQju7XWEkkP": {},
+    "G5KyTSM4RnTNEcRAYHtdzmZyF9ec7a6PRrJ6SryGZUnM": {},
+    "BKiT1obRimSzy6XxC2MsDbM8AJ9iaXR86QVRayXW166C": {},
+    "FKvFgH5YCsWSNc7Sc9soVETBDCPUCZLno8sGBDNkFnUY": {},
+    "EyiAbDiRGQ44Ax3wXG8CQFUVVkNxErjyrfwMi8ZHbhXB": {},
+    "GB3a46McuoecqWztcWfhMVZTsJjTKXFadJQSCemFRwmg": {},
+    "ALLsAcMPc2TQEAN1YJSb4Nrz8gPmFUCr289vEbTLEmbU": {},
+    "6XC1gePxFNVmY2Gr483dFSPccfkrDmS16nnVyGegGaVk": {
+      "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS": {
+        "mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 2540961191361421,
+        "decimals": 9
+      },
+      "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS": {
+        "mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 1,
+        "decimals": 9
+      }
+    },
+    "6V5za4X9WvD2cikZZhs2HZWrE1krxtjM9kMLxcz1Ssi6": {},
+    "6zLFbkddBY9cR1phDNrMV9YWC8NGQfBTnq3GRXfEtQLu": {},
+    "2oZ7vNNgimvYnkWDY5fsokXxrF8h4xphZAgRMGmAWuHh": {
+      "Cu2g2gDmCLfAcFTaHEMFYqaqeuNcrT194nUxxz9hgR5D": {
+        "mint": "Cu2g2gDmCLfAcFTaHEMFYqaqeuNcrT194nUxxz9hgR5D",
+        "ui_amount": 0.0,
+        "amount_raw": 977484677275,
+        "decimals": 6
+      }
+    },
+    "HbyrjdLLJBKzmXGDRDyJh7vQNZwfMikHokmZFFAXfKNb": {
+      "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb": {
+        "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "ui_amount": 0.0,
+        "amount_raw": 4259514548,
+        "decimals": 6
+      }
+    },
+    "3HW9Md647xoPqizGPzphoM3WckTSBWJUeojzY5WCpHWt": {},
+    "4uaom3nnvLqGcCRVAAr95VjsfKpV4QTHJyx4ScV3vjgo": {},
+    "8Lu41ekgM8M7KAcn8GttSavb8Z7vpcw4fAHMr9SGg4Tv": {},
+    "DXFcdjit8CDhvJZrUV7qXSWaqEkMZ8THkWBwKtEoSzt7": {},
+    "7EU7jpQChxfuGqSjYNVDUkDx7t6Wa9uiL2xjpYZuod79": {},
+    "CQGKS3CZkWPpDwCXgBxwkArMQ2MxQh6fdAgMqCGLFart": {},
+    "EgUKP1zgtuUxFdpLntv7XfeexiPmyL1EuYCbHii8h1Rg": {
+      "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump": {
+        "mint": "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump",
+        "ui_amount": 0.0,
+        "amount_raw": 1799956340947,
+        "decimals": 6
+      }
+    },
+    "AciPhbJ3cwPjB5YmhnNokeVPtkdpvn88aDW64pD3VNHY": {},
+    "3AgzPkSqMPiss6c517NMVPtJeKeGWpUSU3dhZbZmg85R": {},
+    "ES1f2NpZqQdM75armNDmShpTX7HsnE4B2sXYG78X8bTd": {
+      "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS": {
+        "mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 1203981197704966,
+        "decimals": 9
+      },
+      "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS": {
+        "mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 73152647664222,
+        "decimals": 9
+      }
+    },
+    "4EbiZfSi61sfUoJCmbxd623djfNWhbaYhMamo7nvptPq": {},
+    "Ap3LKcdGsSkQx1ju96ueVqXkBKkFAKihLc1aSTTC5Yvb": {
+      "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump": {
+        "mint": "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump",
+        "ui_amount": 0.0,
+        "amount_raw": 9771486410983,
+        "decimals": 6
+      }
+    },
+    "3CeGVzZiP3R1LLBbnxPQvDJwDMNVNutLnD2RGbmTsknh": {},
+    "ESpmDLN2dbRHJbmEWSuCwymN3YbVAySgPEtRvXN8YoSX": {},
+    "xxYTvDEc5uxZD9cfkTNMfjkFqxh8AnYU5LsVE9EAoLB": {},
+    "HmKuFcafocLM6pe8YoByw2gZcx4nWgJwEHA9JJx9dasL": {},
+    "BsCZUYVA1VpgYjo2tgWZCF6fCqjdZscJ9LA4kTxAaWZ1": {
+      "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb": {
+        "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "ui_amount": 0.0,
+        "amount_raw": 3337106029,
+        "decimals": 6
+      }
+    },
+    "aP9y2GfMgrPF6TxsVB9FtXksMd62xqZ9ZX2G44phXRK": {},
+    "DZ3ZoZ5rKhKzueaL2rN41NaZXqNMZNAePjweLXPtbSNg": {},
+    "HPUX8h19FpfH6Y8gaea9J46qgoK6SBCyNoynGms2xNXo": {},
+    "6125MMLWmmD36aGvg7D3i4K2k2EiYNUiciaLg6kmaE6z": {
+      "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump": {
+        "mint": "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump",
+        "ui_amount": 0.0,
+        "amount_raw": 1312175619838,
+        "decimals": 6
+      },
+      "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump": {
+        "mint": "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump",
+        "ui_amount": 0.0,
+        "amount_raw": 1473299768383,
+        "decimals": 6
+      },
+      "FXEV8UXt3ByKVf3aXvQ7BdzQYABQEdTD37awsGFpump": {
+        "mint": "FXEV8UXt3ByKVf3aXvQ7BdzQYABQEdTD37awsGFpump",
+        "ui_amount": 0.0,
+        "amount_raw": 136681989793,
+        "decimals": 6
+      }
+    },
+    "3w5GUC2gwwyDijHi6rehMof2nsxQ2oxD6WLYwVd7yRmV": {},
+    "7gcddLA5T2ZE1kZbuyT3Nt8ZAmgR1aKwG7KCmiYwYADD": {},
+    "3MKkJe3VuCdseiSb2HpgtMrJrHTPfdbNrKr7iys6VDZF": {},
+    "2ejrtVzsLMftAuBV3TeUdsQpQmqnUtruSBZmMhYiSaNV": {},
+    "EPTWnXBtVoQUtSxYJhbDQMvjjwaE3Qtrc7LBD8doVoHJ": {},
+    "ZNfohGtjio1C5upZXkiPDfwURMMY84RUTfEGL7PbK8a": {},
+    "3V2orMgWhV8RQmpThP2e82tcwse49wZZ2wtQu4fE4m35": {},
+    "ECayv8JEMVsdVYnLVAY3JYZWXcCwtqGwC5xf8fQV11no": {},
+    "Ad5S91kSfesXvXNc5QPiGixPVxj8aHmMpKnxAQA2PqTR": {},
+    "G7td9NrhdtCcFhmXEuYgYjXjt5dj27cVfqvXfKjp1h5D": {},
+    "PrtbpgEsTfH32Fhd7p2dM2jSEe28wvt7nfG166qp62V": {},
+    "CsMoWS4aZzcwGKbmxkuByUJTt6gdgG6FqEe8QCtYWFmH": {},
+    "8DjwmBs2fZKvR5HAQVgP8JQ6pcvspQNgLqhQyJLWd5FG": {},
+    "2mS99eCEd6NaYJiGZzPcKTHhjtnhm1iRxLj1zutSQJZR": {},
+    "DiGskmCD4rNyMUySXTzWtu9PWiVgishoGL875wQDvSyp": {},
+    "GJ19iBJGKqzBGjGPcts5oDj4xBkwqeJopbR57hMkgZKQ": {},
+    "6sDrmbvmDYWnYQ1q4RsvLp8BUWFuxjPPwz2KqJqDazQ3": {},
+    "5sfgNqrAR1L1RkzfBk3c1LEuPJEmYW4RJQTvWL93bEkL": {
+      "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump": {
+        "mint": "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump",
+        "ui_amount": 0.0,
+        "amount_raw": 11768685310814,
+        "decimals": 6
+      }
+    },
+    "8SSDJ892HM8p5sbRA2ojWwRq64G1qXkcpDKnBA2JE1yy": {},
+    "92UfdA68oG9yoBuPB6w1kNDVRDQscprUgWpmr46ZKHQT": {
+      "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb": {
+        "mint": "629SXGvRubiamA5SRDhbXNUbh4umVTX8hi6cN9P6EWbb",
+        "ui_amount": 0.0,
+        "amount_raw": 4354757195,
+        "decimals": 6
+      }
+    },
+    "EVGrkyBzCKQQVC2yDKop5qTmpEPZZ9k3YV4GZyZooktG": {},
+    "ETxK1bvjh9nAE2MefNztgCxCrttRx7z58fanjANiJpHp": {
+      "GhkhtKaBSS4Vf9sYUQbSiWboYi3apA1S4WkoR7Lypump": {
+        "mint": "GhkhtKaBSS4Vf9sYUQbSiWboYi3apA1S4WkoR7Lypump",
+        "ui_amount": 0.0,
+        "amount_raw": 2754930620233,
+        "decimals": 6
+      }
+    },
+    "HhvLKqg3tnyfAHXxuhN5vP2tsvGoBqhyRC9kUDUj8ahZ": {},
+    "F1eRMrp4EtFWCeU3tsKmzZ9XLC5uUCk2nawgnbK9Qb5V": {
+      "2EKHQiGCZWLaKzWENsDWDiqJ5t3K8rTEkiBekNvhpump": {
+        "mint": "2EKHQiGCZWLaKzWENsDWDiqJ5t3K8rTEkiBekNvhpump",
+        "ui_amount": 0.0,
+        "amount_raw": 4136083969082,
+        "decimals": 6
+      }
+    },
+    "FQ2XmiD2MQ2vTG5e4BGCoTWi4yQaABjY8s2zYsMCbx2H": {},
+    "J6L5r9cn69Xv825r65LkY8bdEjEZULvQ6USHhSyg2qGk": {},
+    "BmHV66pZdD7bCwjXi2t8aCorJ6LNrVx7pVAYiXAmKCAc": {},
+    "D5FGg1UXSVdgyVJAqA9h9cZuWGJ26tSRSeYtCgPuvwwm": {
+      "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK": {
+        "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+        "ui_amount": 0.0,
+        "amount_raw": 3574376070,
+        "decimals": 6
+      }
+    },
+    "DEVjXqsjaHdES48M6GXTJHRNjJTDcUmpbrzLKSnKme2Q": {},
+    "BTacsXqq4UYZNdPcfedZPLtJsXjF87LfYLoLAcVXNegp": {
+      "6d8p12ENyoNmpZ7JXNWHmnLwziNjzXov1JKf327G2FTp": {
+        "mint": "6d8p12ENyoNmpZ7JXNWHmnLwziNjzXov1JKf327G2FTp",
+        "ui_amount": 0.0,
+        "amount_raw": 15268401753400,
+        "decimals": 6
+      },
+      "EkkRWeherDHqfuydtoJ8FG9otwWgD3xTUkqmx4Ekpump": {
+        "mint": "EkkRWeherDHqfuydtoJ8FG9otwWgD3xTUkqmx4Ekpump",
+        "ui_amount": 0.0,
+        "amount_raw": 22231658026836,
+        "decimals": 6
+      }
+    },
+    "9AsWYBmRnWiWyq35yisgFP4dZvfps669Xji7YXoWXcpH": {
+      "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump": {
+        "mint": "AKu5LpFYtfha9RuvCdt9KNGGu9VsR2SfMUC2CA46pump",
+        "ui_amount": 0.0,
+        "amount_raw": 29491411235070,
+        "decimals": 6
+      }
+    },
+    "Aek47CB2Dh23XS2ruQctHww62JMNp4fukfBPpao5HYTo": {},
+    "JACSqYDXxgv57oH69dPCB8GYkrxh3ALnxs3hLDFcVzEa": {},
+    "3AK5FFc82CSHKP6uBRFY8bzqsz3PVkRTBdiifaPYjr3K": {
+      "ZFwVfRtyQw4ark6ci6SNdvgMvTk4iDmb8RZU1SqBAGS": {
+        "mint": "ZFwVfRtyQw4ark6ci6SNdvgMvTk4iDmb8RZU1SqBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 4519923928660201,
+        "decimals": 9
+      },
+      "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS": {
+        "mint": "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 1,
+        "decimals": 9
+      }
+    },
+    "614otCnG8omosfM57oWEX74j6dK77HtKHu1osmBZpjBi": {},
+    "ACCMBB6Wxxh5Pnh6PjfjkK1P6wi6ca9xVGrT5YJh2LFd": {},
+    "2MkR8GUp3UHZq1cr9iuvbWZYvLYeS7rng5tQHfVKXJxb": {},
+    "4wZibXqRQvBriZuynBbAkxumLLohXWzx24uEGt9YqDaV": {},
+    "HMFPs8JzGZQL3fDyRT77gpNSvWqioURkvhbXDnrfi3bC": {},
+    "AiSaQstUk3vhSB4nm1PwivaHzas35juxW4nvqZoibaXF": {},
+    "9C1e91YbYWFbthgyRvDjx5gsmGnn5x3BSE76kkiFmPBk": {},
+    "vuZFqRaj2Sr1bBuN4aiGzqbp1J7Pr4G8bmuysHGsbok": {},
+    "5jrEhFZ6QktsFzoiWQUZLyfc97L2c4wG9QwR8tYhLZdN": {},
+    "BjLPmmXzpNVbLLwp915oxrHrCsTRdJxjPvbQXJs9TBnX": {},
+    "2mukkMvbsXtDhpZqsLtvRcnFMt5nRo9SBH5P6f6DBT43": {},
+    "3Jchr5nDRY2jZMDABkw7FopYHHLbhD475eEFHpHjKNQ2": {},
+    "RYB5Sp1Ayt2GqLoj4VgePrge6SDQGFDrgdFP8woFvhP": {},
+    "71vXvwh33hBPuMicabS5htvMYzff4FmTLwxCi33FFmER": {},
+    "JBMHuZjfVsJeRVirf1CrSh1xLVu3n4dtvyytcFgSDVdE": {
+      "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump": {
+        "mint": "HKbSjeJ7VRei3SbJY8NHhnUwgCsaZB5dWDN389Ehpump",
+        "ui_amount": 0.0,
+        "amount_raw": 29443434081345,
+        "decimals": 6
+      }
+    },
+    "2Emf5KsHnDhKqJhcrM12L69NAWSK9uYveEbsEbTjNffn": {},
+    "TP2wRmYsui6QyprwJvNLw9Nz8XwD2K37PDkHL7Eugnf": {},
+    "3nii2971ajKiJysLEbf3hfF3T23KKrAeyS9vfquauG6f": {},
+    "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": {
+      "DRydfynvQKJBRqafcSBzg895cCdJwttwjZDEucxPpump": {
+        "mint": "DRydfynvQKJBRqafcSBzg895cCdJwttwjZDEucxPpump",
+        "ui_amount": 0.0,
+        "amount_raw": 1167226798508,
+        "decimals": 6
+      },
+      "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump": {
+        "mint": "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump",
+        "ui_amount": 0.0,
+        "amount_raw": 204461260791,
+        "decimals": 6
+      },
+      "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump": {
+        "mint": "BdcYN77LFJLU2tKAWzRuci2j78LeELrz8fceC2Hapump",
+        "ui_amount": 0.0,
+        "amount_raw": 14720387538,
+        "decimals": 6
+      },
+      "2B9ECvKCBSsYWJeHmpT3TierzX5d4dVWh3gsfrWHpump": {
+        "mint": "2B9ECvKCBSsYWJeHmpT3TierzX5d4dVWh3gsfrWHpump",
+        "ui_amount": 0.0,
+        "amount_raw": 12977961261042,
+        "decimals": 6
+      },
+      "EkkRWeherDHqfuydtoJ8FG9otwWgD3xTUkqmx4Ekpump": {
+        "mint": "EkkRWeherDHqfuydtoJ8FG9otwWgD3xTUkqmx4Ekpump",
+        "ui_amount": 0.0,
+        "amount_raw": 459095125735,
+        "decimals": 6
+      },
+      "GNAngkHADSLWfnL7wqrjTmgTKW22kTqsr8yuSTBzpump": {
+        "mint": "GNAngkHADSLWfnL7wqrjTmgTKW22kTqsr8yuSTBzpump",
+        "ui_amount": 0.0,
+        "amount_raw": 2203485538375,
+        "decimals": 6
+      },
+      "8TqgH71s1YLfiKDD1nYBauVwXK5qdfEm891xqM8rpump": {
+        "mint": "8TqgH71s1YLfiKDD1nYBauVwXK5qdfEm891xqM8rpump",
+        "ui_amount": 0.0,
+        "amount_raw": 1496767130002,
+        "decimals": 6
+      },
+      "Ar4EdEVq725LRGTUX4pewFnwV4efQ9GjFk4C6Zb1pump": {
+        "mint": "Ar4EdEVq725LRGTUX4pewFnwV4efQ9GjFk4C6Zb1pump",
+        "ui_amount": 0.0,
+        "amount_raw": 519614941472,
+        "decimals": 6
+      },
+      "Gfdhr2N9Pt6vMJmnfhnAQNmgXJdv5aLyuK1KyZupump": {
+        "mint": "Gfdhr2N9Pt6vMJmnfhnAQNmgXJdv5aLyuK1KyZupump",
+        "ui_amount": 0.0,
+        "amount_raw": 2059952414162,
+        "decimals": 6
+      },
+      "Emh1yW6N9iyrax199tW7VGj6EgrSeTskDqkriaPPpump": {
+        "mint": "Emh1yW6N9iyrax199tW7VGj6EgrSeTskDqkriaPPpump",
+        "ui_amount": 0.0,
+        "amount_raw": 219697088068,
+        "decimals": 6
+      },
+      "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS": {
+        "mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 6813943364267689,
+        "decimals": 9
+      },
+      "Cpuyu6Fy82ei6m3A1bZJHtEj6zgND1s3rUZBZo9wpump": {
+        "mint": "Cpuyu6Fy82ei6m3A1bZJHtEj6zgND1s3rUZBZo9wpump",
+        "ui_amount": 0.0,
+        "amount_raw": 57971384296,
+        "decimals": 6
+      }
+    },
+    "GtmXYe7QcYQm35D5o1Pw1E4B26sMq2c6DVofexnT8YGe": {},
+    "279xG5isZJ96hUbqLCVnR3DaTrmuHyibTWyDn2u9N4nE": {},
+    "4x3r61pT9xSmcCpkyXrCZGejCrzvJzXipQ2KazJDHx4U": {},
+    "3zwMQMCFqm83sTVaFY1oKefW6G7GUXhZKnXrxfm3AjGU": {},
+    "BgmzfY6LXt55PtJeZBYN1aWMwsgdSUfRcmWN8K3KkQ3i": {
+      "GyLt577DCBJe143Kzz2ectmmM2jH3YLPueg5A22dpump": {
+        "mint": "GyLt577DCBJe143Kzz2ectmmM2jH3YLPueg5A22dpump",
+        "ui_amount": 0.0,
+        "amount_raw": 9905309099109,
+        "decimals": 6
+      }
+    },
+    "7YwKUjkSQLLN4MSMbLvMEu3Wb4bbnC6QKAJ7wgZ3hhna": {
+      "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump": {
+        "mint": "EBoXrDiJe363nGrHQoBUN2k2GJzQs11N7kUqUUNVpump",
+        "ui_amount": 0.0,
+        "amount_raw": 15581784053096,
+        "decimals": 6
+      },
+      "D65Jr6jUe5swtbBdfZvieNqsunEBGRwzGpHJPBZ1111": {
+        "mint": "D65Jr6jUe5swtbBdfZvieNqsunEBGRwzGpHJPBZ1111",
+        "ui_amount": 0.0,
+        "amount_raw": 1,
+        "decimals": 6
+      }
+    },
+    "9dHjHUSJaixrMq4riURPrZn5r5mNz4sRczto1xFBVCp5": {},
+    "H3vgbQ9wL1GUhzzDb3aPA2tmvZT1QtrV5k1v3XPYgsmc": {},
+    "DxbsEF6QjZtEDSGmTz5D95cBMNWhYSK6hdjnvYPc434H": {
+      "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump": {
+        "mint": "5Vys8TwynP6GCoS9TsbomZvbhm8s8hqxwgB7RGPppump",
+        "ui_amount": 0.0,
+        "amount_raw": 1335034876151,
+        "decimals": 6
+      }
+    },
+    "G6VoAd1yTpJhQ5yvhtQmXG4c8uiFVhiXo2sZg7HMdw5q": {},
+    "C4XwcZMT2U1Vffrr8b3FAErW3KEkpWsDhgAji5mX3A6x": {},
+    "6oXq3kqm5C6SQbnCvd5KqqKm1v714jnbebR8EFvRz6FZ": {},
+    "DSN3j1ykL3obAVNv7ZX49VsFCPe4LqzxHnmtLiPwY6xg": {},
+    "6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB": {},
+    "DeL1SWuEt6ynpVoZXqpKTTsmZ3ATEcMgZueHaTMG4B5v": {},
+    "DGjMKhHexVhFzXuLJQzSiV7UJboV7Sq6rtjgzou5rGUi": {},
+    "9yUPNnz3fGQpjzLR7CG87atzP4xXbQh9UbtzHdTtsjh4": {},
+    "5Li5VkWejkRssyQBxWTsfeYECYCBPTdtCRfJtjd9XpjP": {},
+    "E1L42KAtqHB7KNtTR4yBjG8deFi65PPix9CtBgx5V6fh": {},
+    "EJLFctGCNe81ewSEvavQceDMK2T8DVcfikAqBQpCQkRh": {},
+    "BSwA99cLWzghFQ8X8wYGefu8AC61jRPvP47ctNUTJrTB": {
+      "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS": {
+        "mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 4782200925483335,
+        "decimals": 9
+      }
+    },
+    "wi6HEont7F5UeaoA2a1fYd7SuebGWsjwEaF3gcSAy6T": {},
+    "E5WTRn5QHNMjg7icH75BgFq5D5Znwb3zgEt5M1DXjwS1": {},
+    "4seG5PvXABw755B9QbHKGt2AZNu1Up8Ky4wvBKpWZreY": {},
+    "5HAE9wrSL7hiv8cVv5rWBNRDT7nrRcKBQYiz9BGUY2dY": {},
+    "9eH5FiNu1GH3KfyrESGH3P9WVFPWTCKHhU4xkQ1pF61d": {},
+    "EGfvbog5ARrACczC2w7tf33mAjxs7K3NSQq3iN6dVxHJ": {},
+    "EDATJB5gfCs95amgtqgu1smHcKcU7oigZMqnTDhE6y7H": {},
+    "Haq3mRdPbW3xhZQpFHXTeH7bGhyK3V9m1gzF7cjRpLJa": {},
+    "FaV6puuGSWYoVvuyf4PaDqwieyFBjGRHP3p3bjmwmy6M": {},
+    "EA5xTLdKR9576Yn2TBbUWgk7xfz93iZ4XRiC8W2rcG69": {},
+    "2G4wHXnrUwAWBPyEMbxj9PPgehtF3gE6d5VH3JmExL8F": {},
+    "2i6HHmQG2ycjYBf7KemWmWWYBDTh4bo12mEVxUCFbPrJ": {},
+    "5DsWHDYpkiQgfxwBUYudkvSJd9CoZtgMgYtYYr3ChWji": {
+      "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK": {
+        "mint": "4WJVG7UhvQGJoZPWSJy3UFTRLnFUxy91xs4Hj3LYj6vK",
+        "ui_amount": 0.0,
+        "amount_raw": 2983892796,
+        "decimals": 6
+      }
+    },
+    "5Mwpe7ipptozTDrWPZxbPEmn11y4uewLbiXU7XBQMjp": {},
+    "BEQjZdbQcFLhaCwi1nLBgJERAEAWvPB7D6gad4c8eaur": {
+      "E7yKgTQfGsGK9LTNn1QaLT7G9QrLTfQ6gqiQpyhjCuf9": {
+        "mint": "E7yKgTQfGsGK9LTNn1QaLT7G9QrLTfQ6gqiQpyhjCuf9",
+        "ui_amount": 0.0,
+        "amount_raw": 261460886706,
+        "decimals": 6
+      }
+    },
+    "E4QZ2DcwXQeoqhrpViSq8SRxSbWBKR8mKXvFeniUG33Q": {
+      "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS": {
+        "mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+        "ui_amount": 0.0,
+        "amount_raw": 1350535987971057,
+        "decimals": 9
+      }
+    },
+    "9Acpn8JhEoYUUZEtBqdbd3AE5czHtkxqYWT948cBh2D8": {},
+    "9rGofGHMqAQHYZiS8rjnUKkT5jPYbLkv2r6esrr47Zbw": {},
+    "6oqNGo7faKJJVhmhtf3NqNbnixyTmZwghrg7BvjDHXKz": {},
+    "GebXH5iGAr1XREaZ63k7LArooWxomTAW9MPtZKJeozRp": {},
+    "8CqWNXz1nBZTN9yY5ccuvdn3asaqnoy76XuPFNwo6AQL": {},
+    "ATKX9vnZqAE5DecXxdZ87VTpxcmwWcYFiMaRBZcmVo1w": {},
+    "31zwGtkWUfjCtAMKUsUrwK9KNvJ7o893KvnGL5pnGmvx": {},
+    "EfpMkSmJUBBUPKx9zpNmvrqr9C8hnQHKRa6umKXKNwrx": {},
+    "6BTnGabvTyP48gDs8sUFjghfhSYvnumw7SpA7yKQJaL6": {}
+  },
+  "processor_run_timestamp": 1759611126,
+  "processor_schema_version": "1.4.1_birdeye_vol+security"
+}

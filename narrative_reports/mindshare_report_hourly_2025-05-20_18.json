@@ -1,0 +1,374 @@
+{
+  "report_generation_timestamp_utc": "2025-05-20T19:07:39.240723+00:00",
+  "target_creation_hour_id": "2025-05-20_18",
+  "total_tokens_in_categorized_file": 1309,
+  "total_valid_tokens_analyzed": 1309,
+  "pre_bond_category_distribution_after_refinement": {
+    "Pop Culture": 154,
+    "Tech": 181,
+    "Abstract": 105,
+    "Other Meme": 127,
+    "Historical Figure": 2,
+    "Food": 71,
+    "Unclear/Generic": 237,
+    "Animal (Other)": 105,
+    "Political Figure": 86,
+    "Meme": 9,
+    "AI Related": 87,
+    "Celebrity": 35,
+    "Dog Meme": 45,
+    "Cat Meme": 13,
+    "Fantasy": 1,
+    "Sports": 1,
+    "Location": 15,
+    "Mythology": 1,
+    "Event": 9,
+    "Other": 4,
+    "Finance": 1,
+    "Sports Team": 1,
+    "Name": 7,
+    "Game": 1,
+    "App": 1,
+    "Religious Figure": 2,
+    "Social Media": 1,
+    "Religious": 1,
+    "Gambling": 2,
+    "Book/Novel": 2,
+    "Fashion": 1,
+    "Activity": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 12,
+  "dominant_bonded_narratives_with_strength": {
+    "Unclear/Generic": 58,
+    "Political Figure": 29,
+    "Tech": 13,
+    "Abstract": 9,
+    "Other Meme": 8
+  },
+  "potential_outliers_among_bonded": [
+    {
+      "token": "IMWT - IN MEMES WE TRUST",
+      "mint": "BunhSv2LPvZidMAUm35nyGWwQZefiArBe1fhMzzgDc8L",
+      "category": "Meme",
+      "reason": "Category 'Meme' not dominant among bonded and had low pre-bond presence (9 instances)."
+    }
+  ],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-20_18: 1309 valid pre-bond tokens analyzed (Total in categorized file: 1309). 12 token(s) created this hour also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Unclear/Generic (score: 58), Political Figure (score: 29), Tech (score: 13), Abstract (score: 9), Other Meme (score: 8) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (237), Tech (181), Pop Culture (154) Potential Outliers among Bonded (1): IMWT - IN MEMES WE TRUST (Cat: Meme)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "HSbuYi4wtQmixdoEJkyMgAiLQGWyHF2EjpuK1me7pump",
+      "bonded_token_name": "Duolingo Anonymous",
+      "bonded_token_symbol": "DUONYMOUS",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-20T17:25:58.024377+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:26:16.919709+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "RMC - Random Meme Community (Category: Other Meme)",
+          "MOTUS - Memes Of The United States (Category: Other Meme)",
+          "Perrpe - Pepe Error (Category: Other Meme)",
+          "FREE LUCY - JAILED FOR MEMES (Category: Other Meme)",
+          "IMWT - IN MEMES WE TRUST (Category: Other Meme)",
+          "PDF - @pdfthis (Category: Other Meme)",
+          "NFT - Nonsense Fairytale Token (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 7
+      }
+    },
+    {
+      "bonded_token_mint": "AV6MVx1RZpMV4nHueLdUnSbN5AGKe49tqFr1Ucjhhhgt",
+      "bonded_token_name": "SNARFY",
+      "bonded_token_symbol": "SNARFY",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T17:28:52.215724+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:43:22.302264+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "SWIG - OnSwig (Category: Unclear/Generic)",
+          "TRADER - RETARD (Category: Unclear/Generic)",
+          "IMWT - IMWT (Category: Unclear/Generic)",
+          "KTC - KTC (Category: Unclear/Generic)",
+          "HAROLD - Harold Coin (Category: Unclear/Generic)",
+          "BREAD - BREAD (Category: Unclear/Generic)",
+          "IMWTITWH - InMemesWeTrustInTrumpWeHodl (Category: Unclear/Generic)",
+          "VACCINE - death (Category: Unclear/Generic)",
+          "MAXC - Maxc (Category: Unclear/Generic)",
+          "?coin? - unknown coin (Category: Unclear/Generic)",
+          "Piss - 3 am Piss (Category: Unclear/Generic)",
+          ". - . (Category: Unclear/Generic)",
+          "CHILLNAK - Just a chill pasternak (Category: Unclear/Generic)",
+          "Maybe - Maybe coin (Category: Unclear/Generic)",
+          "repo - repo (Category: Unclear/Generic)",
+          "TTT - TTT (Category: Unclear/Generic)",
+          "Valid - Valid. (Category: Unclear/Generic)",
+          "PO - PUBLIC OUTRAGE (Category: Unclear/Generic)",
+          "TMWHT - Tell Me Why (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 19
+      }
+    },
+    {
+      "bonded_token_mint": "Epecf79UJir3F55DKYhD1BdSQwLNbTD8MHN2qCLAt8WU",
+      "bonded_token_name": "skye",
+      "bonded_token_symbol": "SKYE",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-20T17:31:21.484210+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:32:00.785244+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "LUCK - LuckyLoot (Category: Abstract)",
+          "SKYE - Skye (Category: Abstract)",
+          "ELRI - ElvenRift (Category: Abstract)",
+          "STACKAI - AudioStack (Category: AI Related)",
+          "SDT - StarDust (Category: Abstract)",
+          "Sky - Sky  (Category: Abstract)",
+          "bertle - bertle has a dream. (Category: Abstract)",
+          "HDTRE - Hidden Treasures (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 8
+      }
+    },
+    {
+      "bonded_token_mint": "5QwK9YK3WRdQAb1oHvozNpYaf9sfQtamRZrG1jFipump",
+      "bonded_token_name": "saint trump",
+      "bonded_token_symbol": "sainttrump",
+      "bonded_token_final_category": "Political Figure",
+      "creation_timestamp_utc": "2025-05-20T17:35:21.344376+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:35:29.165223+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Political Figure",
+        "related_pre_bond_tokens_by_gpt": [
+          "TRUMPGOD - Trumpgod (Category: Political Figure)",
+          "IMWTITWH - InMemesWeTrustInTrumpWeHodl (Category: Political Figure)",
+          "FLEX - $TRUMPFLEX (Category: Political Figure)",
+          "IMWTITWH - InMemesWeTrustInTrumpWeHodl (Category: Unclear/Generic)",
+          "TRUMPJESUS - Trumpjesus (Category: Political Figure)",
+          "$ - JESUS TRUMP COIN (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 6
+      }
+    },
+    {
+      "bonded_token_mint": "45zyjKJ7Aqu8iofWEm5GuSAkY7eJ3sLMAbPeY96Apump",
+      "bonded_token_name": "Hyperstition",
+      "bonded_token_symbol": "NEWS",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T17:35:22.702002+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:40:33.623566+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "mojo - mojo (Category: Unclear/Generic)",
+          "tony - tony saloroni (Category: Unclear/Generic)",
+          "TU - TRENCH UNION (Category: Unclear/Generic)",
+          "Money - what if you had unlimited (Category: Unclear/Generic)",
+          "TRUMP - Hodl This Coin (Category: Unclear/Generic)",
+          "IMWTITWH - TRUMP MEME (Category: Unclear/Generic)",
+          "ZUKA - ZUKA (Category: Unclear/Generic)",
+          "SNARFY - SNARFY (Category: Unclear/Generic)",
+          "ITWH - In Trump We Hodl (Category: Political Figure)",
+          "ITWH - In Trump We Hodl (Category: Political Figure)",
+          "ITWH - In Trump We Hodl (Category: Unclear/Generic)",
+          "HAROLD - Harold Coin (Category: Unclear/Generic)",
+          "POWER - NEW JERKMATE ENERGY (Category: Unclear/Generic)",
+          "UNLIMITARD - unlimitard (Category: Unclear/Generic)",
+          "mli4i - my life in 4 images (Category: Unclear/Generic)",
+          "LOA - Launch On All (Category: Unclear/Generic)",
+          "SPYUX - Spyux (Category: Unclear/Generic)",
+          "BLINDSIGHT - New Neuralink Chip (Category: Tech)",
+          "TESTHOUSE - TEST HOUSE ERROR (Category: Unclear/Generic)",
+          "SafeSend - SafeSend (Category: Unclear/Generic)",
+          "ASSRROR - ASS/RROR (Category: Unclear/Generic)",
+          "ticker - uplaunch (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 22
+      }
+    },
+    {
+      "bonded_token_mint": "BunhSv2LPvZidMAUm35nyGWwQZefiArBe1fhMzzgDc8L",
+      "bonded_token_name": "IN MEMES WE TRUST",
+      "bonded_token_symbol": "IMWT",
+      "bonded_token_final_category": "Meme",
+      "creation_timestamp_utc": "2025-05-20T17:35:23.052483+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:35:31.058996+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "TRUMP - In Memes We Trust (Category: Political Figure)",
+          "TRUMP - Hodl This Coin (Category: Unclear/Generic)",
+          "MEMES - In Memes We Trust  (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 3
+      }
+    },
+    {
+      "bonded_token_mint": "4T5W4g14QXgje6PdtweTHu6tpdYmBAxxgQnmRMNSgciS",
+      "bonded_token_name": "IN TRUMP WE HODL",
+      "bonded_token_symbol": "ITWH",
+      "bonded_token_final_category": "Political Figure",
+      "creation_timestamp_utc": "2025-05-20T17:35:30.823381+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:36:18.989233+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Political Figure",
+        "related_pre_bond_tokens_by_gpt": [
+          "trudeau - trumps pet (Category: Political Figure)",
+          "MAGAGOLD - MAGA gold (Category: Political Figure)",
+          "MANA - Make America Native Again (Category: Political Figure)",
+          "FLEX - $TRUMPFLEX (Category: Political Figure)"
+        ],
+        "count_related_pre_bond_by_gpt": 4
+      }
+    },
+    {
+      "bonded_token_mint": "DSujtmByDPzwBxSgYjwdnFY72QQRqMUNAWNd4FfYpump",
+      "bonded_token_name": "saint trump",
+      "bonded_token_symbol": "sainttrump",
+      "bonded_token_final_category": "Political Figure",
+      "creation_timestamp_utc": "2025-05-20T17:38:20.950185+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:38:20.950185+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Political Figure",
+        "related_pre_bond_tokens_by_gpt": [
+          "TREN - Donald Tren (Category: Political Figure)",
+          "TRUMP - TRUMP (Category: Political Figure)",
+          "trudeau - trumps pet (Category: Political Figure)",
+          "GENIUSACT - GENIUS Act (Category: Political Figure)",
+          "AmErrorCa - AmERRORca (Category: Political Figure)",
+          "LUCY - JUSTICE FOR LUCY (Category: Political Figure)",
+          "FLEX - $TRUMPFLEX (Category: Political Figure)",
+          "ROSIE - Trumps Unruly Crow (Category: Political Figure)",
+          "ROBTRUMP - IN TRUMP WE HODL (Category: Political Figure)",
+          "Ana - First Lawyer With Downs Syndrome (Category: Political Figure)",
+          "CTrump - Cinco de trump (Category: Political Figure)",
+          "LUCY - JUSTICE FOR LUCY (Category: Political Figure)",
+          "LUCY - JUSTICE FOR LUCY (Category: Political Figure)",
+          "LUCY - JUSTICE FOR LUCY (Category: Political Figure)",
+          "RUSSIAFANS - Russia Gov Only Fans (Category: Political Figure)",
+          "TPC - Trump Pain Coin (Category: Political Figure)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    },
+    {
+      "bonded_token_mint": "HNGtDJqUf6UjFAzBbZ2gtB16Cov3R8k6c2nQqG4Lpump",
+      "bonded_token_name": "You can now buy friends",
+      "bonded_token_symbol": "FRIEND",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T17:38:52.187004+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:54:01.117234+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "Imwtitwh - In memes we trust, in trump we h (Category: Unclear/Generic)",
+          "test - test (Category: Unclear/Generic)",
+          "TRADER - RETARD (Category: Unclear/Generic)",
+          "NORBERT - NORBERT (Category: Unclear/Generic)",
+          "follower - tell your followers to invest (Category: Unclear/Generic)",
+          "Valid - Valid. (Category: Unclear/Generic)",
+          "USD - Ultimate Scam Dollar (Category: Unclear/Generic)",
+          "rahul - Rahul Gangotri (Category: Unclear/Generic)",
+          "coinpe - coinpe (Category: Unclear/Generic)",
+          "MIYA - MIYA (Category: Unclear/Generic)",
+          "PBJT - PBJT (Category: Unclear/Generic)",
+          "MAXC - Maxc (Category: Unclear/Generic)",
+          "cincodmayo - cincodemayo (Category: Event)",
+          "45666 - After months  (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 14
+      }
+    },
+    {
+      "bonded_token_mint": "4px3k6YBF8zFdJcBQdaCMhr6gc22XdHn6hNj7oW8pump",
+      "bonded_token_name": "Launch On All",
+      "bonded_token_symbol": "LOA",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T17:43:01.608793+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:02:41.468180+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "Dreamgen - Nvidia first AI dreams for robot (Category: Tech)",
+          "SOFI - MIT ROBOTIC FISH (Category: Tech)",
+          "error gork - error gork (Category: Tech)",
+          "Jsonson - Dexscreener's Google Coin (Category: Tech)",
+          "Zuckasaur - FaceBook's Secret Mascot (Category: Tech)",
+          "DOUG - Doug (Category: Tech)",
+          "BLOCKS - NEW GOOGLE MASCOT (Category: Tech)",
+          "GOOGIE - Google Hackathon Mascot (Category: Tech)",
+          "XBT - XBT (Category: Tech)",
+          "MG - NEW GOOGLE PLAY TOKEN (Category: Tech)",
+          "SKYELANA - SKYELANA (Category: Tech)",
+          "TrueX - New Solana Exchange (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 12
+      }
+    },
+    {
+      "bonded_token_mint": "H78te1yuceddjR5oVaMtoMboVZADsG8AXAsJAq5Kpump",
+      "bonded_token_name": "TTT",
+      "bonded_token_symbol": "TTT",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-20T17:54:14.803080+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T17:56:33.299773+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "error": "GPT Bonded response not valid JSON",
+        "raw_response": "{\n  \"final_target_token_theme_confirmation\": \"Abstract\",\n  \"related_pre_bond_tokens_by_gpt\": [\n    \"iluminati - illuminati (Category: Abstract)\",\n    \"CA - cocaine ansem (Category: Abstract)\",\n    \"frip - frip (Category: Abstract)\",\n    \"👁️ - introduce a little anarchy (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"DWE - dog wif error (Category: Abstract)\",\n    \"BFSQ - BigFeetSquirrel (Category: Animal (Other))\",\n    \"BONGO - The Highly-Trained Monkey (Category: Animal (Other))\",\n    \"BONGO - The Highly-Trained Monkey (Category: Animal (Other))\",\n    \"WILDS - Kuroro Wilds (Category: Animal (Other))\",\n    \"NMRSCUE - Nemo Rescuer (Category: Animal (Other))\",\n    \"PNDC - PANDACOIN  (Category: Animal (Other))\",\n    \"GORDO - gordo (Category: Animal (Other))\",\n    \"CAT - Cat Face Coin (Category: Animal (Other))\",\n    \"MUSKMOTH - WOOLLY MUSKMOTH (Category: Animal (Other))\",\n    \"👁️ - introduce a little anarchy (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"ACORN - Roma Acorn (Category: Abstract)\",\n    \"AC"
+      }
+    },
+    {
+      "bonded_token_mint": "9ntpcHZucDBg224AkniFXMKUsLL3mU6wgd3NySVM1qUi",
+      "bonded_token_name": "Tony Solaroni",
+      "bonded_token_symbol": "TONY",
+      "bonded_token_final_category": "Food",
+      "creation_timestamp_utc": "2025-05-20T17:57:28.521084+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:30:30.792449+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Food",
+        "related_pre_bond_tokens_by_gpt": [
+          "PIZA - PizzaPie (Category: Food)",
+          "PBCOIN - PeanutButterCoin (Category: Food)"
+        ],
+        "count_related_pre_bond_by_gpt": 2
+      }
+    }
+  ]
+}

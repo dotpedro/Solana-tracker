@@ -1,0 +1,72 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T22:01:50.723745+00:00",
+  "target_creation_hour_id": "2025-05-21_22",
+  "total_tokens_in_categorized_file": 1815,
+  "total_valid_tokens_analyzed": 158,
+  "pre_bond_category_distribution_after_refinement": {
+    "Animal (Other)": 10,
+    "Tech": 15,
+    "Other Meme": 21,
+    "Sports": 1,
+    "AI Related": 17,
+    "Abstract": 11,
+    "Unclear/Generic": 44,
+    "Pop Culture": 21,
+    "Food": 3,
+    "Cat Meme": 1,
+    "Celebrity": 8,
+    "Dog Meme": 4,
+    "Location": 2
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 3,
+  "dominant_bonded_narratives_with_strength": {},
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_22 (UTC): 158 valid pre-bond tokens analyzed (Total in categorized file: 1815). 3 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Top overall pre-bond categories this hour (after refinement): Unclear/Generic (44), Other Meme (21), Pop Culture (21)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "3YxSt1UDe6KScHZVcMx6p3N5ZtSwQDTK1fGjfjXRpump",
+      "bonded_token_name": "Lord of the Retards",
+      "bonded_token_symbol": "LOTR",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T21:04:27.124608+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T21:40:31.411443+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "error": "GPT call failed for 'LOTR - Lord of the Retards': Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "raw_response": "No response"
+      }
+    },
+    {
+      "bonded_token_mint": "2jGtn1g4CHnCMrk4HYJW6b3U8JauyNvxhhXnwz4Spump",
+      "bonded_token_name": "poocoin",
+      "bonded_token_symbol": "poocoin",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T21:04:38.546485+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T21:05:37.321996+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "error": "GPT call failed for 'poocoin - poocoin': Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "raw_response": "No response"
+      }
+    },
+    {
+      "bonded_token_mint": "9wtEdk3oi6e5fQH21K6456o79ufL1MuRj78sBvg9Pt4C",
+      "bonded_token_name": "goofreck",
+      "bonded_token_symbol": "GOOFRECK",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-21T21:04:41.852049+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T21:14:12.303660+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "error": "GPT call failed for 'GOOFRECK - goofreck': Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "raw_response": "No response"
+      }
+    }
+  ]
+}

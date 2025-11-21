@@ -1,0 +1,278 @@
+{
+  "report_generation_timestamp_utc": "2025-05-20T21:03:52.168065+00:00",
+  "target_creation_hour_id": "2025-05-20_21",
+  "total_tokens_in_categorized_file": 1889,
+  "total_valid_tokens_analyzed": 1889,
+  "pre_bond_category_distribution_after_refinement": {
+    "Political Figure": 171,
+    "Unclear/Generic": 393,
+    "Abstract": 207,
+    "AI Related": 84,
+    "Other Meme": 142,
+    "Pop Culture": 236,
+    "Tech": 190,
+    "Animal (Other)": 127,
+    "Food": 94,
+    "Celebrity": 35,
+    "Cat Meme": 33,
+    "Other": 5,
+    "Dog Meme": 86,
+    "Location": 32,
+    "Event": 12,
+    "Artist": 2,
+    "Mythology": 1,
+    "Sci-Fi": 1,
+    "Sports": 4,
+    "Mythical Creature": 2,
+    "Animal (Dog)": 1,
+    "Game": 1,
+    "Religious Figure": 4,
+    "Meme": 4,
+    "Religious": 3,
+    "Alien Related": 1,
+    "Meme (Other)": 16,
+    "Name": 1,
+    "Music": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 9,
+  "dominant_bonded_narratives_with_strength": {
+    "Tech": 45,
+    "Unclear/Generic": 22,
+    "Other Meme": 9,
+    "Food": 6,
+    "Celebrity": 4
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-20_21 (UTC): 1889 valid pre-bond tokens analyzed (Total in categorized file: 1889). 9 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Tech (score: 45), Unclear/Generic (score: 22), Other Meme (score: 9), Food (score: 6), Celebrity (score: 4) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (393), Pop Culture (236), Abstract (207)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "Ea1iFm51ot2d6b86KEZMPPtRwz6yZZHu4aVobfbzpump",
+      "bonded_token_name": "crimecoin ",
+      "bonded_token_symbol": "crimecoin",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T20:02:47.987725+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:07:16.922285+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "error": "GPT Bonded response not valid JSON",
+        "raw_response": "{\n  \"final_target_token_theme_confirmation\": \"Unclear/Generic\",\n  \"related_pre_bond_tokens_by_gpt\": [\n    \"NFA - disnotfinanceladvice (Category: Unclear/Generic)\",\n    \"TOP5 - things ima do when i'm rich (Category: Unclear/Generic)\",\n    \"ACORN - Roma Acorn (Category: Unclear/Generic)\",\n    \"TRADO - Trado (Category: Unclear/Generic)\",\n    \"GROKBUX - GROKBUX (Category: Unclear/Generic)\",\n    \"TRADO - Trado (Category: Unclear/Generic)\",\n    \"TOSH - NEW ANTI NAZI N(GGA (Category: Unclear/Generic)\",\n    \"Arihant - Arihant (Category: Unclear/Generic)\",\n    \"NIKO - nikolas (Category: Unclear/Generic)\",\n    \"\u0000 - \u0000 (Category: Unclear/Generic)\",\n    \"TWAT - this will ascend tremendously (Category: Unclear/Generic)\",\n    \"PASTERGOON - pastergoon (Category: Unclear/Generic)\",\n    \"HIA HIA - Hia Hia (Category: Unclear/Generic)\",\n    \"DANK GROK - dank grok (Category: Unclear/Generic)\",\n    \"HARD - Stay f***ing  (Category: Unclear/Generic)\"\n  ],\n  \"count_related_pre_bond_by_gpt\": 15\n}"
+      }
+    },
+    {
+      "bonded_token_mint": "7tadjwpRjWUBhEszxAau3fCp85hwXzgotnaRt6sxpump",
+      "bonded_token_name": "LUCK",
+      "bonded_token_symbol": "luckio",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T20:11:04.011196+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:15:57.690548+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "moneytalks - money talks (Category: Unclear/Generic)",
+          "WEWE - this will flip every meme (Category: Unclear/Generic)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)",
+          "PHLAME - John Phelan’s (Category: Political Figure)"
+        ],
+        "count_related_pre_bond_by_gpt": 15
+      }
+    },
+    {
+      "bonded_token_mint": "F69Yvxzcz579GdtxBnYYRQwdXpSFdPGLVbJ5g1mqpump",
+      "bonded_token_name": "NEW SOLANA MASCOT",
+      "bonded_token_symbol": "GO",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-20T20:11:13.465205+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:11:13.465205+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "COC - Cult of Click (Category: Other Meme)",
+          "memechaos - chaotic memes (Category: Other Meme)",
+          "ANDROIDIFY - ANDROIDIFICATION (Category: Other Meme)",
+          "STINK - twop1s (Category: Other Meme)",
+          "Hell Coin - GOD OFFICIAL MEME COIN (Category: Meme (Other))",
+          "WOTY - WIFE OF THE YEAR (Category: Other Meme)",
+          "SHIT - Shit (Category: Other Meme)",
+          "RAPECOIN - RAPECOIN (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 8
+      }
+    },
+    {
+      "bonded_token_mint": "HT59Wer2mWdUWPe1kgKvCMcrnh1m4s9Xi38Th22pump",
+      "bonded_token_name": "WePay",
+      "bonded_token_symbol": "WEPAY",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T20:22:54.719016+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:22:54.719016+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "Streamlink - Streamlink (Category: Tech)",
+          "SP1 - SP1 Hypercube (Category: Tech)",
+          "lovvr - Lovvr.eth (Category: Tech)",
+          "NatroLabs - NatroLabs (Category: Tech)",
+          "smuke - smuke (Category: Tech)",
+          "Printr - Printer (Category: Tech)",
+          "Airweave - use Airweave (Category: Tech)",
+          "Sophon - Sophon (Category: Tech)",
+          "Quant  - Quant Coin Tee (Category: Tech)",
+          "GudTEK - GudTEK (Category: Tech)",
+          "Quant  - Quant Coin Tee (Category: Tech)",
+          "N - Run Token N (Category: Tech)",
+          "GoldenDome - New us military tech (Category: Tech)",
+          "TERI - TERI THE ROBOT (Category: AI Related)",
+          "REDZAI - REDZ AGENT (Category: AI Related)",
+          "GA - GOOGLE ANDROIDIFY (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 16
+      }
+    },
+    {
+      "bonded_token_mint": "DjJvJCv1ECJJDR41s7wDdjqV5Uv5LJrRyPry2CGzpump",
+      "bonded_token_name": "Drakeondigital",
+      "bonded_token_symbol": "DOD",
+      "bonded_token_final_category": "Celebrity",
+      "creation_timestamp_utc": "2025-05-20T20:25:17.520280+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:57:24.843200+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Celebrity",
+        "related_pre_bond_tokens_by_gpt": [
+          "PacoVida - Paco Vida (Category: Celebrity)",
+          "Stevie - Mr. Stevie Nicks (Category: Celebrity)",
+          "SWIFTIES - Taylor Swift (Category: Celebrity)"
+        ],
+        "count_related_pre_bond_by_gpt": 3
+      }
+    },
+    {
+      "bonded_token_mint": "7fPi7aijUr1ecj8Ht5dkvFCLCup8Lv6w5pVLa2Zqpump",
+      "bonded_token_name": "solcoin (2014) ",
+      "bonded_token_symbol": "solcoin",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T20:26:25.817968+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:52:34.456947+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "solana - this is a company (Category: Tech)",
+          "Backerz - World's First Human Stock Market (Category: Tech)",
+          "KLOSE_CHEN - NEW SAMSUNG DOG (Category: Tech)",
+          "Binass - Binass (Category: Tech)",
+          "ONBOARD - We Onboarded A Country Onto SOL (Category: Tech)",
+          "Hampster - The Hampster Device (Category: Tech)",
+          "TikTokeniz - TikTokenize (Category: Tech)",
+          "sol - Cryptoshow (Category: Tech)",
+          "EZPZ - The Franklin Crypto Index (Category: Tech)",
+          "Pumpnaut - Pumpnaut (Category: Tech)",
+          "FEED - Private Feed (Category: Tech)",
+          "WC - wormhole coin (Category: Tech)",
+          "ZTC - Zitcoin (Category: Tech)",
+          "cashh - hugemoney (Category: Tech)",
+          "PINOCCHIO - New Solana Labs Coin (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 15
+      }
+    },
+    {
+      "bonded_token_mint": "GEq5rDG5LGRGPGA5Cnq8ny7wnn7SXmGpW1tC6YLkpump",
+      "bonded_token_name": "NatroLabs",
+      "bonded_token_symbol": "NatroLabs",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T20:30:11.562829+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:30:57.141923+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "offline - offlinefound (Category: Tech)",
+          "Be Boring - New Solana Slogan  (Category: Tech)",
+          "Top AI - Top AI Models (Category: AI Related)",
+          "GROKBUX - Grok New Currency (Category: Tech)",
+          "TopBlast - TopBlast Coin (Category: Tech)",
+          "Androidify - Androidification (Category: Tech)",
+          "FORGE - Forge (Category: Tech)",
+          "Binass - Binass (Category: Tech)",
+          "PTY - Party Coin (Category: Pop Culture)",
+          "ZERO AI - NEW OPENAI (Category: AI Related)",
+          "PROMT - Cycle Promt (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    },
+    {
+      "bonded_token_mint": "BEkpfkaJVEgjzk2NdryJPEpY2Y8wR3eTpQUg2gWAn8o1",
+      "bonded_token_name": "GROKBUX",
+      "bonded_token_symbol": "GROKBUX",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T20:37:23.790182+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:37:31.582198+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "GROKBUX - Grok New Currency (Category: Tech)",
+          "GROK BUCKS - GROKBUXS (Category: Unclear/Generic)",
+          "GROKBUX - GROKBUX (Category: Unclear/Generic)",
+          "GROKBUX - GROKBUX (Category: Unclear/Generic)",
+          "GROKBUX - GROKBUX (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    },
+    {
+      "bonded_token_mint": "6JXpwBKKjEgYB3K3iqGgDPuDYtERSiNV1v5pB6Cgpump",
+      "bonded_token_name": "The Bread Guy",
+      "bonded_token_symbol": "BREAD",
+      "bonded_token_final_category": "Food",
+      "creation_timestamp_utc": "2025-05-20T20:51:31.585317+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T20:53:05.524307+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Food",
+        "related_pre_bond_tokens_by_gpt": [
+          "Peperoni - Peperoni Pizza (Category: Food)",
+          "iToken - Apple Coin (Category: Food)",
+          "ACORN - Roma Acorn (Category: Food)",
+          "BREAD - The Bread Guy (Category: Food)",
+          "BREAD - The Bread Guy (Category: Food)"
+        ],
+        "count_related_pre_bond_by_gpt": 5
+      }
+    }
+  ]
+}

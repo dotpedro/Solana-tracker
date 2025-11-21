@@ -1,0 +1,164 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T08:03:20.808257+00:00",
+  "target_creation_hour_id": "2025-05-21_08",
+  "total_tokens_in_categorized_file": 907,
+  "total_valid_tokens_analyzed": 900,
+  "pre_bond_category_distribution_after_refinement": {
+    "Abstract": 121,
+    "AI Related": 13,
+    "Political Figure": 45,
+    "Pop Culture": 172,
+    "Other Meme": 103,
+    "Tech": 81,
+    "Animal (Other)": 104,
+    "Food": 25,
+    "Cat Meme": 26,
+    "Dog Meme": 29,
+    "Unclear/Generic": 126,
+    "Celebrity": 24,
+    "Meme": 6,
+    "Location": 8,
+    "Event": 9,
+    "Religion": 1,
+    "Community": 1,
+    "Religious Figure": 1,
+    "Gaming": 1,
+    "Emoji": 2,
+    "Networking Community": 1,
+    "Flower": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 4,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 21,
+    "Animal (Other)": 18,
+    "Abstract": 11,
+    "Other Meme": 9
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_08 (UTC): 900 valid pre-bond tokens analyzed (Total in categorized file: 907). 4 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 21), Animal (Other) (score: 18), Abstract (score: 11), Other Meme (score: 9) Top overall pre-bond categories this hour (after refinement): Pop Culture (172), Unclear/Generic (126), Abstract (121)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "DDc9UVDCbTbALhFmgJysSVBzmfzfaMTuKn7tmchApump",
+      "bonded_token_name": "The Cult Of Plankton",
+      "bonded_token_symbol": "PLANKTON",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-21T07:02:23.136479+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T07:11:20.823172+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "PepeWhaleT - PepeWhaleTrench (Category: Animal (Other))",
+          "stare - bought this cat to stare at me (Category: Animal (Other))",
+          "Catsquirel - Squirrel That Meows (Category: Animal (Other))",
+          "SOL - SOL THE CAT (Category: Animal (Other))",
+          "saba - saba (Category: Animal (Other))",
+          "NakamoToad - NakamoToad (Category: Animal (Other))",
+          "Whale - The Cult Of Whales (Category: Animal (Other))",
+          "Momo - Momo (Category: Animal (Other))",
+          "Gowilla - Dont Touch My Banana (Category: Animal (Other))",
+          "Potager - the world record race horse (Category: Animal (Other))",
+          "Driplon - Driplon (Category: Animal (Other))",
+          "Pupeko - Trench Coat Bird (Category: Animal (Other))",
+          "herdcoin - herdcoin (Category: Animal (Other))",
+          "こねこ - こねこ / koneko (Category: Animal (Other))",
+          "Milo - The Viral Hindu Dog (Category: Animal (Other))",
+          "GoKi - Gorilla king (Category: Animal (Other))",
+          "chonker - chonker (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 17
+      }
+    },
+    {
+      "bonded_token_mint": "3KQKoK7gLpWjcdwToaWr9xBRqCXq2QBa7b3YFqngpump",
+      "bonded_token_name": "PLEASURE BEGINS WITH TURN ON",
+      "bonded_token_symbol": "TURN ON",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T07:17:14.223824+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T07:17:14.324887+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "EBT PPL - black fatigue (Category: Pop Culture)",
+          "Exp33 - GAME OF THE YEAR (Category: Pop Culture)",
+          "LORE - Lorecoin (Category: Pop Culture)",
+          "BONK2ZERO - LETSGANG.FUN (Category: Pop Culture)",
+          "PIMP - Pimp (Category: Pop Culture)",
+          "WHACKED - LETSGANG.FUN (Category: Pop Culture)",
+          "fomo - The fomo community (Category: Pop Culture)",
+          "BONKERS - LETSGANG.FUN (Category: Pop Culture)",
+          "GOT - Gospel of Thomas (Category: Pop Culture)",
+          "WIN - Winning Coin (Category: Pop Culture)",
+          "ClassicCat - New Viral Tiktok Cat (Category: Pop Culture)",
+          "SOLJAR - If i had a sol everytime i fart! (Category: Pop Culture)",
+          "BF3 - Battle Front III (Category: Pop Culture)",
+          "BTC - Bullish Trenchers Community (Category: Pop Culture)",
+          "SKULL - KnownOrigin Mascot (Category: Pop Culture)",
+          "OMNIMAN - OMNIMAN (Category: Pop Culture)",
+          "GCORE - Gamer Core (Category: Pop Culture)",
+          "POLL - poll fun app (Category: Pop Culture)",
+          "Mac - Kanye Time Traveller (Category: Pop Culture)",
+          "Cummunity - Gooners Gather (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 20
+      }
+    },
+    {
+      "bonded_token_mint": "ANnsSDGfdzpesaXbYyF2HfSNzRxhTRPfJoPagr5w2gvU",
+      "bonded_token_name": "tittescoin",
+      "bonded_token_symbol": "titties",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T07:41:52.616305+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T07:42:00.808653+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "SUNANA - SEND THIS BANANA TO THE SUN (Category: Other Meme)",
+          "WHACKED - LETSGANG.FUN (Category: Other Meme)",
+          "BARKSHOT - LETSGANG.FUN (Category: Other Meme)",
+          "Kevin - Kevin in my throat is peak (Category: Other Meme)",
+          "WvP - Whales vs Plankton (Category: Other Meme)",
+          "B0NKED - LETSGANG.FUN (Category: Other Meme)",
+          "Deez - Deez Nuts (Category: Other Meme)",
+          "RUFFY - LETSGANG.FUN (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 8
+      }
+    },
+    {
+      "bonded_token_mint": "6Bc3xeASmTVUJ2PDiQ3vPdHfdAevTVsSvEpxH6mmpump",
+      "bonded_token_name": "Gork VS Grok",
+      "bonded_token_symbol": "GVG",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T07:47:08.880838+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T07:54:16.761091+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "world -  the entire world will know (Category: Abstract)",
+          "BSJ - The Bullshit Journal (Category: Abstract)",
+          "XBTC - Xbtc (Category: Tech)",
+          "BSJ - The Bullshit Journal (Category: Abstract)",
+          "JIZO - Jizo Statue (Category: Abstract)",
+          "SL*RCOIN - SL*RCOIN (Category: Abstract)",
+          "CSM - ClearSeaMoon (Category: Abstract)",
+          "NÜX - NÜXCOIN (Category: Abstract)",
+          "$DRND - DRAINED (Category: Abstract)",
+          "RATES - cut rates (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 10
+      }
+    }
+  ]
+}

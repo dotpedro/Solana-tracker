@@ -1,0 +1,455 @@
+{
+  "report_generation_timestamp_utc": "2025-05-20T20:03:11.378129+00:00",
+  "target_creation_hour_id": "2025-05-20_19",
+  "total_tokens_in_categorized_file": 1538,
+  "total_valid_tokens_analyzed": 1530,
+  "pre_bond_category_distribution_after_refinement": {
+    "Other Meme": 109,
+    "AI Related": 89,
+    "Pop Culture": 219,
+    "Dog Meme": 69,
+    "Abstract": 162,
+    "Tech": 234,
+    "Unclear/Generic": 268,
+    "Animal (Other)": 150,
+    "Political Figure": 48,
+    "Location": 20,
+    "Celebrity": 43,
+    "Toy": 2,
+    "Food": 60,
+    "Gaming": 3,
+    "Cat Meme": 20,
+    "Event": 8,
+    "Community": 2,
+    "Space": 1,
+    "Meme": 7,
+    "Historical Figure": 1,
+    "Artist": 4,
+    "Business": 1,
+    "Motivational": 2,
+    "Celestial": 1,
+    "Fashion": 1,
+    "Movie": 1,
+    "Art": 3,
+    "Medical": 1,
+    "Name": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 13,
+  "dominant_bonded_narratives_with_strength": {
+    "Tech": 83,
+    "Unclear/Generic": 47,
+    "Pop Culture": 31,
+    "Animal (Other)": 26,
+    "Abstract": 11
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-20_19 (UTC): 1530 valid pre-bond tokens analyzed (Total in categorized file: 1538). 13 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Tech (score: 83), Unclear/Generic (score: 47), Pop Culture (score: 31), Animal (Other) (score: 26), Abstract (score: 11) Top overall pre-bond categories this hour (after refinement): Unclear/Generic (268), Tech (234), Pop Culture (219)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "6wWRyFk26jHpYedxbWrynzKCCdvUfusA3jdiCkUCpump",
+      "bonded_token_name": "wcoin",
+      "bonded_token_symbol": "wcoin",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T18:00:42.500770+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:51:25.501916+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "MY BABY  - MY BABY KEKİUS (Category: Unclear/Generic)",
+          "ASS - Asshat (Category: Unclear/Generic)",
+          "Zala - Zala First Crypto Scam (Category: Unclear/Generic)",
+          "BELIEF - No utility. Just  (Category: Unclear/Generic)",
+          "FUKSEC - fuk the SEC (Category: Unclear/Generic)",
+          "REVEAL - reveal coin (Category: Unclear/Generic)",
+          "AMERICOIN - new libertyFi crypto (Category: Unclear/Generic)",
+          "DEMO - DEMO (Category: Unclear/Generic)",
+          "DATASS - horny trenches era (Category: Unclear/Generic)",
+          "J4SIG - J4 Sigio (Category: Unclear/Generic)",
+          "TY - typeshit  (Category: Unclear/Generic)",
+          "WIN - WIN (Category: Unclear/Generic)",
+          "SIDELINED - This Coin Will Keep You Clicking (Category: Unclear/Generic)",
+          "TEST - TEST (Category: Unclear/Generic)",
+          "ERRORGUY - error guy (Category: Unclear/Generic)",
+          "HAWKTUAH - she \"didn't know\" (Category: Unclear/Generic)",
+          "WAI - New Retard Shitcoin  (Category: Other Meme)",
+          "The luck - Its all luck (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 18
+      }
+    },
+    {
+      "bonded_token_mint": "63JLVKnagCw3iscSkEJjP3cfTZgBNSxMsnCLz6R6pump",
+      "bonded_token_name": "Tokenize Everything on Solana",
+      "bonded_token_symbol": "TEOS",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T18:00:45.042526+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:35:42.976383+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "GEMMA3N - NEW GOOGLE AI MODEL (Category: Tech)",
+          "Prism - Prism Wallet (Category: Tech)",
+          "LEGO - LEGOCOIN (Category: Tech)",
+          "Veo 3 - Veo 3 (Category: Tech)",
+          "Grokler - grok gone rogue (Category: Tech)",
+          "Twipe - Twipe - Track & Snipe (Category: Tech)",
+          "ALLY - NEW GOOGLE DOG (Category: Tech)",
+          "LINGOTS - DUOLINGO FIRST CURRENCY (Category: Tech)",
+          "Community - Tokenized Community (Category: Tech)",
+          "SIGMA LON - sigma lon (Category: Tech)",
+          "InvoFi - Invoice Finance (Category: Tech)",
+          "Gate - Gate Octet (Category: Tech)",
+          "ALLY - NEW GOOGLE DOG (Category: Tech)",
+          "TWEETY - NEW GOOGLE TWITTER BIRD (Category: Tech)",
+          "NURA - Nura AI (Category: AI Related)",
+          "PLAI - playmind_ai (Category: AI Related)",
+          "PLAI - PlayMindAI (Category: AI Related)",
+          "PERPLEXITY - PERPLEXITY CTO (Category: AI Related)",
+          "JULES - NEW GOOGLE AI (Category: Tech)",
+          "REP - Real-Time Ethereum Proving (Category: Tech)",
+          "UBER - UBER (Category: Tech)",
+          "MSTR - MoonStrategy™ (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 22
+      }
+    },
+    {
+      "bonded_token_mint": "6UXqPmjn118LfvUVoEs1RvRRyRHWmGWP1dj61q7opump",
+      "bonded_token_name": "This Coin Is Copyrighted",
+      "bonded_token_symbol": "COPYRIGHT",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T18:05:25.827491+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:13:51.120339+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "CRAP - Catastrophic Revenue And Profits (Category: Unclear/Generic)",
+          "ACCELERATE - ACCELERATE (Category: Unclear/Generic)",
+          "COIN - Culty Overhyped Invesment Node (Category: Unclear/Generic)",
+          "DEADWIF - WIFBUTDEAD (Category: Unclear/Generic)",
+          "BITCOIN - BITCOIN (Category: Unclear/Generic)",
+          "DEMO - DEMO (Category: Unclear/Generic)",
+          "WOMUSCLE - Is It Gay To Like Muscular Women (Category: Unclear/Generic)",
+          "RILF - Robot I'd like to fuck (Category: Unclear/Generic)",
+          "BITCOIN - BITCOIN (Category: Unclear/Generic)",
+          "FURFI - FurFi (Category: Animal (Other))",
+          "genius - Genius (Category: Abstract)",
+          "YWM - do you want to be a millionaire (Category: Unclear/Generic)",
+          "DS - Dark Sun (Category: Abstract)",
+          "HATZ - HATZ HATZ (Category: Unclear/Generic)"
+        ],
+        "count_related_pre_bond_by_gpt": 14
+      }
+    },
+    {
+      "bonded_token_mint": "6wYUympA8x1119wVHT25a2wRNLLVnS7RuPVagpKjpump",
+      "bonded_token_name": "VRIL",
+      "bonded_token_symbol": "VRIL",
+      "bonded_token_final_category": "Unclear/Generic",
+      "creation_timestamp_utc": "2025-05-20T18:10:08.844353+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:11:18.916082+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Unclear/Generic",
+        "related_pre_bond_tokens_by_gpt": [
+          "MY BABY  - MY BABY KEKİUS (Category: Unclear/Generic)",
+          "Score11 - Score11 (Category: Unclear/Generic)",
+          "AIOA - all in one app (Category: Unclear/Generic)",
+          "NTOT - NO TAX ON TIPS (Category: Unclear/Generic)",
+          "Vamp CP - Copyright My Ass (Category: Unclear/Generic)",
+          "BAYBY KEK - BAYBY KEKİUS (Category: Unclear/Generic)",
+          "IBTOK - Itchin Back (Category: Unclear/Generic)",
+          "ILLEGAL - This coin is illegal (Category: Unclear/Generic)",
+          "COPYRIGHT2 - VAMP THE COPYRIGHT COIN (Category: Unclear/Generic)",
+          "DBTR - Dip before Rip (Category: Unclear/Generic)",
+          "ACCELERATE - ACCELERATE (Category: Unclear/Generic)",
+          "errordog - ERROR DOG (Category: Dog Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 12
+      }
+    },
+    {
+      "bonded_token_mint": "6WnUuy7pUxrsQW7ouqudwWokaXdcQ4URBgUzKh5gpump",
+      "bonded_token_name": "GIGASAYLOR",
+      "bonded_token_symbol": "GIGASAYLOR",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T18:11:11.315067+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:26:48.068136+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "CLOVER - Clover App (Category: Tech)",
+          "STT - Startup Thinker (Category: Tech)",
+          "Yusuf - Duolingo Hacker (Category: Tech)",
+          "DEV - The Dev (Category: Tech)",
+          "Prism - Prism Wallet (Category: Tech)",
+          "TRADO - Trado (Category: Tech)",
+          "SEG - SEGACOIN (Category: Tech)",
+          "Jules - Google Coding Agent (Category: Tech)",
+          "OPNET - OP_NET (Category: Tech)",
+          "Linda - Linda on chain (Category: Tech)",
+          "WAI - first downsyndrome dev (Category: Tech)",
+          "wcoin - wcoin (Category: Tech)",
+          "BrainFart - BrainFart2025 (Category: Tech)",
+          "ERUNNER - Error Runner (Category: Tech)",
+          "wiz1337 - wizard of mental collapse (Category: Tech)",
+          "arc - AI Rig Complex (Category: Tech)",
+          "LynxNetAI - LynxNetChain (Category: AI Related)",
+          "TPEDIA - Trench Wikipedia (Category: Tech)",
+          "Paid - Peeps Ask If Dex (Category: Tech)",
+          "SUSLON - Suslon (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 20
+      }
+    },
+    {
+      "bonded_token_mint": "J3feEguzMNVuksDh3JRhCqoiTcYX4PaLZyBQDxHFpump",
+      "bonded_token_name": "OAKI WORLD",
+      "bonded_token_symbol": "$OAKI",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-20T18:21:20.876571+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:21:37.467197+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "BC - Bandwagon Coin (Category: Pop Culture)",
+          "KKK - Klarna Kindly Kills (Category: Pop Culture)",
+          "MEME - Meme Culture (Category: Pop Culture)",
+          "PGHOST - Phantom Ghost (Category: Pop Culture)",
+          "$OAKI - OAKI WORLD (Category: Pop Culture)",
+          "BF3 - Battlefront 3 SPREAD THE NEWS (Category: Pop Culture)",
+          "TIKTOKCOIN - Tiktok New Trademarked Coin (Category: Pop Culture)",
+          "TRUTH - 2 Truths And A Lie (Category: Pop Culture)",
+          "RIPJOE - Joe Died (Category: Pop Culture)",
+          "THINKJIRA - Thinkgajira (Category: Pop Culture)",
+          "$LEAN - MrLean (Category: Pop Culture)",
+          "NUDAENG - Nudaeng (Category: Pop Culture)",
+          "Jaco - Jaco without bundle (Category: Pop Culture)",
+          "wyd - wyd in this situation? (Category: Pop Culture)",
+          "BALLR - BallerCoin (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 15
+      }
+    },
+    {
+      "bonded_token_mint": "2J94Y91VLnJKWe1A8MT8zbGqX28NpJkMGGdxjaJNpump",
+      "bonded_token_name": "Just A Chill Armadillo ",
+      "bonded_token_symbol": "Jaco",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-20T18:23:31.448396+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:55:31.455368+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "SEAMA - SEAMA (Category: Animal (Other))",
+          "GIA - NEW GOVERNOR DOG (Category: Dog Meme)",
+          "MONKE - MONKE (Category: Animal (Other))",
+          "GIA - New CIA DOG (Category: Dog Meme)",
+          "ERNUT - Peanut the Error (Category: Animal (Other))",
+          "DSMC - DeepSeek Meme (Category: Dog Meme)",
+          "DOGECOIN - DOGECOIN (Category: Dog Meme)",
+          "DOGECOIN - DOGECOIN (Category: Dog Meme)",
+          "Impact Ape - Impact Ape (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "8GKFuLWezXSbAkkfNzJ4B9TN69tAhLynVsmZ7AtDpump",
+      "bonded_token_name": "xFractalDotFun",
+      "bonded_token_symbol": "xFractal",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-20T18:24:43.808571+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:41:00.723831+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "HILF - Hand I'd llike to fuck (Category: Abstract)",
+          "Heaven - What if heaven was for sale? (Category: Abstract)",
+          "xnomad - xNomad (Category: Abstract)",
+          "VRIL - VRIL (Category: Abstract)",
+          "LUMOKIT - Lumokit (Category: Abstract)",
+          "Are we  - are we dead guys??🥀 (Category: Abstract)",
+          "HORNYT - Horny Trenches (Category: Abstract)",
+          "IMAGENFY - Imagenification (Category: Abstract)",
+          "Tip - Tip coin (Category: Abstract)",
+          "Muggy - Muggy (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 10
+      }
+    },
+    {
+      "bonded_token_mint": "HGU1aTUwCBV3CTh4NjwoHQpNZu1wrS4u9x8D5jchpump",
+      "bonded_token_name": "NEW GOOGLE MASCOT",
+      "bonded_token_symbol": "SPARKY",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T18:29:43.440379+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:30:03.937821+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "Sparky - Google Developer Mascot (Category: Tech)",
+          "HAIRDO - New Google Meme (Category: Tech)",
+          "3n - Google Gemma 3n (Category: Tech)",
+          "BIT - New Microsoft Mascot (Category: Tech)",
+          "startup - startup (Category: Tech)",
+          "GEMMA3N - NEW GOOGLE AI MODEL (Category: Tech)",
+          "physics - goon physics (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 7
+      }
+    },
+    {
+      "bonded_token_mint": "2JQfYnZfHe1pMLa5J94cVwHmt6CpPYqz6KEiYge9pump",
+      "bonded_token_name": "Diversified Altcoin Portfolio",
+      "bonded_token_symbol": "DAP500",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T18:29:49.556906+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:39:24.805258+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "BIT - New Microsoft Mascot (Category: Tech)",
+          "Gas - Gas Token (Category: Tech)",
+          "s - s (Category: Tech)",
+          "CODE - ESOTERIC (Category: Tech)",
+          "grokler - grok gone rogue (Category: Tech)",
+          "Accelerate - Deleted Solana Advertisement  (Category: Tech)",
+          "SPRINT - CREATOR REWARDS (Category: Tech)",
+          "PLAI - PlayMind AI (Category: AI Related)",
+          "AGENTIC - New Dell AI Data Platform  (Category: AI Related)",
+          "ARIA - FIRST TOKENISING AI (Category: AI Related)",
+          "ULTRA - NEW GOOGLE AI (Category: AI Related)",
+          "JULES - NEW GOOGLE AI MASCOT (Category: AI Related)",
+          "HaroldCoin - Duolingo AI's Meme Coin (Category: AI Related)",
+          "VulcanAI - Vulcan AI (Category: AI Related)",
+          "NovaQ - novaqerc (Category: AI Related)"
+        ],
+        "count_related_pre_bond_by_gpt": 15
+      }
+    },
+    {
+      "bonded_token_mint": "C5165vkDCL8KTazkMVesFVwu9nQ8t2LtRVm88rf5pump",
+      "bonded_token_name": "Larry The Goldfish",
+      "bonded_token_symbol": "Larry",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-20T18:34:13.958370+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:45:55.771262+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "Stitch - Justice For Stitch (Category: Animal (Other))",
+          "AngelPoop - AngelPoop (Category: Animal (Other))",
+          "ERNUT - Peanut the Error (Category: Animal (Other))",
+          "AniMem - AniMem (Category: Animal (Other))",
+          "BLATTEN - First Flying Cow (Category: Animal (Other))",
+          "CFG - Crazy Frog Coin (Category: Animal (Other))",
+          "Impact Ape - Impact Ape (Category: Animal (Other))",
+          "EagleVote - EagleVote (Category: Animal (Other))",
+          "NUDAENG - Nudaeng (Category: Animal (Other))",
+          "RATROT - Rat Brainrot (Category: Animal (Other))",
+          "ferb - ferb the frog (Category: Animal (Other))",
+          "dog - dog (Category: Animal (Other))",
+          "CAMELTOW - Camel Tow (Category: Animal (Other))",
+          "KOALA - KoalaCh (Category: Animal (Other))",
+          "10MBO - 10 Mins Bonding (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 15
+      }
+    },
+    {
+      "bonded_token_mint": "23HfEXLM658E7QYcvS5CpaEyiw5vFyLmG8xbpz6Spump",
+      "bonded_token_name": "XAi Gaming",
+      "bonded_token_symbol": "XAIG",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-20T18:53:51.823134+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T18:59:01.321231+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "sim - sim (Category: Tech)",
+          "NewVoid - New Void (Category: Tech)",
+          "LINGOTS - DUOLINGO FIRST CURRENCY (Category: Tech)",
+          "super-app - New SEC Trading App (Category: Tech)",
+          "GoogleCock - GoogleCock (Category: Tech)",
+          "SLRCN - SolarCoin (Category: Tech)",
+          "CreepyMeme - SOLANA MEMES (Category: Other Meme)",
+          "bitcoin - bitcorn (Category: Tech)",
+          "Linda - Linda on chain (Category: Tech)",
+          "PENDLE - PENDLE (Category: Tech)",
+          "startup - startup (Category: Tech)",
+          "DEV - The Dev (Category: Tech)",
+          "USDT2.0 - USDT 2.0 (Category: Tech)",
+          "KRIT - Krits Labs (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 14
+      }
+    },
+    {
+      "bonded_token_mint": "7AXZ1CmqYjfrKjFrR1Kk96rTfjd2U85o2YGGeoBUpump",
+      "bonded_token_name": "solana brainrot",
+      "bonded_token_symbol": "solrot",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-20T18:57:48.016284+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-20T19:22:37.192986+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "VIRALCOIN - ViralCoin (Category: Pop Culture)",
+          "HUM - HUM2SONG (Category: Pop Culture)",
+          "JABBI - JABBI (Category: Pop Culture)",
+          "GWZ - Gundam Wing Zero (Category: Pop Culture)",
+          "ROCKET - Rocket Ship Coin (Category: Pop Culture)",
+          "NRNR - no risk no rari (Category: Pop Culture)",
+          "OGWALLP - OG Wallpaper (Category: Pop Culture)",
+          "SOLANA - New Youtube Error Monkey Mascot (Category: Pop Culture)",
+          "said - thats what she said (Category: Pop Culture)",
+          "CRG - Creator Rewards Glitch (Category: Pop Culture)",
+          "DINO - NEW CHROME MASCOT (Category: Pop Culture)",
+          "GUMBALL - The Return of Gumball (Category: Pop Culture)",
+          "Poseidon - Poseidon_5555 (Category: Pop Culture)",
+          "WORLD - Cameron's World (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 14
+      }
+    }
+  ]
+}

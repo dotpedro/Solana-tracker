@@ -1,0 +1,130 @@
+{
+  "report_timestamp": 1761491110,
+  "report_datetime_utc": "2025-10-26 15:05:10 UTC",
+  "parameters": {
+    "min_holders_for_correlation": 2,
+    "birdeye_filter_mints_count": 193,
+    "wallets_monitored_count": 150
+  },
+  "changed_wallets_balance_state": {
+    "BTacsXqq4UYZNdPcfedZPLtJsXjF87LfYLoLAcVXNegp": {
+      "current": {},
+      "previous": {
+        "35SGvLjYiyiFvCUCS75BNmixx4ixWqsDBNqNmafbpump": 18106288611514
+      }
+    },
+    "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn": {
+      "current": {},
+      "previous": {
+        "D9GuunLgc3qGMu7JxHNNNBnt76LmN8cKPRwBW4aqjEqp": 1650
+      }
+    },
+    "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": {
+      "current": {
+        "Hf7P3o6kTFxGHtwXWduSrgkHSyFMcZgS5Nsy2q2Lpump": 283753007495,
+        "mtaHFpE3EpBMP3ohkX4U6QmUsxbwCpf4iR4tvyvpump": 11488330828,
+        "3wrRnZSUuYjuvQZ6kVK2gxr5KwmM9d5zeqzpyd1apump": 29694337626,
+        "2HrwcdU9pdrtxJQTgpbd74FaShRMJzAZToME1Eqtpump": 326030013026,
+        "Gx2RU7yzu29hAkXWr6F1KxWQ5rNtmC1etpTdBcy4pump": 3116550516354,
+        "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump": 2959659190,
+        "6H8uyJYrPVcra6Fi7iWh29DXSm8KctzhHRyXmPwKpump": 10000000,
+        "6aZsRfWLBcbFizeEn3zkrcbVRGYzqCVZjWpd9ysepump": 228349049019
+      },
+      "previous": {
+        "Hf7P3o6kTFxGHtwXWduSrgkHSyFMcZgS5Nsy2q2Lpump": 283753007495,
+        "mtaHFpE3EpBMP3ohkX4U6QmUsxbwCpf4iR4tvyvpump": 11488330828,
+        "3wrRnZSUuYjuvQZ6kVK2gxr5KwmM9d5zeqzpyd1apump": 29694337626,
+        "2HrwcdU9pdrtxJQTgpbd74FaShRMJzAZToME1Eqtpump": 326030013026,
+        "Gx2RU7yzu29hAkXWr6F1KxWQ5rNtmC1etpTdBcy4pump": 3116550516354,
+        "6aZsRfWLBcbFizeEn3zkrcbVRGYzqCVZjWpd9ysepump": 228349049019
+      }
+    },
+    "8hxbkPzHNt4fbCpBk5531JJPHpMUyLaEq1dMZSuwo23M": {
+      "current": {
+        "6H8uyJYrPVcra6Fi7iWh29DXSm8KctzhHRyXmPwKpump": 18125667355355
+      },
+      "previous": {}
+    },
+    "4pd1zDyfj5BiwNxisHM8t7wXTGP2N76pAkLLGivSXqNs": {
+      "current": {
+        "FFqwoZ7phjoupWjLeE5yFeLqGi8jkGEFrTz6jnsUpump": 15142790305881
+      },
+      "previous": {}
+    },
+    "4ASkzDGfVoQt43m3uzWnExgJFxC478ZLjBARAkrLSS7M": {
+      "current": {
+        "Bqzo7Umxv6XMohvQNB2uVFmxphg2pKoRPfysTPkepump": 24959344317433
+      },
+      "previous": {
+        "Bqzo7Umxv6XMohvQNB2uVFmxphg2pKoRPfysTPkepump": 24959344317433,
+        "7e3qPCZGkuhWGg6K82ZLRDzaoWkQS3uWRZApi6Mhpump": 8305435803266
+      }
+    }
+  },
+  "correlated_holdings_snapshot": [
+    {
+      "token_mint": "38yKZUaqG3wQHv9DA9LpUtES6RwV8Hc4EpczoX4uQ6So",
+      "total_holders_in_set": 9,
+      "holding_wallets_in_set": [
+        "2HeD9kVJDi3nrQqEpdRQhB3hX9tt1p3LMHZkLMjjTPzv",
+        "4gqVVyf7LiXBFBtp3kMfKRinRvYosabvTxiLSuQr4sUx",
+        "5J9vkUDRzPuFSjQJq8E8HKCXhPwyxA4NyncR5SS4byUK",
+        "84BbgAhGrQgUFh1cpJEWgWnMAYJux8NRkgJL5aE3io5P",
+        "9xrL4A7qW2XdHQCsvQdfJhCgfPo4KgfBtNzjCfshPtGa",
+        "C9VzVquD2H5EZypXLE7Q2oXPDGTax75RQ4rMDdCthQQV",
+        "FTz8wnb1T38xXHMVAr24rFyVEkyar3D9QGivsce7vABH",
+        "GqgayMfv87ftRdCKJgdKxmeiHzokojaKz2NGug4CVFyr",
+        "Ha4iM4cSddmdAzCyznrKVKsrLYUmdFv2EAx3HvBAHFyJ"
+      ],
+      "holder_balances_uiAmount": {
+        "5J9vkUDRzPuFSjQJq8E8HKCXhPwyxA4NyncR5SS4byUK": 0.0,
+        "GqgayMfv87ftRdCKJgdKxmeiHzokojaKz2NGug4CVFyr": 0.0,
+        "Ha4iM4cSddmdAzCyznrKVKsrLYUmdFv2EAx3HvBAHFyJ": 0.0,
+        "4gqVVyf7LiXBFBtp3kMfKRinRvYosabvTxiLSuQr4sUx": 0.0,
+        "9xrL4A7qW2XdHQCsvQdfJhCgfPo4KgfBtNzjCfshPtGa": 0.0,
+        "2HeD9kVJDi3nrQqEpdRQhB3hX9tt1p3LMHZkLMjjTPzv": 0.0,
+        "84BbgAhGrQgUFh1cpJEWgWnMAYJux8NRkgJL5aE3io5P": 0.0,
+        "FTz8wnb1T38xXHMVAr24rFyVEkyar3D9QGivsce7vABH": 0.0,
+        "C9VzVquD2H5EZypXLE7Q2oXPDGTax75RQ4rMDdCthQQV": 0.0
+      }
+    },
+    {
+      "token_mint": "5RDjKNvXqs9Y5gkrThtCfpicZYYHs9MK7HhdXdUeaBLV",
+      "total_holders_in_set": 3,
+      "holding_wallets_in_set": [
+        "4Tj2KvMcqAcr3KB1siPbiPZd2kXEZUJvq2uN71zPqe5K",
+        "8VYdcGp42vXqdUYG8wTE72Asv29uCCTvMJCiC6T9z5j5",
+        "BzwgzeDjpbgbZb7g2WXmkg8cm6U8wPS82Lc9YQ8qHPr7"
+      ],
+      "holder_balances_uiAmount": {
+        "BzwgzeDjpbgbZb7g2WXmkg8cm6U8wPS82Lc9YQ8qHPr7": 0.0,
+        "8VYdcGp42vXqdUYG8wTE72Asv29uCCTvMJCiC6T9z5j5": 0.0,
+        "4Tj2KvMcqAcr3KB1siPbiPZd2kXEZUJvq2uN71zPqe5K": 0.0
+      }
+    },
+    {
+      "token_mint": "CwWzEcaVdsBwxu85Loonv2E33A27M4YgujBhUrHgpump",
+      "total_holders_in_set": 2,
+      "holding_wallets_in_set": [
+        "4uaom3nnvLqGcCRVAAr95VjsfKpV4QTHJyx4ScV3vjgo",
+        "8VYdcGp42vXqdUYG8wTE72Asv29uCCTvMJCiC6T9z5j5"
+      ],
+      "holder_balances_uiAmount": {
+        "4uaom3nnvLqGcCRVAAr95VjsfKpV4QTHJyx4ScV3vjgo": 0.0,
+        "8VYdcGp42vXqdUYG8wTE72Asv29uCCTvMJCiC6T9z5j5": 0.0
+      }
+    },
+    {
+      "token_mint": "6H8uyJYrPVcra6Fi7iWh29DXSm8KctzhHRyXmPwKpump",
+      "total_holders_in_set": 2,
+      "holding_wallets_in_set": [
+        "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1",
+        "8hxbkPzHNt4fbCpBk5531JJPHpMUyLaEq1dMZSuwo23M"
+      ],
+      "holder_balances_uiAmount": {
+        "8hxbkPzHNt4fbCpBk5531JJPHpMUyLaEq1dMZSuwo23M": 0.0,
+        "81HHNStHsNMN8hrLbD2LFxzaikvzueZp4XWzvvmGePC1": 0.0
+      }
+    }
+  ]
+}

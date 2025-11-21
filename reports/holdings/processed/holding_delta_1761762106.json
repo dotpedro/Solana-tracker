@@ -1,0 +1,78 @@
+{
+  "report_timestamp": 1761762106,
+  "report_datetime_utc": "2025-10-29 18:21:46 UTC",
+  "parameters": {
+    "min_holders_for_correlation": 2,
+    "birdeye_filter_mints_count": 255,
+    "wallets_monitored_count": 170
+  },
+  "changed_wallets_balance_state": {},
+  "correlated_holdings_snapshot": [
+    {
+      "original_correlation_data": {
+        "token_mint": "55xtnn1m8RAuf2GFimNEs7NJXg1AxJnra9C5948oCqi3",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "EpnxRntYb5n8stDuTaZGgTNQw4L6BSGUEY72q81ZD9eP",
+          "HVv69DFLyrizZQvL2ZqqLCW5DyiJeU8zVj2qUSHNm4uk"
+        ],
+        "holder_balances_uiAmount": {
+          "EpnxRntYb5n8stDuTaZGgTNQw4L6BSGUEY72q81ZD9eP": 0.0,
+          "HVv69DFLyrizZQvL2ZqqLCW5DyiJeU8zVj2qUSHNm4uk": 0.0
+        }
+      },
+      "token_mint": "55xtnn1m8RAuf2GFimNEs7NJXg1AxJnra9C5948oCqi3",
+      "symbol": "FOMC",
+      "name": "FOMC  cut interest rates",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "FOMC",
+        "cached_name": "FOMC  cut interest rates",
+        "note": "Failed validation 16m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1761761142,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    },
+    {
+      "original_correlation_data": {
+        "token_mint": "8fu2zKDhyChwCy9oNQNqc44mZLH5Z37CCVu2iCWqWJKY",
+        "total_holders_in_set": 2,
+        "holding_wallets_in_set": [
+          "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+          "HuTshmtwcQkWBLzgW3m4uwcmik7Lmz4YFpYcTqMJpXiP"
+        ],
+        "holder_balances_uiAmount": {
+          "HuTshmtwcQkWBLzgW3m4uwcmik7Lmz4YFpYcTqMJpXiP": 0.0,
+          "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn": 0.0
+        }
+      },
+      "token_mint": "8fu2zKDhyChwCy9oNQNqc44mZLH5Z37CCVu2iCWqWJKY",
+      "symbol": "MetaMask",
+      "name": "MetaMask Coin",
+      "bds_metadata": {
+        "status": "skipped_recent_failure",
+        "cached_symbol": "MetaMask",
+        "cached_name": "MetaMask Coin",
+        "note": "Failed validation 16m ago."
+      },
+      "processing_status": "skipped_recent_failure",
+      "is_update_candidate": false,
+      "last_processed_timestamp_from_cache": 1761761142,
+      "validation_flags": {
+        "passes_validation": false,
+        "reasons": [
+          "Skipped (Recent Failure Cool-down)"
+        ]
+      }
+    }
+  ],
+  "processor_run_timestamp": 1761762144,
+  "processor_schema_version": "1.4.1_birdeye_vol+security"
+}

@@ -1,0 +1,66 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T10:03:15.979307+00:00",
+  "target_creation_hour_id": "2025-05-21_10",
+  "total_tokens_in_categorized_file": 763,
+  "total_valid_tokens_analyzed": 763,
+  "pre_bond_category_distribution_after_refinement": {
+    "Other Meme": 96,
+    "Political Figure": 42,
+    "Pop Culture": 141,
+    "Tech": 85,
+    "Abstract": 95,
+    "Animal (Other)": 53,
+    "Food": 37,
+    "Cat Meme": 20,
+    "Unclear/Generic": 89,
+    "Celebrity": 18,
+    "Location": 10,
+    "Dog Meme": 22,
+    "AI Related": 28,
+    "Other": 9,
+    "Adult": 1,
+    "Automotive": 1,
+    "Meme": 7,
+    "Movie Reference": 1,
+    "Financial": 2,
+    "Event": 2,
+    "Artist": 2,
+    "Fashion": 1,
+    "Space": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 1,
+  "dominant_bonded_narratives_with_strength": {
+    "Other Meme": 11
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_10 (UTC): 763 valid pre-bond tokens analyzed (Total in categorized file: 763). 1 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Other Meme (score: 11) Top overall pre-bond categories this hour (after refinement): Pop Culture (141), Other Meme (96), Abstract (95)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "6fSaEMzUk9Q3qfFV5WuFH1hwYg5T7of48ESQTtupump",
+      "bonded_token_name": "Original Pumpfun NFT",
+      "bonded_token_symbol": "BATON",
+      "bonded_token_final_category": "Other Meme",
+      "creation_timestamp_utc": "2025-05-21T09:12:19.088758+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T09:17:35.554005+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Other Meme",
+        "related_pre_bond_tokens_by_gpt": [
+          "SHITCOIN - First Parody Token (Category: Other Meme)",
+          "fog -  fog the pepe mog (Category: Other Meme)",
+          "yellowcoin - bitcoin that will graduate (Category: Other Meme)",
+          "TMS - The Meme Store (Category: Other Meme)",
+          "ANONCOIN - First Darkweb Memecoin (Category: Other Meme)",
+          "Asschick - Asschick (Category: Other Meme)",
+          "PAIN - I no longer want profits (Category: Other Meme)",
+          "Pharma pay - Pharma Pay Coin  (Category: Other Meme)",
+          "USD - Useless Solana Degens (Category: Other Meme)",
+          "PUNISHER - THIS WILL PUNISH DIDDY (Category: Other Meme)"
+        ],
+        "count_related_pre_bond_by_gpt": 10
+      }
+    }
+  ]
+}

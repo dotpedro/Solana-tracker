@@ -1,0 +1,154 @@
+{
+  "report_generation_timestamp_utc": "2025-05-21T06:02:59.979792+00:00",
+  "target_creation_hour_id": "2025-05-21_06",
+  "total_tokens_in_categorized_file": 642,
+  "total_valid_tokens_analyzed": 642,
+  "pre_bond_category_distribution_after_refinement": {
+    "Pop Culture": 130,
+    "Animal (Other)": 60,
+    "Abstract": 129,
+    "Location": 9,
+    "Other Meme": 81,
+    "Alien Related": 1,
+    "AI Related": 13,
+    "Unclear/Generic": 52,
+    "Tech": 56,
+    "Celebrity": 30,
+    "Political Figure": 29,
+    "Dog Meme": 10,
+    "Food": 15,
+    "Cat Meme": 16,
+    "Medical": 1,
+    "Event": 3,
+    "Sci-Fi": 1,
+    "Other": 1,
+    "Superhero": 1,
+    "Color": 1,
+    "Space Related": 1,
+    "Cartoon Character": 1,
+    "Fuel": 1
+  },
+  "total_bonded_tokens_from_this_hour_analyzed": 4,
+  "dominant_bonded_narratives_with_strength": {
+    "Pop Culture": 19,
+    "Abstract": 12,
+    "Animal (Other)": 10,
+    "Tech": 7
+  },
+  "potential_outliers_among_bonded": [],
+  "hourly_mindshare_alert": "Mindshare Report for Hour 2025-05-21_06 (UTC): 642 valid pre-bond tokens analyzed (Total in categorized file: 642). 4 token(s) created this hour (UTC) also migrated & were analyzed for narrative links. Strongest narratives (by bonded tokens & thematic pre-bond support): Pop Culture (score: 19), Abstract (score: 12), Animal (Other) (score: 10), Tech (score: 7) Top overall pre-bond categories this hour (after refinement): Pop Culture (130), Abstract (129), Other Meme (81)",
+  "detailed_bonded_token_analyses": [
+    {
+      "bonded_token_mint": "3niVhNzEVmU47ZTeFPm4m1nULFdbNjpVSvHQgVSspump",
+      "bonded_token_name": "Platypuscoin",
+      "bonded_token_symbol": "Platypus",
+      "bonded_token_final_category": "Animal (Other)",
+      "creation_timestamp_utc": "2025-05-21T05:10:30.326691+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T05:44:21.823019+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Animal (Other)",
+        "related_pre_bond_tokens_by_gpt": [
+          "JUICE - Jiankui Pet Dog (Category: Animal (Other))",
+          "goatondaza - goat on da za (Category: Animal (Other))",
+          "PikaMonkey - The viral  japanese  monkey (Category: Animal (Other))",
+          "pepinner - pepe dinner (Category: Animal (Other))",
+          " Pukekoku - Barred Owl Baby (Category: Animal (Other))",
+          " Manila - Cathy Tie's Dog (Category: Animal (Other))",
+          "GRMB - PUP BUTT LIGHT (Category: Animal (Other))",
+          "Xiong - Xiong (Category: Animal (Other))",
+          "Nialia - Mutant Bacteria (Category: Animal (Other))"
+        ],
+        "count_related_pre_bond_by_gpt": 9
+      }
+    },
+    {
+      "bonded_token_mint": "3EdPYrWUBqdrwQN4dtsuBt3d2kbGb9gKSAwZzkzZxurA",
+      "bonded_token_name": "wood",
+      "bonded_token_symbol": "WOOD",
+      "bonded_token_final_category": "Abstract",
+      "creation_timestamp_utc": "2025-05-21T05:18:19.523686+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T05:18:26.729214+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Abstract",
+        "related_pre_bond_tokens_by_gpt": [
+          "WOOD - Wood (Category: Abstract)",
+          "WOOD - Live Letter LXXXIII (Category: Pop Culture)",
+          "Wood - 😂 (Category: Abstract)",
+          "Artcoin - Artcoin (Category: Abstract)",
+          "BRO - The BRO Community (Category: Abstract)",
+          "test3 - test3 (Category: Abstract)",
+          "NEXT - Next (Category: Abstract)",
+          "gPQqFo - gPQqFo (Category: Abstract)",
+          "Kruog  - Kruog  (Category: Abstract)",
+          "WOOD - WOOD (Category: Tech)",
+          "10k - 10k candle (Category: Abstract)"
+        ],
+        "count_related_pre_bond_by_gpt": 11
+      }
+    },
+    {
+      "bonded_token_mint": "ESahcrgjrHDukrkx8Ggw8B554gwkCv8R59RR3Mmppump",
+      "bonded_token_name": "GENE",
+      "bonded_token_symbol": "GENE",
+      "bonded_token_final_category": "Tech",
+      "creation_timestamp_utc": "2025-05-21T05:21:19.632260+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T05:21:19.767933+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Tech",
+        "related_pre_bond_tokens_by_gpt": [
+          "InfoCom - Info Community (Category: Tech)",
+          "backcoin - backcoin (Category: Tech)",
+          "GENECOIN - GENECOIN (Category: Tech)",
+          "KRYPTONUTS - SuberMonCoin (Category: Tech)",
+          "GENECOIN - The Currency Of The Future (Category: Pop Culture)",
+          "SCIHUB - JIANKUI FIRST FUNDED SCIENCE (Category: Tech)"
+        ],
+        "count_related_pre_bond_by_gpt": 6
+      }
+    },
+    {
+      "bonded_token_mint": "4zpdtkifNh99zUPZ1tfvjAk5RvNGxhtkoBsHEeC2pump",
+      "bonded_token_name": "SENPAI SYNTH",
+      "bonded_token_symbol": "SYNTH",
+      "bonded_token_final_category": "Pop Culture",
+      "creation_timestamp_utc": "2025-05-21T05:53:00.422427+00:00",
+      "migration_event_data_snippet": {
+        "migration_timestamp_utc": "2025-05-21T05:53:00.651249+00:00",
+        "tx_type_if_present": "migrate"
+      },
+      "gpt_narrative_link_analysis": {
+        "final_target_token_theme_confirmation": "Pop Culture",
+        "related_pre_bond_tokens_by_gpt": [
+          "Docomo - the discontinued emoji (Category: Pop Culture)",
+          "EKM - EMPEROR KEKIUS MAXIMUS (Category: Pop Culture)",
+          "Adam R - RIP Adam Ramey (Category: Pop Culture)",
+          "GROK - grok (Category: Pop Culture)",
+          "Evie Pig - New Peppa Pig Family Member (Category: Pop Culture)",
+          "Peppa - Ghibli Peppa (Category: Pop Culture)",
+          "DATA - the most valuable asset (Category: Pop Culture)",
+          "ONIONS - THIS IS WORTH 1M (Category: Pop Culture)",
+          "datacoin - the new gold (Category: Pop Culture)",
+          "PET ROCK - NEW BITCOIN (Category: Pop Culture)",
+          "Cody - New Meme Rock 'Cody' (Category: Pop Culture)",
+          "Gake - Its Gake, From State Farm (Category: Pop Culture)",
+          "RPF - #RestorePumpFun (Category: Pop Culture)",
+          "SSS - Sakura School Simulator (Category: Pop Culture)",
+          "Housenka - Housenka (Category: Pop Culture)",
+          "Midcoin - Midcoin (Category: Pop Culture)",
+          "Sunsun - Sunsun the Puppet (Category: Pop Culture)",
+          "GENECOIN - The Currency Of The Future (Category: Pop Culture)"
+        ],
+        "count_related_pre_bond_by_gpt": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_timestamp": 1761762106,
+  "report_datetime_utc": "2025-10-29 18:21:46 UTC",
+  "parameters": {
+    "min_holders_for_correlation": 2,
+    "birdeye_filter_mints_count": 255,
+    "wallets_monitored_count": 170
+  },
+  "changed_wallets_balance_state": {},
+  "correlated_holdings_snapshot": [
+    {
+      "token_mint": "55xtnn1m8RAuf2GFimNEs7NJXg1AxJnra9C5948oCqi3",
+      "total_holders_in_set": 2,
+      "holding_wallets_in_set": [
+        "EpnxRntYb5n8stDuTaZGgTNQw4L6BSGUEY72q81ZD9eP",
+        "HVv69DFLyrizZQvL2ZqqLCW5DyiJeU8zVj2qUSHNm4uk"
+      ],
+      "holder_balances_uiAmount": {
+        "EpnxRntYb5n8stDuTaZGgTNQw4L6BSGUEY72q81ZD9eP": 0.0,
+        "HVv69DFLyrizZQvL2ZqqLCW5DyiJeU8zVj2qUSHNm4uk": 0.0
+      }
+    },
+    {
+      "token_mint": "8fu2zKDhyChwCy9oNQNqc44mZLH5Z37CCVu2iCWqWJKY",
+      "total_holders_in_set": 2,
+      "holding_wallets_in_set": [
+        "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+        "HuTshmtwcQkWBLzgW3m4uwcmik7Lmz4YFpYcTqMJpXiP"
+      ],
+      "holder_balances_uiAmount": {
+        "HuTshmtwcQkWBLzgW3m4uwcmik7Lmz4YFpYcTqMJpXiP": 0.0,
+        "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn": 0.0
+      }
+    }
+  ]
+}

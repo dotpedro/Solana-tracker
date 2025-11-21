@@ -1,0 +1,26 @@
+{
+  "report_timestamp": 1761763117,
+  "report_datetime_utc": "2025-10-29 18:38:37 UTC",
+  "parameters": {
+    "min_holders_for_correlation": 2,
+    "birdeye_filter_mints_count": 250,
+    "wallets_monitored_count": 170
+  },
+  "changed_wallets_balance_state": {
+    "HVv69DFLyrizZQvL2ZqqLCW5DyiJeU8zVj2qUSHNm4uk": {
+      "current": {},
+      "previous": {
+        "55xtnn1m8RAuf2GFimNEs7NJXg1AxJnra9C5948oCqi3": 7504730248
+      }
+    },
+    "EpnxRntYb5n8stDuTaZGgTNQw4L6BSGUEY72q81ZD9eP": {
+      "current": {},
+      "previous": {
+        "55xtnn1m8RAuf2GFimNEs7NJXg1AxJnra9C5948oCqi3": 6432360000
+      }
+    }
+  },
+  "correlated_holdings_snapshot": [],
+  "processor_run_timestamp": 1761763161,
+  "processor_schema_version": "1.4.1_birdeye_vol+security"
+}
